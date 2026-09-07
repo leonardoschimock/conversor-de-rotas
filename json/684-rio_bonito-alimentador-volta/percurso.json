@@ -1,0 +1,3789 @@
+{
+    "status": "success",
+    "coordenadasPercurso": [
+        {
+            "idcoordenadapercurso": 4652904,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.513098,
+            "longitude": -49.295245,
+            "ordem": 1
+        },
+        {
+            "idcoordenadapercurso": 4652905,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.513516,
+            "longitude": -49.295229,
+            "ordem": 2
+        },
+        {
+            "idcoordenadapercurso": 4652906,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.513516,
+            "longitude": -49.295569,
+            "ordem": 3
+        },
+        {
+            "idcoordenadapercurso": 4652907,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.513559,
+            "longitude": -49.295645,
+            "ordem": 4
+        },
+        {
+            "idcoordenadapercurso": 4652908,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.513596,
+            "longitude": -49.295733,
+            "ordem": 5
+        },
+        {
+            "idcoordenadapercurso": 4652909,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.513624,
+            "longitude": -49.295732,
+            "ordem": 6
+        },
+        {
+            "idcoordenadapercurso": 4652910,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.513664,
+            "longitude": -49.295729,
+            "ordem": 7
+        },
+        {
+            "idcoordenadapercurso": 4652911,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.513744,
+            "longitude": -49.295728,
+            "ordem": 8
+        },
+        {
+            "idcoordenadapercurso": 4652912,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.513946,
+            "longitude": -49.295722,
+            "ordem": 9
+        },
+        {
+            "idcoordenadapercurso": 4652913,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.514151,
+            "longitude": -49.295716,
+            "ordem": 10
+        },
+        {
+            "idcoordenadapercurso": 4652914,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.514311,
+            "longitude": -49.295711,
+            "ordem": 11
+        },
+        {
+            "idcoordenadapercurso": 4652915,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.514567,
+            "longitude": -49.295700,
+            "ordem": 12
+        },
+        {
+            "idcoordenadapercurso": 4652916,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.514807,
+            "longitude": -49.295690,
+            "ordem": 13
+        },
+        {
+            "idcoordenadapercurso": 4652917,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.514980,
+            "longitude": -49.295680,
+            "ordem": 14
+        },
+        {
+            "idcoordenadapercurso": 4652918,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.515148,
+            "longitude": -49.295691,
+            "ordem": 15
+        },
+        {
+            "idcoordenadapercurso": 4652919,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.515310,
+            "longitude": -49.295695,
+            "ordem": 16
+        },
+        {
+            "idcoordenadapercurso": 4652920,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.515451,
+            "longitude": -49.295699,
+            "ordem": 17
+        },
+        {
+            "idcoordenadapercurso": 4652921,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.515603,
+            "longitude": -49.295703,
+            "ordem": 18
+        },
+        {
+            "idcoordenadapercurso": 4652922,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.515721,
+            "longitude": -49.295706,
+            "ordem": 19
+        },
+        {
+            "idcoordenadapercurso": 4652923,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.515881,
+            "longitude": -49.295710,
+            "ordem": 20
+        },
+        {
+            "idcoordenadapercurso": 4652924,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.515982,
+            "longitude": -49.295711,
+            "ordem": 21
+        },
+        {
+            "idcoordenadapercurso": 4652925,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.516185,
+            "longitude": -49.295708,
+            "ordem": 22
+        },
+        {
+            "idcoordenadapercurso": 4652926,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.516399,
+            "longitude": -49.295704,
+            "ordem": 23
+        },
+        {
+            "idcoordenadapercurso": 4652927,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.516632,
+            "longitude": -49.295700,
+            "ordem": 24
+        },
+        {
+            "idcoordenadapercurso": 4652928,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.516836,
+            "longitude": -49.295696,
+            "ordem": 25
+        },
+        {
+            "idcoordenadapercurso": 4652929,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.517002,
+            "longitude": -49.295688,
+            "ordem": 26
+        },
+        {
+            "idcoordenadapercurso": 4652930,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.517133,
+            "longitude": -49.295682,
+            "ordem": 27
+        },
+        {
+            "idcoordenadapercurso": 4652931,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.517319,
+            "longitude": -49.295675,
+            "ordem": 28
+        },
+        {
+            "idcoordenadapercurso": 4652932,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.517520,
+            "longitude": -49.295665,
+            "ordem": 29
+        },
+        {
+            "idcoordenadapercurso": 4652933,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.517706,
+            "longitude": -49.295658,
+            "ordem": 30
+        },
+        {
+            "idcoordenadapercurso": 4652934,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.517942,
+            "longitude": -49.295659,
+            "ordem": 31
+        },
+        {
+            "idcoordenadapercurso": 4652935,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.518161,
+            "longitude": -49.295660,
+            "ordem": 32
+        },
+        {
+            "idcoordenadapercurso": 4652936,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.518380,
+            "longitude": -49.295660,
+            "ordem": 33
+        },
+        {
+            "idcoordenadapercurso": 4652937,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.518581,
+            "longitude": -49.295661,
+            "ordem": 34
+        },
+        {
+            "idcoordenadapercurso": 4652938,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.518836,
+            "longitude": -49.295655,
+            "ordem": 35
+        },
+        {
+            "idcoordenadapercurso": 4652939,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.519040,
+            "longitude": -49.295650,
+            "ordem": 36
+        },
+        {
+            "idcoordenadapercurso": 4652940,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.519391,
+            "longitude": -49.295644,
+            "ordem": 37
+        },
+        {
+            "idcoordenadapercurso": 4652941,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.519738,
+            "longitude": -49.295637,
+            "ordem": 38
+        },
+        {
+            "idcoordenadapercurso": 4652942,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.520060,
+            "longitude": -49.295630,
+            "ordem": 39
+        },
+        {
+            "idcoordenadapercurso": 4652943,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.520325,
+            "longitude": -49.295624,
+            "ordem": 40
+        },
+        {
+            "idcoordenadapercurso": 4652944,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.520530,
+            "longitude": -49.295621,
+            "ordem": 41
+        },
+        {
+            "idcoordenadapercurso": 4652945,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.520945,
+            "longitude": -49.295616,
+            "ordem": 42
+        },
+        {
+            "idcoordenadapercurso": 4652946,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.521175,
+            "longitude": -49.295613,
+            "ordem": 43
+        },
+        {
+            "idcoordenadapercurso": 4652947,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.521589,
+            "longitude": -49.295599,
+            "ordem": 44
+        },
+        {
+            "idcoordenadapercurso": 4652948,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.521877,
+            "longitude": -49.295590,
+            "ordem": 45
+        },
+        {
+            "idcoordenadapercurso": 4652949,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.522076,
+            "longitude": -49.295584,
+            "ordem": 46
+        },
+        {
+            "idcoordenadapercurso": 4652950,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.522231,
+            "longitude": -49.295587,
+            "ordem": 47
+        },
+        {
+            "idcoordenadapercurso": 4652951,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.522339,
+            "longitude": -49.295594,
+            "ordem": 48
+        },
+        {
+            "idcoordenadapercurso": 4652952,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.522458,
+            "longitude": -49.295613,
+            "ordem": 49
+        },
+        {
+            "idcoordenadapercurso": 4652953,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.522589,
+            "longitude": -49.295642,
+            "ordem": 50
+        },
+        {
+            "idcoordenadapercurso": 4652954,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.522725,
+            "longitude": -49.295688,
+            "ordem": 51
+        },
+        {
+            "idcoordenadapercurso": 4652955,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.522840,
+            "longitude": -49.295739,
+            "ordem": 52
+        },
+        {
+            "idcoordenadapercurso": 4652956,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.523103,
+            "longitude": -49.295868,
+            "ordem": 53
+        },
+        {
+            "idcoordenadapercurso": 4652957,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.523232,
+            "longitude": -49.295945,
+            "ordem": 54
+        },
+        {
+            "idcoordenadapercurso": 4652958,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.523484,
+            "longitude": -49.296098,
+            "ordem": 55
+        },
+        {
+            "idcoordenadapercurso": 4652959,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.523656,
+            "longitude": -49.296202,
+            "ordem": 56
+        },
+        {
+            "idcoordenadapercurso": 4652960,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.523833,
+            "longitude": -49.296300,
+            "ordem": 57
+        },
+        {
+            "idcoordenadapercurso": 4652961,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.523976,
+            "longitude": -49.296387,
+            "ordem": 58
+        },
+        {
+            "idcoordenadapercurso": 4652962,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.524060,
+            "longitude": -49.296435,
+            "ordem": 59
+        },
+        {
+            "idcoordenadapercurso": 4652963,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.524410,
+            "longitude": -49.296637,
+            "ordem": 60
+        },
+        {
+            "idcoordenadapercurso": 4652964,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.524562,
+            "longitude": -49.296724,
+            "ordem": 61
+        },
+        {
+            "idcoordenadapercurso": 4652965,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.524699,
+            "longitude": -49.296810,
+            "ordem": 62
+        },
+        {
+            "idcoordenadapercurso": 4652966,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.524953,
+            "longitude": -49.296977,
+            "ordem": 63
+        },
+        {
+            "idcoordenadapercurso": 4652967,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.525198,
+            "longitude": -49.297138,
+            "ordem": 64
+        },
+        {
+            "idcoordenadapercurso": 4652968,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.525571,
+            "longitude": -49.297382,
+            "ordem": 65
+        },
+        {
+            "idcoordenadapercurso": 4652969,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.525952,
+            "longitude": -49.297617,
+            "ordem": 66
+        },
+        {
+            "idcoordenadapercurso": 4652970,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.526319,
+            "longitude": -49.297842,
+            "ordem": 67
+        },
+        {
+            "idcoordenadapercurso": 4652971,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.526609,
+            "longitude": -49.298021,
+            "ordem": 68
+        },
+        {
+            "idcoordenadapercurso": 4652972,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.526763,
+            "longitude": -49.298114,
+            "ordem": 69
+        },
+        {
+            "idcoordenadapercurso": 4652973,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.526955,
+            "longitude": -49.298223,
+            "ordem": 70
+        },
+        {
+            "idcoordenadapercurso": 4652974,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.527117,
+            "longitude": -49.298315,
+            "ordem": 71
+        },
+        {
+            "idcoordenadapercurso": 4652975,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.527479,
+            "longitude": -49.298524,
+            "ordem": 72
+        },
+        {
+            "idcoordenadapercurso": 4652976,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.527794,
+            "longitude": -49.298710,
+            "ordem": 73
+        },
+        {
+            "idcoordenadapercurso": 4652977,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.527953,
+            "longitude": -49.298773,
+            "ordem": 74
+        },
+        {
+            "idcoordenadapercurso": 4652978,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.528165,
+            "longitude": -49.298854,
+            "ordem": 75
+        },
+        {
+            "idcoordenadapercurso": 4652979,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.528721,
+            "longitude": -49.299074,
+            "ordem": 76
+        },
+        {
+            "idcoordenadapercurso": 4652980,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.528979,
+            "longitude": -49.299175,
+            "ordem": 77
+        },
+        {
+            "idcoordenadapercurso": 4652981,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.529176,
+            "longitude": -49.299245,
+            "ordem": 78
+        },
+        {
+            "idcoordenadapercurso": 4652982,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.529378,
+            "longitude": -49.299317,
+            "ordem": 79
+        },
+        {
+            "idcoordenadapercurso": 4652983,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.529751,
+            "longitude": -49.299453,
+            "ordem": 80
+        },
+        {
+            "idcoordenadapercurso": 4652984,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.530014,
+            "longitude": -49.299546,
+            "ordem": 81
+        },
+        {
+            "idcoordenadapercurso": 4652985,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.530301,
+            "longitude": -49.299650,
+            "ordem": 82
+        },
+        {
+            "idcoordenadapercurso": 4652986,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.530517,
+            "longitude": -49.299727,
+            "ordem": 83
+        },
+        {
+            "idcoordenadapercurso": 4652987,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.531013,
+            "longitude": -49.299900,
+            "ordem": 84
+        },
+        {
+            "idcoordenadapercurso": 4652988,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.531239,
+            "longitude": -49.299994,
+            "ordem": 85
+        },
+        {
+            "idcoordenadapercurso": 4652989,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.531452,
+            "longitude": -49.300081,
+            "ordem": 86
+        },
+        {
+            "idcoordenadapercurso": 4652990,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.531644,
+            "longitude": -49.300162,
+            "ordem": 87
+        },
+        {
+            "idcoordenadapercurso": 4652991,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.531840,
+            "longitude": -49.300242,
+            "ordem": 88
+        },
+        {
+            "idcoordenadapercurso": 4652992,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.532034,
+            "longitude": -49.300322,
+            "ordem": 89
+        },
+        {
+            "idcoordenadapercurso": 4652993,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.532245,
+            "longitude": -49.300404,
+            "ordem": 90
+        },
+        {
+            "idcoordenadapercurso": 4652994,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.532652,
+            "longitude": -49.300560,
+            "ordem": 91
+        },
+        {
+            "idcoordenadapercurso": 4652995,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.532846,
+            "longitude": -49.300636,
+            "ordem": 92
+        },
+        {
+            "idcoordenadapercurso": 4652996,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.533046,
+            "longitude": -49.300711,
+            "ordem": 93
+        },
+        {
+            "idcoordenadapercurso": 4652997,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.533265,
+            "longitude": -49.300796,
+            "ordem": 94
+        },
+        {
+            "idcoordenadapercurso": 4652998,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.533545,
+            "longitude": -49.300905,
+            "ordem": 95
+        },
+        {
+            "idcoordenadapercurso": 4652999,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.533717,
+            "longitude": -49.300973,
+            "ordem": 96
+        },
+        {
+            "idcoordenadapercurso": 4653000,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.533935,
+            "longitude": -49.301060,
+            "ordem": 97
+        },
+        {
+            "idcoordenadapercurso": 4653001,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.534159,
+            "longitude": -49.301145,
+            "ordem": 98
+        },
+        {
+            "idcoordenadapercurso": 4653002,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.534327,
+            "longitude": -49.301211,
+            "ordem": 99
+        },
+        {
+            "idcoordenadapercurso": 4653003,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.534481,
+            "longitude": -49.301269,
+            "ordem": 100
+        },
+        {
+            "idcoordenadapercurso": 4653004,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.534627,
+            "longitude": -49.301275,
+            "ordem": 101
+        },
+        {
+            "idcoordenadapercurso": 4653005,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.534683,
+            "longitude": -49.301277,
+            "ordem": 102
+        },
+        {
+            "idcoordenadapercurso": 4653006,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.534755,
+            "longitude": -49.301303,
+            "ordem": 103
+        },
+        {
+            "idcoordenadapercurso": 4653007,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.534834,
+            "longitude": -49.301324,
+            "ordem": 104
+        },
+        {
+            "idcoordenadapercurso": 4653008,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.534912,
+            "longitude": -49.301338,
+            "ordem": 105
+        },
+        {
+            "idcoordenadapercurso": 4653009,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.534962,
+            "longitude": -49.301339,
+            "ordem": 106
+        },
+        {
+            "idcoordenadapercurso": 4653010,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.535101,
+            "longitude": -49.301328,
+            "ordem": 107
+        },
+        {
+            "idcoordenadapercurso": 4653011,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.535226,
+            "longitude": -49.301320,
+            "ordem": 108
+        },
+        {
+            "idcoordenadapercurso": 4653012,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.535359,
+            "longitude": -49.301303,
+            "ordem": 109
+        },
+        {
+            "idcoordenadapercurso": 4653013,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.535633,
+            "longitude": -49.301261,
+            "ordem": 110
+        },
+        {
+            "idcoordenadapercurso": 4653014,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.535831,
+            "longitude": -49.301307,
+            "ordem": 111
+        },
+        {
+            "idcoordenadapercurso": 4653015,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.535975,
+            "longitude": -49.301337,
+            "ordem": 112
+        },
+        {
+            "idcoordenadapercurso": 4653016,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.536146,
+            "longitude": -49.301374,
+            "ordem": 113
+        },
+        {
+            "idcoordenadapercurso": 4653017,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.536370,
+            "longitude": -49.301424,
+            "ordem": 114
+        },
+        {
+            "idcoordenadapercurso": 4653018,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.536656,
+            "longitude": -49.301487,
+            "ordem": 115
+        },
+        {
+            "idcoordenadapercurso": 4653019,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.536783,
+            "longitude": -49.301515,
+            "ordem": 116
+        },
+        {
+            "idcoordenadapercurso": 4653020,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.536906,
+            "longitude": -49.301545,
+            "ordem": 117
+        },
+        {
+            "idcoordenadapercurso": 4653021,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.537112,
+            "longitude": -49.301598,
+            "ordem": 118
+        },
+        {
+            "idcoordenadapercurso": 4653022,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.537294,
+            "longitude": -49.301644,
+            "ordem": 119
+        },
+        {
+            "idcoordenadapercurso": 4653023,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.537676,
+            "longitude": -49.301740,
+            "ordem": 120
+        },
+        {
+            "idcoordenadapercurso": 4653024,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.537911,
+            "longitude": -49.301797,
+            "ordem": 121
+        },
+        {
+            "idcoordenadapercurso": 4653025,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.538183,
+            "longitude": -49.301859,
+            "ordem": 122
+        },
+        {
+            "idcoordenadapercurso": 4653026,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.538385,
+            "longitude": -49.301907,
+            "ordem": 123
+        },
+        {
+            "idcoordenadapercurso": 4653027,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.538583,
+            "longitude": -49.301954,
+            "ordem": 124
+        },
+        {
+            "idcoordenadapercurso": 4653028,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.538816,
+            "longitude": -49.302008,
+            "ordem": 125
+        },
+        {
+            "idcoordenadapercurso": 4653029,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.538875,
+            "longitude": -49.302025,
+            "ordem": 126
+        },
+        {
+            "idcoordenadapercurso": 4653030,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.538988,
+            "longitude": -49.302061,
+            "ordem": 127
+        },
+        {
+            "idcoordenadapercurso": 4653031,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.539250,
+            "longitude": -49.302150,
+            "ordem": 128
+        },
+        {
+            "idcoordenadapercurso": 4653032,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.539503,
+            "longitude": -49.302233,
+            "ordem": 129
+        },
+        {
+            "idcoordenadapercurso": 4653033,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.539747,
+            "longitude": -49.302307,
+            "ordem": 130
+        },
+        {
+            "idcoordenadapercurso": 4653034,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.539854,
+            "longitude": -49.302342,
+            "ordem": 131
+        },
+        {
+            "idcoordenadapercurso": 4653035,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.539939,
+            "longitude": -49.302361,
+            "ordem": 132
+        },
+        {
+            "idcoordenadapercurso": 4653036,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.540145,
+            "longitude": -49.302411,
+            "ordem": 133
+        },
+        {
+            "idcoordenadapercurso": 4653037,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.540371,
+            "longitude": -49.302462,
+            "ordem": 134
+        },
+        {
+            "idcoordenadapercurso": 4653038,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.540588,
+            "longitude": -49.302512,
+            "ordem": 135
+        },
+        {
+            "idcoordenadapercurso": 4653039,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.540947,
+            "longitude": -49.302595,
+            "ordem": 136
+        },
+        {
+            "idcoordenadapercurso": 4653040,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.541118,
+            "longitude": -49.302636,
+            "ordem": 137
+        },
+        {
+            "idcoordenadapercurso": 4653041,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.541389,
+            "longitude": -49.302699,
+            "ordem": 138
+        },
+        {
+            "idcoordenadapercurso": 4653042,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.541646,
+            "longitude": -49.302760,
+            "ordem": 139
+        },
+        {
+            "idcoordenadapercurso": 4653043,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.542124,
+            "longitude": -49.302871,
+            "ordem": 140
+        },
+        {
+            "idcoordenadapercurso": 4653044,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.542531,
+            "longitude": -49.302967,
+            "ordem": 141
+        },
+        {
+            "idcoordenadapercurso": 4653045,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.542934,
+            "longitude": -49.303067,
+            "ordem": 142
+        },
+        {
+            "idcoordenadapercurso": 4653046,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.543160,
+            "longitude": -49.303125,
+            "ordem": 143
+        },
+        {
+            "idcoordenadapercurso": 4653047,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.543315,
+            "longitude": -49.303164,
+            "ordem": 144
+        },
+        {
+            "idcoordenadapercurso": 4653048,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.543686,
+            "longitude": -49.303257,
+            "ordem": 145
+        },
+        {
+            "idcoordenadapercurso": 4653049,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.543860,
+            "longitude": -49.303298,
+            "ordem": 146
+        },
+        {
+            "idcoordenadapercurso": 4653050,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.544034,
+            "longitude": -49.303336,
+            "ordem": 147
+        },
+        {
+            "idcoordenadapercurso": 4653051,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.544216,
+            "longitude": -49.303382,
+            "ordem": 148
+        },
+        {
+            "idcoordenadapercurso": 4653052,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.544290,
+            "longitude": -49.303401,
+            "ordem": 149
+        },
+        {
+            "idcoordenadapercurso": 4653053,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.544375,
+            "longitude": -49.303420,
+            "ordem": 150
+        },
+        {
+            "idcoordenadapercurso": 4653054,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.544561,
+            "longitude": -49.303465,
+            "ordem": 151
+        },
+        {
+            "idcoordenadapercurso": 4653055,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.544733,
+            "longitude": -49.303508,
+            "ordem": 152
+        },
+        {
+            "idcoordenadapercurso": 4653056,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.544907,
+            "longitude": -49.303546,
+            "ordem": 153
+        },
+        {
+            "idcoordenadapercurso": 4653057,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.545097,
+            "longitude": -49.303591,
+            "ordem": 154
+        },
+        {
+            "idcoordenadapercurso": 4653058,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.545276,
+            "longitude": -49.303634,
+            "ordem": 155
+        },
+        {
+            "idcoordenadapercurso": 4653059,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.545501,
+            "longitude": -49.303689,
+            "ordem": 156
+        },
+        {
+            "idcoordenadapercurso": 4653060,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.545680,
+            "longitude": -49.303733,
+            "ordem": 157
+        },
+        {
+            "idcoordenadapercurso": 4653061,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.545891,
+            "longitude": -49.303785,
+            "ordem": 158
+        },
+        {
+            "idcoordenadapercurso": 4653062,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.546077,
+            "longitude": -49.303830,
+            "ordem": 159
+        },
+        {
+            "idcoordenadapercurso": 4653063,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.546292,
+            "longitude": -49.303881,
+            "ordem": 160
+        },
+        {
+            "idcoordenadapercurso": 4653064,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.546529,
+            "longitude": -49.303941,
+            "ordem": 161
+        },
+        {
+            "idcoordenadapercurso": 4653065,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.546798,
+            "longitude": -49.304000,
+            "ordem": 162
+        },
+        {
+            "idcoordenadapercurso": 4653066,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.547013,
+            "longitude": -49.304051,
+            "ordem": 163
+        },
+        {
+            "idcoordenadapercurso": 4653067,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.547181,
+            "longitude": -49.304087,
+            "ordem": 164
+        },
+        {
+            "idcoordenadapercurso": 4653068,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.547338,
+            "longitude": -49.304179,
+            "ordem": 165
+        },
+        {
+            "idcoordenadapercurso": 4653069,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.547490,
+            "longitude": -49.304252,
+            "ordem": 166
+        },
+        {
+            "idcoordenadapercurso": 4653070,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.547647,
+            "longitude": -49.304300,
+            "ordem": 167
+        },
+        {
+            "idcoordenadapercurso": 4653071,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.547808,
+            "longitude": -49.304355,
+            "ordem": 168
+        },
+        {
+            "idcoordenadapercurso": 4653072,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.547928,
+            "longitude": -49.304385,
+            "ordem": 169
+        },
+        {
+            "idcoordenadapercurso": 4653073,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.548194,
+            "longitude": -49.304498,
+            "ordem": 170
+        },
+        {
+            "idcoordenadapercurso": 4653074,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.548302,
+            "longitude": -49.304517,
+            "ordem": 171
+        },
+        {
+            "idcoordenadapercurso": 4653075,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.548556,
+            "longitude": -49.304568,
+            "ordem": 172
+        },
+        {
+            "idcoordenadapercurso": 4653076,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.548773,
+            "longitude": -49.304610,
+            "ordem": 173
+        },
+        {
+            "idcoordenadapercurso": 4653077,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.549042,
+            "longitude": -49.304667,
+            "ordem": 174
+        },
+        {
+            "idcoordenadapercurso": 4653078,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.549335,
+            "longitude": -49.304741,
+            "ordem": 175
+        },
+        {
+            "idcoordenadapercurso": 4653079,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.549592,
+            "longitude": -49.304806,
+            "ordem": 176
+        },
+        {
+            "idcoordenadapercurso": 4653080,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.549780,
+            "longitude": -49.304846,
+            "ordem": 177
+        },
+        {
+            "idcoordenadapercurso": 4653081,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.549938,
+            "longitude": -49.304877,
+            "ordem": 178
+        },
+        {
+            "idcoordenadapercurso": 4653082,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.550074,
+            "longitude": -49.304910,
+            "ordem": 179
+        },
+        {
+            "idcoordenadapercurso": 4653083,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.550256,
+            "longitude": -49.304958,
+            "ordem": 180
+        },
+        {
+            "idcoordenadapercurso": 4653084,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.550335,
+            "longitude": -49.304977,
+            "ordem": 181
+        },
+        {
+            "idcoordenadapercurso": 4653085,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.550406,
+            "longitude": -49.304994,
+            "ordem": 182
+        },
+        {
+            "idcoordenadapercurso": 4653086,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.550616,
+            "longitude": -49.305048,
+            "ordem": 183
+        },
+        {
+            "idcoordenadapercurso": 4653087,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.550817,
+            "longitude": -49.305096,
+            "ordem": 184
+        },
+        {
+            "idcoordenadapercurso": 4653088,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.550966,
+            "longitude": -49.305135,
+            "ordem": 185
+        },
+        {
+            "idcoordenadapercurso": 4653089,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.551139,
+            "longitude": -49.305178,
+            "ordem": 186
+        },
+        {
+            "idcoordenadapercurso": 4653090,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.551330,
+            "longitude": -49.305228,
+            "ordem": 187
+        },
+        {
+            "idcoordenadapercurso": 4653091,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.551580,
+            "longitude": -49.305289,
+            "ordem": 188
+        },
+        {
+            "idcoordenadapercurso": 4653092,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.551876,
+            "longitude": -49.305365,
+            "ordem": 189
+        },
+        {
+            "idcoordenadapercurso": 4653093,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.552027,
+            "longitude": -49.305402,
+            "ordem": 190
+        },
+        {
+            "idcoordenadapercurso": 4653094,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.552347,
+            "longitude": -49.305472,
+            "ordem": 191
+        },
+        {
+            "idcoordenadapercurso": 4653095,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.552477,
+            "longitude": -49.305501,
+            "ordem": 192
+        },
+        {
+            "idcoordenadapercurso": 4653096,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.552715,
+            "longitude": -49.305562,
+            "ordem": 193
+        },
+        {
+            "idcoordenadapercurso": 4653097,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.552920,
+            "longitude": -49.305613,
+            "ordem": 194
+        },
+        {
+            "idcoordenadapercurso": 4653098,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.553003,
+            "longitude": -49.305633,
+            "ordem": 195
+        },
+        {
+            "idcoordenadapercurso": 4653099,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.553385,
+            "longitude": -49.305729,
+            "ordem": 196
+        },
+        {
+            "idcoordenadapercurso": 4653100,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.553506,
+            "longitude": -49.305761,
+            "ordem": 197
+        },
+        {
+            "idcoordenadapercurso": 4653101,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.553679,
+            "longitude": -49.305808,
+            "ordem": 198
+        },
+        {
+            "idcoordenadapercurso": 4653102,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.553910,
+            "longitude": -49.305868,
+            "ordem": 199
+        },
+        {
+            "idcoordenadapercurso": 4653103,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.554172,
+            "longitude": -49.305928,
+            "ordem": 200
+        },
+        {
+            "idcoordenadapercurso": 4653104,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.554384,
+            "longitude": -49.305977,
+            "ordem": 201
+        },
+        {
+            "idcoordenadapercurso": 4653105,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.554494,
+            "longitude": -49.306004,
+            "ordem": 202
+        },
+        {
+            "idcoordenadapercurso": 4653106,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.554733,
+            "longitude": -49.306058,
+            "ordem": 203
+        },
+        {
+            "idcoordenadapercurso": 4653107,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.554835,
+            "longitude": -49.306079,
+            "ordem": 204
+        },
+        {
+            "idcoordenadapercurso": 4653108,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.555020,
+            "longitude": -49.306121,
+            "ordem": 205
+        },
+        {
+            "idcoordenadapercurso": 4653109,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.555109,
+            "longitude": -49.306140,
+            "ordem": 206
+        },
+        {
+            "idcoordenadapercurso": 4653110,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.555184,
+            "longitude": -49.306153,
+            "ordem": 207
+        },
+        {
+            "idcoordenadapercurso": 4653111,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.555280,
+            "longitude": -49.306172,
+            "ordem": 208
+        },
+        {
+            "idcoordenadapercurso": 4653112,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.555421,
+            "longitude": -49.306199,
+            "ordem": 209
+        },
+        {
+            "idcoordenadapercurso": 4653113,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.555520,
+            "longitude": -49.306221,
+            "ordem": 210
+        },
+        {
+            "idcoordenadapercurso": 4653114,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.555676,
+            "longitude": -49.306251,
+            "ordem": 211
+        },
+        {
+            "idcoordenadapercurso": 4653115,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.555872,
+            "longitude": -49.306296,
+            "ordem": 212
+        },
+        {
+            "idcoordenadapercurso": 4653116,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.556009,
+            "longitude": -49.306331,
+            "ordem": 213
+        },
+        {
+            "idcoordenadapercurso": 4653117,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.556131,
+            "longitude": -49.306361,
+            "ordem": 214
+        },
+        {
+            "idcoordenadapercurso": 4653118,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.556245,
+            "longitude": -49.306387,
+            "ordem": 215
+        },
+        {
+            "idcoordenadapercurso": 4653119,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.556399,
+            "longitude": -49.306424,
+            "ordem": 216
+        },
+        {
+            "idcoordenadapercurso": 4653120,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.556605,
+            "longitude": -49.306473,
+            "ordem": 217
+        },
+        {
+            "idcoordenadapercurso": 4653121,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.556790,
+            "longitude": -49.306518,
+            "ordem": 218
+        },
+        {
+            "idcoordenadapercurso": 4653122,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.557135,
+            "longitude": -49.306601,
+            "ordem": 219
+        },
+        {
+            "idcoordenadapercurso": 4653123,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.557363,
+            "longitude": -49.306656,
+            "ordem": 220
+        },
+        {
+            "idcoordenadapercurso": 4653124,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.557570,
+            "longitude": -49.306697,
+            "ordem": 221
+        },
+        {
+            "idcoordenadapercurso": 4653125,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.557764,
+            "longitude": -49.306748,
+            "ordem": 222
+        },
+        {
+            "idcoordenadapercurso": 4653126,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.557882,
+            "longitude": -49.306778,
+            "ordem": 223
+        },
+        {
+            "idcoordenadapercurso": 4653127,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.558032,
+            "longitude": -49.306818,
+            "ordem": 224
+        },
+        {
+            "idcoordenadapercurso": 4653128,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.558245,
+            "longitude": -49.306874,
+            "ordem": 225
+        },
+        {
+            "idcoordenadapercurso": 4653129,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.558376,
+            "longitude": -49.306909,
+            "ordem": 226
+        },
+        {
+            "idcoordenadapercurso": 4653130,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.558529,
+            "longitude": -49.306949,
+            "ordem": 227
+        },
+        {
+            "idcoordenadapercurso": 4653131,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.558634,
+            "longitude": -49.306976,
+            "ordem": 228
+        },
+        {
+            "idcoordenadapercurso": 4653132,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.558768,
+            "longitude": -49.307013,
+            "ordem": 229
+        },
+        {
+            "idcoordenadapercurso": 4653133,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.558993,
+            "longitude": -49.307071,
+            "ordem": 230
+        },
+        {
+            "idcoordenadapercurso": 4653134,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.559116,
+            "longitude": -49.307103,
+            "ordem": 231
+        },
+        {
+            "idcoordenadapercurso": 4653135,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.559265,
+            "longitude": -49.307142,
+            "ordem": 232
+        },
+        {
+            "idcoordenadapercurso": 4653136,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.559453,
+            "longitude": -49.307185,
+            "ordem": 233
+        },
+        {
+            "idcoordenadapercurso": 4653137,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.559530,
+            "longitude": -49.307225,
+            "ordem": 234
+        },
+        {
+            "idcoordenadapercurso": 4653138,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.559689,
+            "longitude": -49.307314,
+            "ordem": 235
+        },
+        {
+            "idcoordenadapercurso": 4653139,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.559814,
+            "longitude": -49.307384,
+            "ordem": 236
+        },
+        {
+            "idcoordenadapercurso": 4653140,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.560011,
+            "longitude": -49.307492,
+            "ordem": 237
+        },
+        {
+            "idcoordenadapercurso": 4653141,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.560098,
+            "longitude": -49.307542,
+            "ordem": 238
+        },
+        {
+            "idcoordenadapercurso": 4653142,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.560236,
+            "longitude": -49.307620,
+            "ordem": 239
+        },
+        {
+            "idcoordenadapercurso": 4653143,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.560409,
+            "longitude": -49.307710,
+            "ordem": 240
+        },
+        {
+            "idcoordenadapercurso": 4653144,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.560563,
+            "longitude": -49.307775,
+            "ordem": 241
+        },
+        {
+            "idcoordenadapercurso": 4653145,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.560705,
+            "longitude": -49.307831,
+            "ordem": 242
+        },
+        {
+            "idcoordenadapercurso": 4653146,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.560841,
+            "longitude": -49.307889,
+            "ordem": 243
+        },
+        {
+            "idcoordenadapercurso": 4653147,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.561096,
+            "longitude": -49.307985,
+            "ordem": 244
+        },
+        {
+            "idcoordenadapercurso": 4653148,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.561235,
+            "longitude": -49.308036,
+            "ordem": 245
+        },
+        {
+            "idcoordenadapercurso": 4653149,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.561404,
+            "longitude": -49.308091,
+            "ordem": 246
+        },
+        {
+            "idcoordenadapercurso": 4653150,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.561631,
+            "longitude": -49.308163,
+            "ordem": 247
+        },
+        {
+            "idcoordenadapercurso": 4653151,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.561818,
+            "longitude": -49.308224,
+            "ordem": 248
+        },
+        {
+            "idcoordenadapercurso": 4653152,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.561988,
+            "longitude": -49.308278,
+            "ordem": 249
+        },
+        {
+            "idcoordenadapercurso": 4653153,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.562097,
+            "longitude": -49.308310,
+            "ordem": 250
+        },
+        {
+            "idcoordenadapercurso": 4653154,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.562353,
+            "longitude": -49.308382,
+            "ordem": 251
+        },
+        {
+            "idcoordenadapercurso": 4653155,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.562562,
+            "longitude": -49.308440,
+            "ordem": 252
+        },
+        {
+            "idcoordenadapercurso": 4653156,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.562772,
+            "longitude": -49.308499,
+            "ordem": 253
+        },
+        {
+            "idcoordenadapercurso": 4653157,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.562944,
+            "longitude": -49.308545,
+            "ordem": 254
+        },
+        {
+            "idcoordenadapercurso": 4653158,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563127,
+            "longitude": -49.308594,
+            "ordem": 255
+        },
+        {
+            "idcoordenadapercurso": 4653159,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563306,
+            "longitude": -49.308639,
+            "ordem": 256
+        },
+        {
+            "idcoordenadapercurso": 4653160,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563396,
+            "longitude": -49.308777,
+            "ordem": 257
+        },
+        {
+            "idcoordenadapercurso": 4653161,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563435,
+            "longitude": -49.308848,
+            "ordem": 258
+        },
+        {
+            "idcoordenadapercurso": 4653162,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563465,
+            "longitude": -49.308936,
+            "ordem": 259
+        },
+        {
+            "idcoordenadapercurso": 4653163,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563497,
+            "longitude": -49.309103,
+            "ordem": 260
+        },
+        {
+            "idcoordenadapercurso": 4653164,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563489,
+            "longitude": -49.309213,
+            "ordem": 261
+        },
+        {
+            "idcoordenadapercurso": 4653165,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563455,
+            "longitude": -49.309720,
+            "ordem": 262
+        },
+        {
+            "idcoordenadapercurso": 4653166,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563414,
+            "longitude": -49.310265,
+            "ordem": 263
+        },
+        {
+            "idcoordenadapercurso": 4653167,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563413,
+            "longitude": -49.310360,
+            "ordem": 264
+        },
+        {
+            "idcoordenadapercurso": 4653168,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563382,
+            "longitude": -49.310832,
+            "ordem": 265
+        },
+        {
+            "idcoordenadapercurso": 4653169,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563335,
+            "longitude": -49.311539,
+            "ordem": 266
+        },
+        {
+            "idcoordenadapercurso": 4653170,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563287,
+            "longitude": -49.312185,
+            "ordem": 267
+        },
+        {
+            "idcoordenadapercurso": 4653171,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563242,
+            "longitude": -49.312821,
+            "ordem": 268
+        },
+        {
+            "idcoordenadapercurso": 4653172,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563150,
+            "longitude": -49.313977,
+            "ordem": 269
+        },
+        {
+            "idcoordenadapercurso": 4653173,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563104,
+            "longitude": -49.314691,
+            "ordem": 270
+        },
+        {
+            "idcoordenadapercurso": 4653174,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563060,
+            "longitude": -49.315389,
+            "ordem": 271
+        },
+        {
+            "idcoordenadapercurso": 4653175,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563159,
+            "longitude": -49.315410,
+            "ordem": 272
+        },
+        {
+            "idcoordenadapercurso": 4653176,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563273,
+            "longitude": -49.315433,
+            "ordem": 273
+        },
+        {
+            "idcoordenadapercurso": 4653177,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563399,
+            "longitude": -49.315456,
+            "ordem": 274
+        },
+        {
+            "idcoordenadapercurso": 4653178,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563527,
+            "longitude": -49.315483,
+            "ordem": 275
+        },
+        {
+            "idcoordenadapercurso": 4653179,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563628,
+            "longitude": -49.315488,
+            "ordem": 276
+        },
+        {
+            "idcoordenadapercurso": 4653180,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563724,
+            "longitude": -49.315492,
+            "ordem": 277
+        },
+        {
+            "idcoordenadapercurso": 4653181,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563862,
+            "longitude": -49.315487,
+            "ordem": 278
+        },
+        {
+            "idcoordenadapercurso": 4653182,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.563959,
+            "longitude": -49.315475,
+            "ordem": 279
+        },
+        {
+            "idcoordenadapercurso": 4653183,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.564072,
+            "longitude": -49.315441,
+            "ordem": 280
+        },
+        {
+            "idcoordenadapercurso": 4653184,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.564173,
+            "longitude": -49.315407,
+            "ordem": 281
+        },
+        {
+            "idcoordenadapercurso": 4653185,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.564307,
+            "longitude": -49.315335,
+            "ordem": 282
+        },
+        {
+            "idcoordenadapercurso": 4653186,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.564377,
+            "longitude": -49.315287,
+            "ordem": 283
+        },
+        {
+            "idcoordenadapercurso": 4653187,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.564467,
+            "longitude": -49.315223,
+            "ordem": 284
+        },
+        {
+            "idcoordenadapercurso": 4653188,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.564559,
+            "longitude": -49.315194,
+            "ordem": 285
+        },
+        {
+            "idcoordenadapercurso": 4653189,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.564654,
+            "longitude": -49.315170,
+            "ordem": 286
+        },
+        {
+            "idcoordenadapercurso": 4653190,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.564722,
+            "longitude": -49.315163,
+            "ordem": 287
+        },
+        {
+            "idcoordenadapercurso": 4653191,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.564892,
+            "longitude": -49.315153,
+            "ordem": 288
+        },
+        {
+            "idcoordenadapercurso": 4653192,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.565051,
+            "longitude": -49.315150,
+            "ordem": 289
+        },
+        {
+            "idcoordenadapercurso": 4653193,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.565216,
+            "longitude": -49.315118,
+            "ordem": 290
+        },
+        {
+            "idcoordenadapercurso": 4653194,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.565303,
+            "longitude": -49.315090,
+            "ordem": 291
+        },
+        {
+            "idcoordenadapercurso": 4653195,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.565369,
+            "longitude": -49.315056,
+            "ordem": 292
+        },
+        {
+            "idcoordenadapercurso": 4653196,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.565423,
+            "longitude": -49.315023,
+            "ordem": 293
+        },
+        {
+            "idcoordenadapercurso": 4653197,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.565506,
+            "longitude": -49.314965,
+            "ordem": 294
+        },
+        {
+            "idcoordenadapercurso": 4653198,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.565603,
+            "longitude": -49.314890,
+            "ordem": 295
+        },
+        {
+            "idcoordenadapercurso": 4653199,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.565790,
+            "longitude": -49.314752,
+            "ordem": 296
+        },
+        {
+            "idcoordenadapercurso": 4653200,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.565933,
+            "longitude": -49.314646,
+            "ordem": 297
+        },
+        {
+            "idcoordenadapercurso": 4653201,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566116,
+            "longitude": -49.314610,
+            "ordem": 298
+        },
+        {
+            "idcoordenadapercurso": 4653202,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566175,
+            "longitude": -49.314603,
+            "ordem": 299
+        },
+        {
+            "idcoordenadapercurso": 4653203,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566230,
+            "longitude": -49.314601,
+            "ordem": 300
+        },
+        {
+            "idcoordenadapercurso": 4653204,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566308,
+            "longitude": -49.314596,
+            "ordem": 301
+        },
+        {
+            "idcoordenadapercurso": 4653205,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566459,
+            "longitude": -49.314611,
+            "ordem": 302
+        },
+        {
+            "idcoordenadapercurso": 4653206,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566616,
+            "longitude": -49.314628,
+            "ordem": 303
+        },
+        {
+            "idcoordenadapercurso": 4653207,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566790,
+            "longitude": -49.314666,
+            "ordem": 304
+        },
+        {
+            "idcoordenadapercurso": 4653208,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566976,
+            "longitude": -49.314704,
+            "ordem": 305
+        },
+        {
+            "idcoordenadapercurso": 4653209,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567129,
+            "longitude": -49.314737,
+            "ordem": 306
+        },
+        {
+            "idcoordenadapercurso": 4653210,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567230,
+            "longitude": -49.314762,
+            "ordem": 307
+        },
+        {
+            "idcoordenadapercurso": 4653211,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567334,
+            "longitude": -49.314793,
+            "ordem": 308
+        },
+        {
+            "idcoordenadapercurso": 4653212,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567425,
+            "longitude": -49.314823,
+            "ordem": 309
+        },
+        {
+            "idcoordenadapercurso": 4653213,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567400,
+            "longitude": -49.315200,
+            "ordem": 310
+        },
+        {
+            "idcoordenadapercurso": 4653214,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567394,
+            "longitude": -49.315279,
+            "ordem": 311
+        },
+        {
+            "idcoordenadapercurso": 4653215,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567381,
+            "longitude": -49.315344,
+            "ordem": 312
+        },
+        {
+            "idcoordenadapercurso": 4653216,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567355,
+            "longitude": -49.315413,
+            "ordem": 313
+        },
+        {
+            "idcoordenadapercurso": 4653217,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567299,
+            "longitude": -49.315512,
+            "ordem": 314
+        },
+        {
+            "idcoordenadapercurso": 4653218,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567160,
+            "longitude": -49.315722,
+            "ordem": 315
+        },
+        {
+            "idcoordenadapercurso": 4653219,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567091,
+            "longitude": -49.315827,
+            "ordem": 316
+        },
+        {
+            "idcoordenadapercurso": 4653220,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567033,
+            "longitude": -49.315932,
+            "ordem": 317
+        },
+        {
+            "idcoordenadapercurso": 4653221,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566978,
+            "longitude": -49.316043,
+            "ordem": 318
+        },
+        {
+            "idcoordenadapercurso": 4653222,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566911,
+            "longitude": -49.316185,
+            "ordem": 319
+        },
+        {
+            "idcoordenadapercurso": 4653223,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566868,
+            "longitude": -49.316299,
+            "ordem": 320
+        },
+        {
+            "idcoordenadapercurso": 4653224,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566841,
+            "longitude": -49.316405,
+            "ordem": 321
+        },
+        {
+            "idcoordenadapercurso": 4653225,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566806,
+            "longitude": -49.316652,
+            "ordem": 322
+        },
+        {
+            "idcoordenadapercurso": 4653226,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566783,
+            "longitude": -49.316826,
+            "ordem": 323
+        },
+        {
+            "idcoordenadapercurso": 4653227,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566772,
+            "longitude": -49.316996,
+            "ordem": 324
+        },
+        {
+            "idcoordenadapercurso": 4653228,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566763,
+            "longitude": -49.317133,
+            "ordem": 325
+        },
+        {
+            "idcoordenadapercurso": 4653229,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566765,
+            "longitude": -49.317262,
+            "ordem": 326
+        },
+        {
+            "idcoordenadapercurso": 4653230,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566773,
+            "longitude": -49.317333,
+            "ordem": 327
+        },
+        {
+            "idcoordenadapercurso": 4653231,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566797,
+            "longitude": -49.317483,
+            "ordem": 328
+        },
+        {
+            "idcoordenadapercurso": 4653232,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566839,
+            "longitude": -49.317593,
+            "ordem": 329
+        },
+        {
+            "idcoordenadapercurso": 4653233,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566888,
+            "longitude": -49.317683,
+            "ordem": 330
+        },
+        {
+            "idcoordenadapercurso": 4653234,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.566978,
+            "longitude": -49.317805,
+            "ordem": 331
+        },
+        {
+            "idcoordenadapercurso": 4653235,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567058,
+            "longitude": -49.317904,
+            "ordem": 332
+        },
+        {
+            "idcoordenadapercurso": 4653236,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567114,
+            "longitude": -49.317974,
+            "ordem": 333
+        },
+        {
+            "idcoordenadapercurso": 4653237,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567191,
+            "longitude": -49.318044,
+            "ordem": 334
+        },
+        {
+            "idcoordenadapercurso": 4653238,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567244,
+            "longitude": -49.318091,
+            "ordem": 335
+        },
+        {
+            "idcoordenadapercurso": 4653239,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567342,
+            "longitude": -49.318166,
+            "ordem": 336
+        },
+        {
+            "idcoordenadapercurso": 4653240,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567540,
+            "longitude": -49.318313,
+            "ordem": 337
+        },
+        {
+            "idcoordenadapercurso": 4653241,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567637,
+            "longitude": -49.318388,
+            "ordem": 338
+        },
+        {
+            "idcoordenadapercurso": 4653242,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567766,
+            "longitude": -49.318463,
+            "ordem": 339
+        },
+        {
+            "idcoordenadapercurso": 4653243,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.567876,
+            "longitude": -49.318528,
+            "ordem": 340
+        },
+        {
+            "idcoordenadapercurso": 4653244,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568036,
+            "longitude": -49.318599,
+            "ordem": 341
+        },
+        {
+            "idcoordenadapercurso": 4653245,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568123,
+            "longitude": -49.318636,
+            "ordem": 342
+        },
+        {
+            "idcoordenadapercurso": 4653246,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568268,
+            "longitude": -49.318700,
+            "ordem": 343
+        },
+        {
+            "idcoordenadapercurso": 4653247,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568408,
+            "longitude": -49.318761,
+            "ordem": 344
+        },
+        {
+            "idcoordenadapercurso": 4653248,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568450,
+            "longitude": -49.318786,
+            "ordem": 345
+        },
+        {
+            "idcoordenadapercurso": 4653249,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568482,
+            "longitude": -49.318823,
+            "ordem": 346
+        },
+        {
+            "idcoordenadapercurso": 4653250,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568501,
+            "longitude": -49.318855,
+            "ordem": 347
+        },
+        {
+            "idcoordenadapercurso": 4653251,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568538,
+            "longitude": -49.319014,
+            "ordem": 348
+        },
+        {
+            "idcoordenadapercurso": 4653252,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568563,
+            "longitude": -49.319157,
+            "ordem": 349
+        },
+        {
+            "idcoordenadapercurso": 4653253,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568593,
+            "longitude": -49.319346,
+            "ordem": 350
+        },
+        {
+            "idcoordenadapercurso": 4653254,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568604,
+            "longitude": -49.319524,
+            "ordem": 351
+        },
+        {
+            "idcoordenadapercurso": 4653255,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568588,
+            "longitude": -49.319795,
+            "ordem": 352
+        },
+        {
+            "idcoordenadapercurso": 4653256,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568584,
+            "longitude": -49.320062,
+            "ordem": 353
+        },
+        {
+            "idcoordenadapercurso": 4653257,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568583,
+            "longitude": -49.320174,
+            "ordem": 354
+        },
+        {
+            "idcoordenadapercurso": 4653258,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568583,
+            "longitude": -49.320379,
+            "ordem": 355
+        },
+        {
+            "idcoordenadapercurso": 4653259,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568631,
+            "longitude": -49.320472,
+            "ordem": 356
+        },
+        {
+            "idcoordenadapercurso": 4653260,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568679,
+            "longitude": -49.320575,
+            "ordem": 357
+        },
+        {
+            "idcoordenadapercurso": 4653261,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568776,
+            "longitude": -49.320783,
+            "ordem": 358
+        },
+        {
+            "idcoordenadapercurso": 4653262,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.568906,
+            "longitude": -49.321059,
+            "ordem": 359
+        },
+        {
+            "idcoordenadapercurso": 4653263,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569075,
+            "longitude": -49.321415,
+            "ordem": 360
+        },
+        {
+            "idcoordenadapercurso": 4653264,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569250,
+            "longitude": -49.321789,
+            "ordem": 361
+        },
+        {
+            "idcoordenadapercurso": 4653265,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569323,
+            "longitude": -49.321962,
+            "ordem": 362
+        },
+        {
+            "idcoordenadapercurso": 4653266,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569414,
+            "longitude": -49.322189,
+            "ordem": 363
+        },
+        {
+            "idcoordenadapercurso": 4653267,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569564,
+            "longitude": -49.322553,
+            "ordem": 364
+        },
+        {
+            "idcoordenadapercurso": 4653268,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569630,
+            "longitude": -49.322803,
+            "ordem": 365
+        },
+        {
+            "idcoordenadapercurso": 4653269,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569722,
+            "longitude": -49.323141,
+            "ordem": 366
+        },
+        {
+            "idcoordenadapercurso": 4653270,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569743,
+            "longitude": -49.323340,
+            "ordem": 367
+        },
+        {
+            "idcoordenadapercurso": 4653271,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569774,
+            "longitude": -49.323454,
+            "ordem": 368
+        },
+        {
+            "idcoordenadapercurso": 4653272,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569888,
+            "longitude": -49.323716,
+            "ordem": 369
+        },
+        {
+            "idcoordenadapercurso": 4653273,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.569964,
+            "longitude": -49.323889,
+            "ordem": 370
+        },
+        {
+            "idcoordenadapercurso": 4653274,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570070,
+            "longitude": -49.324068,
+            "ordem": 371
+        },
+        {
+            "idcoordenadapercurso": 4653275,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570185,
+            "longitude": -49.324355,
+            "ordem": 372
+        },
+        {
+            "idcoordenadapercurso": 4653276,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570252,
+            "longitude": -49.324533,
+            "ordem": 373
+        },
+        {
+            "idcoordenadapercurso": 4653277,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570326,
+            "longitude": -49.324672,
+            "ordem": 374
+        },
+        {
+            "idcoordenadapercurso": 4653278,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570384,
+            "longitude": -49.324767,
+            "ordem": 375
+        },
+        {
+            "idcoordenadapercurso": 4653279,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570421,
+            "longitude": -49.324823,
+            "ordem": 376
+        },
+        {
+            "idcoordenadapercurso": 4653280,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570461,
+            "longitude": -49.324875,
+            "ordem": 377
+        },
+        {
+            "idcoordenadapercurso": 4653281,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570533,
+            "longitude": -49.324947,
+            "ordem": 378
+        },
+        {
+            "idcoordenadapercurso": 4653282,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570640,
+            "longitude": -49.325053,
+            "ordem": 379
+        },
+        {
+            "idcoordenadapercurso": 4653283,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570683,
+            "longitude": -49.325075,
+            "ordem": 380
+        },
+        {
+            "idcoordenadapercurso": 4653284,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570775,
+            "longitude": -49.325108,
+            "ordem": 381
+        },
+        {
+            "idcoordenadapercurso": 4653285,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570844,
+            "longitude": -49.325133,
+            "ordem": 382
+        },
+        {
+            "idcoordenadapercurso": 4653286,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.570911,
+            "longitude": -49.325150,
+            "ordem": 383
+        },
+        {
+            "idcoordenadapercurso": 4653287,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.571099,
+            "longitude": -49.325205,
+            "ordem": 384
+        },
+        {
+            "idcoordenadapercurso": 4653288,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.571175,
+            "longitude": -49.325227,
+            "ordem": 385
+        },
+        {
+            "idcoordenadapercurso": 4653289,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.571292,
+            "longitude": -49.325269,
+            "ordem": 386
+        },
+        {
+            "idcoordenadapercurso": 4653290,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.571373,
+            "longitude": -49.325307,
+            "ordem": 387
+        },
+        {
+            "idcoordenadapercurso": 4653291,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.571504,
+            "longitude": -49.325371,
+            "ordem": 388
+        },
+        {
+            "idcoordenadapercurso": 4653292,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.571614,
+            "longitude": -49.325437,
+            "ordem": 389
+        },
+        {
+            "idcoordenadapercurso": 4653293,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.571723,
+            "longitude": -49.325538,
+            "ordem": 390
+        },
+        {
+            "idcoordenadapercurso": 4653294,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.571824,
+            "longitude": -49.325659,
+            "ordem": 391
+        },
+        {
+            "idcoordenadapercurso": 4653295,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.571919,
+            "longitude": -49.325777,
+            "ordem": 392
+        },
+        {
+            "idcoordenadapercurso": 4653296,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.572025,
+            "longitude": -49.325904,
+            "ordem": 393
+        },
+        {
+            "idcoordenadapercurso": 4653297,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.572158,
+            "longitude": -49.326065,
+            "ordem": 394
+        },
+        {
+            "idcoordenadapercurso": 4653298,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.572371,
+            "longitude": -49.326326,
+            "ordem": 395
+        },
+        {
+            "idcoordenadapercurso": 4653299,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.572525,
+            "longitude": -49.326513,
+            "ordem": 396
+        },
+        {
+            "idcoordenadapercurso": 4653300,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.572725,
+            "longitude": -49.326756,
+            "ordem": 397
+        },
+        {
+            "idcoordenadapercurso": 4653301,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.572983,
+            "longitude": -49.327063,
+            "ordem": 398
+        },
+        {
+            "idcoordenadapercurso": 4653302,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.573149,
+            "longitude": -49.327268,
+            "ordem": 399
+        },
+        {
+            "idcoordenadapercurso": 4653303,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.573338,
+            "longitude": -49.327502,
+            "ordem": 400
+        },
+        {
+            "idcoordenadapercurso": 4653304,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.573521,
+            "longitude": -49.327728,
+            "ordem": 401
+        },
+        {
+            "idcoordenadapercurso": 4653305,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.573647,
+            "longitude": -49.327877,
+            "ordem": 402
+        },
+        {
+            "idcoordenadapercurso": 4653306,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.573747,
+            "longitude": -49.328000,
+            "ordem": 403
+        },
+        {
+            "idcoordenadapercurso": 4653307,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.573866,
+            "longitude": -49.328142,
+            "ordem": 404
+        },
+        {
+            "idcoordenadapercurso": 4653308,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.573978,
+            "longitude": -49.328281,
+            "ordem": 405
+        },
+        {
+            "idcoordenadapercurso": 4653309,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.574068,
+            "longitude": -49.328400,
+            "ordem": 406
+        },
+        {
+            "idcoordenadapercurso": 4653310,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.575017,
+            "longitude": -49.329556,
+            "ordem": 407
+        },
+        {
+            "idcoordenadapercurso": 4653311,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.575479,
+            "longitude": -49.330095,
+            "ordem": 408
+        },
+        {
+            "idcoordenadapercurso": 4653312,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.575781,
+            "longitude": -49.330650,
+            "ordem": 409
+        },
+        {
+            "idcoordenadapercurso": 4653313,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.576527,
+            "longitude": -49.331565,
+            "ordem": 410
+        },
+        {
+            "idcoordenadapercurso": 4653314,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.576723,
+            "longitude": -49.331574,
+            "ordem": 411
+        },
+        {
+            "idcoordenadapercurso": 4653315,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.577078,
+            "longitude": -49.331995,
+            "ordem": 412
+        },
+        {
+            "idcoordenadapercurso": 4653316,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.577219,
+            "longitude": -49.332132,
+            "ordem": 413
+        },
+        {
+            "idcoordenadapercurso": 4653317,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.577409,
+            "longitude": -49.332321,
+            "ordem": 414
+        },
+        {
+            "idcoordenadapercurso": 4653318,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.577613,
+            "longitude": -49.332523,
+            "ordem": 415
+        },
+        {
+            "idcoordenadapercurso": 4653319,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.577680,
+            "longitude": -49.332607,
+            "ordem": 416
+        },
+        {
+            "idcoordenadapercurso": 4653320,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.577811,
+            "longitude": -49.332735,
+            "ordem": 417
+        },
+        {
+            "idcoordenadapercurso": 4653321,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.577857,
+            "longitude": -49.332781,
+            "ordem": 418
+        },
+        {
+            "idcoordenadapercurso": 4653322,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.577958,
+            "longitude": -49.332877,
+            "ordem": 419
+        },
+        {
+            "idcoordenadapercurso": 4653323,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.578009,
+            "longitude": -49.332927,
+            "ordem": 420
+        },
+        {
+            "idcoordenadapercurso": 4653324,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.578061,
+            "longitude": -49.332981,
+            "ordem": 421
+        },
+        {
+            "idcoordenadapercurso": 4653325,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.578212,
+            "longitude": -49.333135,
+            "ordem": 422
+        },
+        {
+            "idcoordenadapercurso": 4653326,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.578328,
+            "longitude": -49.333254,
+            "ordem": 423
+        },
+        {
+            "idcoordenadapercurso": 4653327,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.578428,
+            "longitude": -49.333355,
+            "ordem": 424
+        },
+        {
+            "idcoordenadapercurso": 4653328,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.578590,
+            "longitude": -49.333500,
+            "ordem": 425
+        },
+        {
+            "idcoordenadapercurso": 4653329,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.578759,
+            "longitude": -49.333653,
+            "ordem": 426
+        },
+        {
+            "idcoordenadapercurso": 4653330,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.578900,
+            "longitude": -49.333811,
+            "ordem": 427
+        },
+        {
+            "idcoordenadapercurso": 4653331,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.579041,
+            "longitude": -49.333979,
+            "ordem": 428
+        },
+        {
+            "idcoordenadapercurso": 4653332,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.579192,
+            "longitude": -49.334142,
+            "ordem": 429
+        },
+        {
+            "idcoordenadapercurso": 4653333,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.579393,
+            "longitude": -49.334371,
+            "ordem": 430
+        },
+        {
+            "idcoordenadapercurso": 4653334,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.579507,
+            "longitude": -49.334500,
+            "ordem": 431
+        },
+        {
+            "idcoordenadapercurso": 4653335,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.579640,
+            "longitude": -49.334647,
+            "ordem": 432
+        },
+        {
+            "idcoordenadapercurso": 4653336,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.579795,
+            "longitude": -49.334820,
+            "ordem": 433
+        },
+        {
+            "idcoordenadapercurso": 4653337,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.580023,
+            "longitude": -49.335101,
+            "ordem": 434
+        },
+        {
+            "idcoordenadapercurso": 4653338,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.580116,
+            "longitude": -49.335253,
+            "ordem": 435
+        },
+        {
+            "idcoordenadapercurso": 4653339,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.580241,
+            "longitude": -49.335384,
+            "ordem": 436
+        },
+        {
+            "idcoordenadapercurso": 4653340,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.580465,
+            "longitude": -49.335619,
+            "ordem": 437
+        },
+        {
+            "idcoordenadapercurso": 4653341,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.580606,
+            "longitude": -49.335768,
+            "ordem": 438
+        },
+        {
+            "idcoordenadapercurso": 4653342,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.580751,
+            "longitude": -49.335921,
+            "ordem": 439
+        },
+        {
+            "idcoordenadapercurso": 4653343,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.580901,
+            "longitude": -49.336076,
+            "ordem": 440
+        },
+        {
+            "idcoordenadapercurso": 4653344,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.580962,
+            "longitude": -49.336128,
+            "ordem": 441
+        },
+        {
+            "idcoordenadapercurso": 4653345,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.581115,
+            "longitude": -49.336277,
+            "ordem": 442
+        },
+        {
+            "idcoordenadapercurso": 4653346,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.581324,
+            "longitude": -49.336479,
+            "ordem": 443
+        },
+        {
+            "idcoordenadapercurso": 4653347,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.581430,
+            "longitude": -49.336583,
+            "ordem": 444
+        },
+        {
+            "idcoordenadapercurso": 4653348,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.581502,
+            "longitude": -49.336654,
+            "ordem": 445
+        },
+        {
+            "idcoordenadapercurso": 4653349,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.581624,
+            "longitude": -49.336790,
+            "ordem": 446
+        },
+        {
+            "idcoordenadapercurso": 4653350,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.581731,
+            "longitude": -49.336911,
+            "ordem": 447
+        },
+        {
+            "idcoordenadapercurso": 4653351,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.581855,
+            "longitude": -49.337048,
+            "ordem": 448
+        },
+        {
+            "idcoordenadapercurso": 4653352,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.581984,
+            "longitude": -49.337162,
+            "ordem": 449
+        },
+        {
+            "idcoordenadapercurso": 4653353,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.582051,
+            "longitude": -49.337207,
+            "ordem": 450
+        },
+        {
+            "idcoordenadapercurso": 4653354,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.582111,
+            "longitude": -49.337232,
+            "ordem": 451
+        },
+        {
+            "idcoordenadapercurso": 4653355,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.582168,
+            "longitude": -49.337250,
+            "ordem": 452
+        },
+        {
+            "idcoordenadapercurso": 4653356,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.582253,
+            "longitude": -49.337257,
+            "ordem": 453
+        },
+        {
+            "idcoordenadapercurso": 4653357,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.582319,
+            "longitude": -49.337297,
+            "ordem": 454
+        },
+        {
+            "idcoordenadapercurso": 4653358,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.582407,
+            "longitude": -49.337357,
+            "ordem": 455
+        },
+        {
+            "idcoordenadapercurso": 4653359,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.582612,
+            "longitude": -49.337401,
+            "ordem": 456
+        },
+        {
+            "idcoordenadapercurso": 4653360,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.582901,
+            "longitude": -49.337467,
+            "ordem": 457
+        },
+        {
+            "idcoordenadapercurso": 4653361,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.582987,
+            "longitude": -49.337479,
+            "ordem": 458
+        },
+        {
+            "idcoordenadapercurso": 4653362,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.583246,
+            "longitude": -49.337544,
+            "ordem": 459
+        },
+        {
+            "idcoordenadapercurso": 4653363,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.583839,
+            "longitude": -49.337693,
+            "ordem": 460
+        },
+        {
+            "idcoordenadapercurso": 4653364,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584133,
+            "longitude": -49.337767,
+            "ordem": 461
+        },
+        {
+            "idcoordenadapercurso": 4653365,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584383,
+            "longitude": -49.337830,
+            "ordem": 462
+        },
+        {
+            "idcoordenadapercurso": 4653366,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584795,
+            "longitude": -49.337931,
+            "ordem": 463
+        },
+        {
+            "idcoordenadapercurso": 4653367,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.585099,
+            "longitude": -49.338009,
+            "ordem": 464
+        },
+        {
+            "idcoordenadapercurso": 4653368,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584980,
+            "longitude": -49.338557,
+            "ordem": 465
+        },
+        {
+            "idcoordenadapercurso": 4653369,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584918,
+            "longitude": -49.338844,
+            "ordem": 466
+        },
+        {
+            "idcoordenadapercurso": 4653370,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584855,
+            "longitude": -49.339110,
+            "ordem": 467
+        },
+        {
+            "idcoordenadapercurso": 4653371,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584750,
+            "longitude": -49.339572,
+            "ordem": 468
+        },
+        {
+            "idcoordenadapercurso": 4653372,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584689,
+            "longitude": -49.339856,
+            "ordem": 469
+        },
+        {
+            "idcoordenadapercurso": 4653373,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584639,
+            "longitude": -49.340097,
+            "ordem": 470
+        },
+        {
+            "idcoordenadapercurso": 4653374,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584812,
+            "longitude": -49.340144,
+            "ordem": 471
+        },
+        {
+            "idcoordenadapercurso": 4653375,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.584969,
+            "longitude": -49.340189,
+            "ordem": 472
+        },
+        {
+            "idcoordenadapercurso": 4653376,
+            "idpercurso": 16050,
+            "descricaoPercurso": "684_Rio Bonito_002_Sentido Rio Bonito.gpx",
+            "latitude": -25.585139,
+            "longitude": -49.340239,
+            "ordem": 473
+        }
+    ]
+}

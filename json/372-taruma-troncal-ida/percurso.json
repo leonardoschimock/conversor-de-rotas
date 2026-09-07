@@ -1,0 +1,1733 @@
+{
+    "status": "success",
+    "coordenadasPercurso": [
+        {
+            "idcoordenadapercurso": 5311148,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.412986,
+            "longitude": -49.205263,
+            "ordem": 1
+        },
+        {
+            "idcoordenadapercurso": 5311149,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413146,
+            "longitude": -49.205676,
+            "ordem": 2
+        },
+        {
+            "idcoordenadapercurso": 5311150,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413167,
+            "longitude": -49.205716,
+            "ordem": 3
+        },
+        {
+            "idcoordenadapercurso": 5311151,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413187,
+            "longitude": -49.205750,
+            "ordem": 4
+        },
+        {
+            "idcoordenadapercurso": 5311152,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413219,
+            "longitude": -49.205780,
+            "ordem": 5
+        },
+        {
+            "idcoordenadapercurso": 5311153,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413274,
+            "longitude": -49.205838,
+            "ordem": 6
+        },
+        {
+            "idcoordenadapercurso": 5311154,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413362,
+            "longitude": -49.205924,
+            "ordem": 7
+        },
+        {
+            "idcoordenadapercurso": 5311155,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413844,
+            "longitude": -49.205689,
+            "ordem": 8
+        },
+        {
+            "idcoordenadapercurso": 5311156,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413597,
+            "longitude": -49.205076,
+            "ordem": 9
+        },
+        {
+            "idcoordenadapercurso": 5311157,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413418,
+            "longitude": -49.204609,
+            "ordem": 10
+        },
+        {
+            "idcoordenadapercurso": 5311158,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413175,
+            "longitude": -49.203976,
+            "ordem": 11
+        },
+        {
+            "idcoordenadapercurso": 5311159,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.412986,
+            "longitude": -49.203490,
+            "ordem": 12
+        },
+        {
+            "idcoordenadapercurso": 5311160,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413358,
+            "longitude": -49.203309,
+            "ordem": 13
+        },
+        {
+            "idcoordenadapercurso": 5311161,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.413681,
+            "longitude": -49.203157,
+            "ordem": 14
+        },
+        {
+            "idcoordenadapercurso": 5311162,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.414018,
+            "longitude": -49.202992,
+            "ordem": 15
+        },
+        {
+            "idcoordenadapercurso": 5311163,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.414391,
+            "longitude": -49.202812,
+            "ordem": 16
+        },
+        {
+            "idcoordenadapercurso": 5311164,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.414771,
+            "longitude": -49.202639,
+            "ordem": 17
+        },
+        {
+            "idcoordenadapercurso": 5311165,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.415080,
+            "longitude": -49.202495,
+            "ordem": 18
+        },
+        {
+            "idcoordenadapercurso": 5311166,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.415409,
+            "longitude": -49.202341,
+            "ordem": 19
+        },
+        {
+            "idcoordenadapercurso": 5311167,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.415586,
+            "longitude": -49.202261,
+            "ordem": 20
+        },
+        {
+            "idcoordenadapercurso": 5311168,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.416008,
+            "longitude": -49.202062,
+            "ordem": 21
+        },
+        {
+            "idcoordenadapercurso": 5311169,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.416414,
+            "longitude": -49.201873,
+            "ordem": 22
+        },
+        {
+            "idcoordenadapercurso": 5311170,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.416749,
+            "longitude": -49.201715,
+            "ordem": 23
+        },
+        {
+            "idcoordenadapercurso": 5311171,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.417028,
+            "longitude": -49.201584,
+            "ordem": 24
+        },
+        {
+            "idcoordenadapercurso": 5311172,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.417712,
+            "longitude": -49.201239,
+            "ordem": 25
+        },
+        {
+            "idcoordenadapercurso": 5311173,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.418006,
+            "longitude": -49.201092,
+            "ordem": 26
+        },
+        {
+            "idcoordenadapercurso": 5311174,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.418363,
+            "longitude": -49.200917,
+            "ordem": 27
+        },
+        {
+            "idcoordenadapercurso": 5311175,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.418760,
+            "longitude": -49.200730,
+            "ordem": 28
+        },
+        {
+            "idcoordenadapercurso": 5311176,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.419076,
+            "longitude": -49.200577,
+            "ordem": 29
+        },
+        {
+            "idcoordenadapercurso": 5311177,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.419443,
+            "longitude": -49.200402,
+            "ordem": 30
+        },
+        {
+            "idcoordenadapercurso": 5311178,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.419709,
+            "longitude": -49.200275,
+            "ordem": 31
+        },
+        {
+            "idcoordenadapercurso": 5311179,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.419886,
+            "longitude": -49.200195,
+            "ordem": 32
+        },
+        {
+            "idcoordenadapercurso": 5311180,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.420156,
+            "longitude": -49.200072,
+            "ordem": 33
+        },
+        {
+            "idcoordenadapercurso": 5311181,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.420428,
+            "longitude": -49.199948,
+            "ordem": 34
+        },
+        {
+            "idcoordenadapercurso": 5311182,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.420814,
+            "longitude": -49.199772,
+            "ordem": 35
+        },
+        {
+            "idcoordenadapercurso": 5311183,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.421039,
+            "longitude": -49.199671,
+            "ordem": 36
+        },
+        {
+            "idcoordenadapercurso": 5311184,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.421222,
+            "longitude": -49.199586,
+            "ordem": 37
+        },
+        {
+            "idcoordenadapercurso": 5311185,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.421410,
+            "longitude": -49.199496,
+            "ordem": 38
+        },
+        {
+            "idcoordenadapercurso": 5311186,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.421751,
+            "longitude": -49.199335,
+            "ordem": 39
+        },
+        {
+            "idcoordenadapercurso": 5311187,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.422071,
+            "longitude": -49.199187,
+            "ordem": 40
+        },
+        {
+            "idcoordenadapercurso": 5311188,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.422338,
+            "longitude": -49.199060,
+            "ordem": 41
+        },
+        {
+            "idcoordenadapercurso": 5311189,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.422634,
+            "longitude": -49.199801,
+            "ordem": 42
+        },
+        {
+            "idcoordenadapercurso": 5311190,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.422777,
+            "longitude": -49.200163,
+            "ordem": 43
+        },
+        {
+            "idcoordenadapercurso": 5311191,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.423010,
+            "longitude": -49.200755,
+            "ordem": 44
+        },
+        {
+            "idcoordenadapercurso": 5311192,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.423181,
+            "longitude": -49.201223,
+            "ordem": 45
+        },
+        {
+            "idcoordenadapercurso": 5311193,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.423410,
+            "longitude": -49.201801,
+            "ordem": 46
+        },
+        {
+            "idcoordenadapercurso": 5311194,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.423620,
+            "longitude": -49.202336,
+            "ordem": 47
+        },
+        {
+            "idcoordenadapercurso": 5311195,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.423874,
+            "longitude": -49.202875,
+            "ordem": 48
+        },
+        {
+            "idcoordenadapercurso": 5311196,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.423995,
+            "longitude": -49.203139,
+            "ordem": 49
+        },
+        {
+            "idcoordenadapercurso": 5311197,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.424104,
+            "longitude": -49.203393,
+            "ordem": 50
+        },
+        {
+            "idcoordenadapercurso": 5311198,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.424471,
+            "longitude": -49.203219,
+            "ordem": 51
+        },
+        {
+            "idcoordenadapercurso": 5311199,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.424593,
+            "longitude": -49.203152,
+            "ordem": 52
+        },
+        {
+            "idcoordenadapercurso": 5311200,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.425118,
+            "longitude": -49.202924,
+            "ordem": 53
+        },
+        {
+            "idcoordenadapercurso": 5311201,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.425383,
+            "longitude": -49.202806,
+            "ordem": 54
+        },
+        {
+            "idcoordenadapercurso": 5311202,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.425724,
+            "longitude": -49.202650,
+            "ordem": 55
+        },
+        {
+            "idcoordenadapercurso": 5311203,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426097,
+            "longitude": -49.202480,
+            "ordem": 56
+        },
+        {
+            "idcoordenadapercurso": 5311204,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426413,
+            "longitude": -49.202335,
+            "ordem": 57
+        },
+        {
+            "idcoordenadapercurso": 5311205,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426585,
+            "longitude": -49.202256,
+            "ordem": 58
+        },
+        {
+            "idcoordenadapercurso": 5311206,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426697,
+            "longitude": -49.202201,
+            "ordem": 59
+        },
+        {
+            "idcoordenadapercurso": 5311207,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426794,
+            "longitude": -49.202370,
+            "ordem": 60
+        },
+        {
+            "idcoordenadapercurso": 5311208,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426978,
+            "longitude": -49.202698,
+            "ordem": 61
+        },
+        {
+            "idcoordenadapercurso": 5311209,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427183,
+            "longitude": -49.203202,
+            "ordem": 62
+        },
+        {
+            "idcoordenadapercurso": 5311210,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427382,
+            "longitude": -49.203764,
+            "ordem": 63
+        },
+        {
+            "idcoordenadapercurso": 5311211,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427458,
+            "longitude": -49.203973,
+            "ordem": 64
+        },
+        {
+            "idcoordenadapercurso": 5311212,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427584,
+            "longitude": -49.204329,
+            "ordem": 65
+        },
+        {
+            "idcoordenadapercurso": 5311213,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427556,
+            "longitude": -49.204394,
+            "ordem": 66
+        },
+        {
+            "idcoordenadapercurso": 5311214,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427552,
+            "longitude": -49.204448,
+            "ordem": 67
+        },
+        {
+            "idcoordenadapercurso": 5311215,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426269,
+            "longitude": -49.204979,
+            "ordem": 68
+        },
+        {
+            "idcoordenadapercurso": 5311216,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.424925,
+            "longitude": -49.205581,
+            "ordem": 69
+        },
+        {
+            "idcoordenadapercurso": 5311217,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.425341,
+            "longitude": -49.206676,
+            "ordem": 70
+        },
+        {
+            "idcoordenadapercurso": 5311218,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.425567,
+            "longitude": -49.207287,
+            "ordem": 71
+        },
+        {
+            "idcoordenadapercurso": 5311219,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.425752,
+            "longitude": -49.207798,
+            "ordem": 72
+        },
+        {
+            "idcoordenadapercurso": 5311220,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426215,
+            "longitude": -49.209241,
+            "ordem": 73
+        },
+        {
+            "idcoordenadapercurso": 5311221,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426541,
+            "longitude": -49.210203,
+            "ordem": 74
+        },
+        {
+            "idcoordenadapercurso": 5311222,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426725,
+            "longitude": -49.210875,
+            "ordem": 75
+        },
+        {
+            "idcoordenadapercurso": 5311223,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427029,
+            "longitude": -49.211804,
+            "ordem": 76
+        },
+        {
+            "idcoordenadapercurso": 5311224,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427306,
+            "longitude": -49.212731,
+            "ordem": 77
+        },
+        {
+            "idcoordenadapercurso": 5311225,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427901,
+            "longitude": -49.214449,
+            "ordem": 78
+        },
+        {
+            "idcoordenadapercurso": 5311226,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428821,
+            "longitude": -49.214074,
+            "ordem": 79
+        },
+        {
+            "idcoordenadapercurso": 5311227,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429510,
+            "longitude": -49.213786,
+            "ordem": 80
+        },
+        {
+            "idcoordenadapercurso": 5311228,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429766,
+            "longitude": -49.213687,
+            "ordem": 81
+        },
+        {
+            "idcoordenadapercurso": 5311229,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429876,
+            "longitude": -49.213681,
+            "ordem": 82
+        },
+        {
+            "idcoordenadapercurso": 5311230,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429988,
+            "longitude": -49.213762,
+            "ordem": 83
+        },
+        {
+            "idcoordenadapercurso": 5311231,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.430016,
+            "longitude": -49.213860,
+            "ordem": 84
+        },
+        {
+            "idcoordenadapercurso": 5311232,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429804,
+            "longitude": -49.215809,
+            "ordem": 85
+        },
+        {
+            "idcoordenadapercurso": 5311233,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429754,
+            "longitude": -49.216298,
+            "ordem": 86
+        },
+        {
+            "idcoordenadapercurso": 5311234,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429702,
+            "longitude": -49.216782,
+            "ordem": 87
+        },
+        {
+            "idcoordenadapercurso": 5311235,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429640,
+            "longitude": -49.217278,
+            "ordem": 88
+        },
+        {
+            "idcoordenadapercurso": 5311236,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429494,
+            "longitude": -49.218706,
+            "ordem": 89
+        },
+        {
+            "idcoordenadapercurso": 5311237,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429377,
+            "longitude": -49.219851,
+            "ordem": 90
+        },
+        {
+            "idcoordenadapercurso": 5311238,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429301,
+            "longitude": -49.220647,
+            "ordem": 91
+        },
+        {
+            "idcoordenadapercurso": 5311239,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429266,
+            "longitude": -49.220797,
+            "ordem": 92
+        },
+        {
+            "idcoordenadapercurso": 5311240,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429211,
+            "longitude": -49.221236,
+            "ordem": 93
+        },
+        {
+            "idcoordenadapercurso": 5311241,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429104,
+            "longitude": -49.222436,
+            "ordem": 94
+        },
+        {
+            "idcoordenadapercurso": 5311242,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429033,
+            "longitude": -49.222995,
+            "ordem": 95
+        },
+        {
+            "idcoordenadapercurso": 5311243,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428984,
+            "longitude": -49.223372,
+            "ordem": 96
+        },
+        {
+            "idcoordenadapercurso": 5311244,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428955,
+            "longitude": -49.223764,
+            "ordem": 97
+        },
+        {
+            "idcoordenadapercurso": 5311245,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428918,
+            "longitude": -49.224078,
+            "ordem": 98
+        },
+        {
+            "idcoordenadapercurso": 5311246,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428863,
+            "longitude": -49.224529,
+            "ordem": 99
+        },
+        {
+            "idcoordenadapercurso": 5311247,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428801,
+            "longitude": -49.225085,
+            "ordem": 100
+        },
+        {
+            "idcoordenadapercurso": 5311248,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428760,
+            "longitude": -49.225511,
+            "ordem": 101
+        },
+        {
+            "idcoordenadapercurso": 5311249,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428711,
+            "longitude": -49.225975,
+            "ordem": 102
+        },
+        {
+            "idcoordenadapercurso": 5311250,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428660,
+            "longitude": -49.226455,
+            "ordem": 103
+        },
+        {
+            "idcoordenadapercurso": 5311251,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428608,
+            "longitude": -49.226989,
+            "ordem": 104
+        },
+        {
+            "idcoordenadapercurso": 5311252,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428613,
+            "longitude": -49.227129,
+            "ordem": 105
+        },
+        {
+            "idcoordenadapercurso": 5311253,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428610,
+            "longitude": -49.227315,
+            "ordem": 106
+        },
+        {
+            "idcoordenadapercurso": 5311254,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428549,
+            "longitude": -49.227850,
+            "ordem": 107
+        },
+        {
+            "idcoordenadapercurso": 5311255,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428512,
+            "longitude": -49.228142,
+            "ordem": 108
+        },
+        {
+            "idcoordenadapercurso": 5311256,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428491,
+            "longitude": -49.228310,
+            "ordem": 109
+        },
+        {
+            "idcoordenadapercurso": 5311257,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428429,
+            "longitude": -49.229201,
+            "ordem": 110
+        },
+        {
+            "idcoordenadapercurso": 5311258,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428336,
+            "longitude": -49.229914,
+            "ordem": 111
+        },
+        {
+            "idcoordenadapercurso": 5311259,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428295,
+            "longitude": -49.230286,
+            "ordem": 112
+        },
+        {
+            "idcoordenadapercurso": 5311260,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428231,
+            "longitude": -49.230867,
+            "ordem": 113
+        },
+        {
+            "idcoordenadapercurso": 5311261,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428169,
+            "longitude": -49.231388,
+            "ordem": 114
+        },
+        {
+            "idcoordenadapercurso": 5311262,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428119,
+            "longitude": -49.231815,
+            "ordem": 115
+        },
+        {
+            "idcoordenadapercurso": 5311263,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427998,
+            "longitude": -49.232845,
+            "ordem": 116
+        },
+        {
+            "idcoordenadapercurso": 5311264,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427966,
+            "longitude": -49.233142,
+            "ordem": 117
+        },
+        {
+            "idcoordenadapercurso": 5311265,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427940,
+            "longitude": -49.233341,
+            "ordem": 118
+        },
+        {
+            "idcoordenadapercurso": 5311266,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427880,
+            "longitude": -49.233926,
+            "ordem": 119
+        },
+        {
+            "idcoordenadapercurso": 5311267,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427803,
+            "longitude": -49.234747,
+            "ordem": 120
+        },
+        {
+            "idcoordenadapercurso": 5311268,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427743,
+            "longitude": -49.235278,
+            "ordem": 121
+        },
+        {
+            "idcoordenadapercurso": 5311269,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427674,
+            "longitude": -49.235901,
+            "ordem": 122
+        },
+        {
+            "idcoordenadapercurso": 5311270,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427627,
+            "longitude": -49.236331,
+            "ordem": 123
+        },
+        {
+            "idcoordenadapercurso": 5311271,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427578,
+            "longitude": -49.236773,
+            "ordem": 124
+        },
+        {
+            "idcoordenadapercurso": 5311272,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427460,
+            "longitude": -49.237851,
+            "ordem": 125
+        },
+        {
+            "idcoordenadapercurso": 5311273,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427440,
+            "longitude": -49.237981,
+            "ordem": 126
+        },
+        {
+            "idcoordenadapercurso": 5311274,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427401,
+            "longitude": -49.238388,
+            "ordem": 127
+        },
+        {
+            "idcoordenadapercurso": 5311275,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427296,
+            "longitude": -49.239356,
+            "ordem": 128
+        },
+        {
+            "idcoordenadapercurso": 5311276,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427292,
+            "longitude": -49.239386,
+            "ordem": 129
+        },
+        {
+            "idcoordenadapercurso": 5311277,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427281,
+            "longitude": -49.239579,
+            "ordem": 130
+        },
+        {
+            "idcoordenadapercurso": 5311278,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427290,
+            "longitude": -49.239745,
+            "ordem": 131
+        },
+        {
+            "idcoordenadapercurso": 5311279,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427330,
+            "longitude": -49.239971,
+            "ordem": 132
+        },
+        {
+            "idcoordenadapercurso": 5311280,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427540,
+            "longitude": -49.240565,
+            "ordem": 133
+        },
+        {
+            "idcoordenadapercurso": 5311281,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427605,
+            "longitude": -49.240715,
+            "ordem": 134
+        },
+        {
+            "idcoordenadapercurso": 5311282,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427657,
+            "longitude": -49.240872,
+            "ordem": 135
+        },
+        {
+            "idcoordenadapercurso": 5311283,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427681,
+            "longitude": -49.241033,
+            "ordem": 136
+        },
+        {
+            "idcoordenadapercurso": 5311284,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427692,
+            "longitude": -49.241222,
+            "ordem": 137
+        },
+        {
+            "idcoordenadapercurso": 5311285,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427680,
+            "longitude": -49.241463,
+            "ordem": 138
+        },
+        {
+            "idcoordenadapercurso": 5311286,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427656,
+            "longitude": -49.241894,
+            "ordem": 139
+        },
+        {
+            "idcoordenadapercurso": 5311287,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427635,
+            "longitude": -49.242522,
+            "ordem": 140
+        },
+        {
+            "idcoordenadapercurso": 5311288,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427606,
+            "longitude": -49.243011,
+            "ordem": 141
+        },
+        {
+            "idcoordenadapercurso": 5311289,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427588,
+            "longitude": -49.243305,
+            "ordem": 142
+        },
+        {
+            "idcoordenadapercurso": 5311290,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427562,
+            "longitude": -49.243600,
+            "ordem": 143
+        },
+        {
+            "idcoordenadapercurso": 5311291,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427501,
+            "longitude": -49.244477,
+            "ordem": 144
+        },
+        {
+            "idcoordenadapercurso": 5311292,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427480,
+            "longitude": -49.244769,
+            "ordem": 145
+        },
+        {
+            "idcoordenadapercurso": 5311293,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427438,
+            "longitude": -49.245220,
+            "ordem": 146
+        },
+        {
+            "idcoordenadapercurso": 5311294,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427393,
+            "longitude": -49.245766,
+            "ordem": 147
+        },
+        {
+            "idcoordenadapercurso": 5311295,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427334,
+            "longitude": -49.246415,
+            "ordem": 148
+        },
+        {
+            "idcoordenadapercurso": 5311296,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427283,
+            "longitude": -49.247045,
+            "ordem": 149
+        },
+        {
+            "idcoordenadapercurso": 5311297,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427259,
+            "longitude": -49.247360,
+            "ordem": 150
+        },
+        {
+            "idcoordenadapercurso": 5311298,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427234,
+            "longitude": -49.247679,
+            "ordem": 151
+        },
+        {
+            "idcoordenadapercurso": 5311299,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427155,
+            "longitude": -49.248487,
+            "ordem": 152
+        },
+        {
+            "idcoordenadapercurso": 5311300,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427124,
+            "longitude": -49.248797,
+            "ordem": 153
+        },
+        {
+            "idcoordenadapercurso": 5311301,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427116,
+            "longitude": -49.248961,
+            "ordem": 154
+        },
+        {
+            "idcoordenadapercurso": 5311302,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427088,
+            "longitude": -49.249190,
+            "ordem": 155
+        },
+        {
+            "idcoordenadapercurso": 5311303,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427057,
+            "longitude": -49.249612,
+            "ordem": 156
+        },
+        {
+            "idcoordenadapercurso": 5311304,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427010,
+            "longitude": -49.250189,
+            "ordem": 157
+        },
+        {
+            "idcoordenadapercurso": 5311305,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426974,
+            "longitude": -49.250663,
+            "ordem": 158
+        },
+        {
+            "idcoordenadapercurso": 5311306,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426940,
+            "longitude": -49.251020,
+            "ordem": 159
+        },
+        {
+            "idcoordenadapercurso": 5311307,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426894,
+            "longitude": -49.251583,
+            "ordem": 160
+        },
+        {
+            "idcoordenadapercurso": 5311308,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426863,
+            "longitude": -49.252078,
+            "ordem": 161
+        },
+        {
+            "idcoordenadapercurso": 5311309,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426818,
+            "longitude": -49.252533,
+            "ordem": 162
+        },
+        {
+            "idcoordenadapercurso": 5311310,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426770,
+            "longitude": -49.253161,
+            "ordem": 163
+        },
+        {
+            "idcoordenadapercurso": 5311311,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426718,
+            "longitude": -49.253635,
+            "ordem": 164
+        },
+        {
+            "idcoordenadapercurso": 5311312,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426617,
+            "longitude": -49.254764,
+            "ordem": 165
+        },
+        {
+            "idcoordenadapercurso": 5311313,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426586,
+            "longitude": -49.255105,
+            "ordem": 166
+        },
+        {
+            "idcoordenadapercurso": 5311314,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426532,
+            "longitude": -49.255647,
+            "ordem": 167
+        },
+        {
+            "idcoordenadapercurso": 5311315,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426519,
+            "longitude": -49.255995,
+            "ordem": 168
+        },
+        {
+            "idcoordenadapercurso": 5311316,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426501,
+            "longitude": -49.256219,
+            "ordem": 169
+        },
+        {
+            "idcoordenadapercurso": 5311317,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426438,
+            "longitude": -49.256798,
+            "ordem": 170
+        },
+        {
+            "idcoordenadapercurso": 5311318,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426403,
+            "longitude": -49.257181,
+            "ordem": 171
+        },
+        {
+            "idcoordenadapercurso": 5311319,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426375,
+            "longitude": -49.257512,
+            "ordem": 172
+        },
+        {
+            "idcoordenadapercurso": 5311320,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426320,
+            "longitude": -49.258043,
+            "ordem": 173
+        },
+        {
+            "idcoordenadapercurso": 5311321,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426279,
+            "longitude": -49.258418,
+            "ordem": 174
+        },
+        {
+            "idcoordenadapercurso": 5311322,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426248,
+            "longitude": -49.258908,
+            "ordem": 175
+        },
+        {
+            "idcoordenadapercurso": 5311323,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426269,
+            "longitude": -49.259139,
+            "ordem": 176
+        },
+        {
+            "idcoordenadapercurso": 5311324,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426318,
+            "longitude": -49.259292,
+            "ordem": 177
+        },
+        {
+            "idcoordenadapercurso": 5311325,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426494,
+            "longitude": -49.259702,
+            "ordem": 178
+        },
+        {
+            "idcoordenadapercurso": 5311326,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.426743,
+            "longitude": -49.260289,
+            "ordem": 179
+        },
+        {
+            "idcoordenadapercurso": 5311327,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427118,
+            "longitude": -49.261172,
+            "ordem": 180
+        },
+        {
+            "idcoordenadapercurso": 5311328,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427227,
+            "longitude": -49.261502,
+            "ordem": 181
+        },
+        {
+            "idcoordenadapercurso": 5311329,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427499,
+            "longitude": -49.262144,
+            "ordem": 182
+        },
+        {
+            "idcoordenadapercurso": 5311330,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427637,
+            "longitude": -49.262522,
+            "ordem": 183
+        },
+        {
+            "idcoordenadapercurso": 5311331,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427762,
+            "longitude": -49.262856,
+            "ordem": 184
+        },
+        {
+            "idcoordenadapercurso": 5311332,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.427919,
+            "longitude": -49.263234,
+            "ordem": 185
+        },
+        {
+            "idcoordenadapercurso": 5311333,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428061,
+            "longitude": -49.263601,
+            "ordem": 186
+        },
+        {
+            "idcoordenadapercurso": 5311334,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428093,
+            "longitude": -49.263720,
+            "ordem": 187
+        },
+        {
+            "idcoordenadapercurso": 5311335,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428154,
+            "longitude": -49.263870,
+            "ordem": 188
+        },
+        {
+            "idcoordenadapercurso": 5311336,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428306,
+            "longitude": -49.264266,
+            "ordem": 189
+        },
+        {
+            "idcoordenadapercurso": 5311337,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428342,
+            "longitude": -49.264395,
+            "ordem": 190
+        },
+        {
+            "idcoordenadapercurso": 5311338,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428469,
+            "longitude": -49.264724,
+            "ordem": 191
+        },
+        {
+            "idcoordenadapercurso": 5311339,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428627,
+            "longitude": -49.265139,
+            "ordem": 192
+        },
+        {
+            "idcoordenadapercurso": 5311340,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.428790,
+            "longitude": -49.265534,
+            "ordem": 193
+        },
+        {
+            "idcoordenadapercurso": 5311341,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429112,
+            "longitude": -49.266360,
+            "ordem": 194
+        },
+        {
+            "idcoordenadapercurso": 5311342,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429237,
+            "longitude": -49.266660,
+            "ordem": 195
+        },
+        {
+            "idcoordenadapercurso": 5311343,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429414,
+            "longitude": -49.267099,
+            "ordem": 196
+        },
+        {
+            "idcoordenadapercurso": 5311344,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.429899,
+            "longitude": -49.266865,
+            "ordem": 197
+        },
+        {
+            "idcoordenadapercurso": 5311345,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.430196,
+            "longitude": -49.266717,
+            "ordem": 198
+        },
+        {
+            "idcoordenadapercurso": 5311346,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.430330,
+            "longitude": -49.267110,
+            "ordem": 199
+        },
+        {
+            "idcoordenadapercurso": 5311347,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.430482,
+            "longitude": -49.267490,
+            "ordem": 200
+        },
+        {
+            "idcoordenadapercurso": 5311348,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.430773,
+            "longitude": -49.268160,
+            "ordem": 201
+        },
+        {
+            "idcoordenadapercurso": 5311349,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.430897,
+            "longitude": -49.268443,
+            "ordem": 202
+        },
+        {
+            "idcoordenadapercurso": 5311350,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.431055,
+            "longitude": -49.268807,
+            "ordem": 203
+        },
+        {
+            "idcoordenadapercurso": 5311351,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.431544,
+            "longitude": -49.270022,
+            "ordem": 204
+        },
+        {
+            "idcoordenadapercurso": 5311352,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.431699,
+            "longitude": -49.270413,
+            "ordem": 205
+        },
+        {
+            "idcoordenadapercurso": 5311353,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.431859,
+            "longitude": -49.270799,
+            "ordem": 206
+        },
+        {
+            "idcoordenadapercurso": 5311354,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.431983,
+            "longitude": -49.271098,
+            "ordem": 207
+        },
+        {
+            "idcoordenadapercurso": 5311355,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.432097,
+            "longitude": -49.271396,
+            "ordem": 208
+        },
+        {
+            "idcoordenadapercurso": 5311356,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.432268,
+            "longitude": -49.271804,
+            "ordem": 209
+        },
+        {
+            "idcoordenadapercurso": 5311357,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.432442,
+            "longitude": -49.272219,
+            "ordem": 210
+        },
+        {
+            "idcoordenadapercurso": 5311358,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.432700,
+            "longitude": -49.272105,
+            "ordem": 211
+        },
+        {
+            "idcoordenadapercurso": 5311359,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.432978,
+            "longitude": -49.271975,
+            "ordem": 212
+        },
+        {
+            "idcoordenadapercurso": 5311360,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.433361,
+            "longitude": -49.271797,
+            "ordem": 213
+        },
+        {
+            "idcoordenadapercurso": 5311361,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.433296,
+            "longitude": -49.271627,
+            "ordem": 214
+        },
+        {
+            "idcoordenadapercurso": 5311362,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.433048,
+            "longitude": -49.270992,
+            "ordem": 215
+        },
+        {
+            "idcoordenadapercurso": 5311363,
+            "idpercurso": 18004,
+            "descricaoPercurso": "372_Tarumã_001_Sentido Praça Carlos Gomes",
+            "latitude": -25.432867,
+            "longitude": -49.270472,
+            "ordem": 216
+        }
+    ]
+}

@@ -1,0 +1,3437 @@
+{
+    "status": "success",
+    "coordenadasPercurso": [
+        {
+            "idcoordenadapercurso": 2209247,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512090,
+            "longitude": -49.294670,
+            "ordem": 1
+        },
+        {
+            "idcoordenadapercurso": 2209248,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511920,
+            "longitude": -49.294670,
+            "ordem": 2
+        },
+        {
+            "idcoordenadapercurso": 2209249,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511750,
+            "longitude": -49.294670,
+            "ordem": 3
+        },
+        {
+            "idcoordenadapercurso": 2209250,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511740,
+            "longitude": -49.294340,
+            "ordem": 4
+        },
+        {
+            "idcoordenadapercurso": 2209251,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511730,
+            "longitude": -49.294050,
+            "ordem": 5
+        },
+        {
+            "idcoordenadapercurso": 2209252,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511720,
+            "longitude": -49.293850,
+            "ordem": 6
+        },
+        {
+            "idcoordenadapercurso": 2209253,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511680,
+            "longitude": -49.293620,
+            "ordem": 7
+        },
+        {
+            "idcoordenadapercurso": 2209254,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511640,
+            "longitude": -49.293480,
+            "ordem": 8
+        },
+        {
+            "idcoordenadapercurso": 2209255,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511610,
+            "longitude": -49.293350,
+            "ordem": 9
+        },
+        {
+            "idcoordenadapercurso": 2209256,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511530,
+            "longitude": -49.293070,
+            "ordem": 10
+        },
+        {
+            "idcoordenadapercurso": 2209257,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511430,
+            "longitude": -49.292720,
+            "ordem": 11
+        },
+        {
+            "idcoordenadapercurso": 2209258,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511410,
+            "longitude": -49.292610,
+            "ordem": 12
+        },
+        {
+            "idcoordenadapercurso": 2209259,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511400,
+            "longitude": -49.292490,
+            "ordem": 13
+        },
+        {
+            "idcoordenadapercurso": 2209260,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511400,
+            "longitude": -49.292380,
+            "ordem": 14
+        },
+        {
+            "idcoordenadapercurso": 2209261,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511410,
+            "longitude": -49.292260,
+            "ordem": 15
+        },
+        {
+            "idcoordenadapercurso": 2209262,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511440,
+            "longitude": -49.292130,
+            "ordem": 16
+        },
+        {
+            "idcoordenadapercurso": 2209263,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511460,
+            "longitude": -49.292070,
+            "ordem": 17
+        },
+        {
+            "idcoordenadapercurso": 2209264,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511470,
+            "longitude": -49.292030,
+            "ordem": 18
+        },
+        {
+            "idcoordenadapercurso": 2209265,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511520,
+            "longitude": -49.291920,
+            "ordem": 19
+        },
+        {
+            "idcoordenadapercurso": 2209266,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511670,
+            "longitude": -49.291610,
+            "ordem": 20
+        },
+        {
+            "idcoordenadapercurso": 2209267,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511840,
+            "longitude": -49.291280,
+            "ordem": 21
+        },
+        {
+            "idcoordenadapercurso": 2209268,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511980,
+            "longitude": -49.290980,
+            "ordem": 22
+        },
+        {
+            "idcoordenadapercurso": 2209269,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512190,
+            "longitude": -49.290560,
+            "ordem": 23
+        },
+        {
+            "idcoordenadapercurso": 2209270,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512360,
+            "longitude": -49.290210,
+            "ordem": 24
+        },
+        {
+            "idcoordenadapercurso": 2209271,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512470,
+            "longitude": -49.289990,
+            "ordem": 25
+        },
+        {
+            "idcoordenadapercurso": 2209272,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512570,
+            "longitude": -49.289790,
+            "ordem": 26
+        },
+        {
+            "idcoordenadapercurso": 2209273,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512610,
+            "longitude": -49.289680,
+            "ordem": 27
+        },
+        {
+            "idcoordenadapercurso": 2209274,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512640,
+            "longitude": -49.289580,
+            "ordem": 28
+        },
+        {
+            "idcoordenadapercurso": 2209275,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512650,
+            "longitude": -49.289480,
+            "ordem": 29
+        },
+        {
+            "idcoordenadapercurso": 2209276,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512640,
+            "longitude": -49.289360,
+            "ordem": 30
+        },
+        {
+            "idcoordenadapercurso": 2209277,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512620,
+            "longitude": -49.289260,
+            "ordem": 31
+        },
+        {
+            "idcoordenadapercurso": 2209278,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512590,
+            "longitude": -49.289190,
+            "ordem": 32
+        },
+        {
+            "idcoordenadapercurso": 2209279,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512560,
+            "longitude": -49.289130,
+            "ordem": 33
+        },
+        {
+            "idcoordenadapercurso": 2209280,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512510,
+            "longitude": -49.289060,
+            "ordem": 34
+        },
+        {
+            "idcoordenadapercurso": 2209281,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512450,
+            "longitude": -49.288980,
+            "ordem": 35
+        },
+        {
+            "idcoordenadapercurso": 2209282,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512370,
+            "longitude": -49.288900,
+            "ordem": 36
+        },
+        {
+            "idcoordenadapercurso": 2209283,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512280,
+            "longitude": -49.288830,
+            "ordem": 37
+        },
+        {
+            "idcoordenadapercurso": 2209284,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.512090,
+            "longitude": -49.288680,
+            "ordem": 38
+        },
+        {
+            "idcoordenadapercurso": 2209285,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511880,
+            "longitude": -49.288510,
+            "ordem": 39
+        },
+        {
+            "idcoordenadapercurso": 2209286,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511680,
+            "longitude": -49.288350,
+            "ordem": 40
+        },
+        {
+            "idcoordenadapercurso": 2209287,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511570,
+            "longitude": -49.288260,
+            "ordem": 41
+        },
+        {
+            "idcoordenadapercurso": 2209288,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511470,
+            "longitude": -49.288180,
+            "ordem": 42
+        },
+        {
+            "idcoordenadapercurso": 2209289,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511370,
+            "longitude": -49.288100,
+            "ordem": 43
+        },
+        {
+            "idcoordenadapercurso": 2209290,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511260,
+            "longitude": -49.288010,
+            "ordem": 44
+        },
+        {
+            "idcoordenadapercurso": 2209291,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.511040,
+            "longitude": -49.287830,
+            "ordem": 45
+        },
+        {
+            "idcoordenadapercurso": 2209292,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.510840,
+            "longitude": -49.287660,
+            "ordem": 46
+        },
+        {
+            "idcoordenadapercurso": 2209293,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.510610,
+            "longitude": -49.287480,
+            "ordem": 47
+        },
+        {
+            "idcoordenadapercurso": 2209294,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.510380,
+            "longitude": -49.287290,
+            "ordem": 48
+        },
+        {
+            "idcoordenadapercurso": 2209295,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.510270,
+            "longitude": -49.287200,
+            "ordem": 49
+        },
+        {
+            "idcoordenadapercurso": 2209296,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.510100,
+            "longitude": -49.287070,
+            "ordem": 50
+        },
+        {
+            "idcoordenadapercurso": 2209297,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.509940,
+            "longitude": -49.286930,
+            "ordem": 51
+        },
+        {
+            "idcoordenadapercurso": 2209298,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.509720,
+            "longitude": -49.286760,
+            "ordem": 52
+        },
+        {
+            "idcoordenadapercurso": 2209299,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.509500,
+            "longitude": -49.286580,
+            "ordem": 53
+        },
+        {
+            "idcoordenadapercurso": 2209300,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.509280,
+            "longitude": -49.286390,
+            "ordem": 54
+        },
+        {
+            "idcoordenadapercurso": 2209301,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.509170,
+            "longitude": -49.286310,
+            "ordem": 55
+        },
+        {
+            "idcoordenadapercurso": 2209302,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.509060,
+            "longitude": -49.286220,
+            "ordem": 56
+        },
+        {
+            "idcoordenadapercurso": 2209303,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.508630,
+            "longitude": -49.285880,
+            "ordem": 57
+        },
+        {
+            "idcoordenadapercurso": 2209304,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.508400,
+            "longitude": -49.285700,
+            "ordem": 58
+        },
+        {
+            "idcoordenadapercurso": 2209305,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.508200,
+            "longitude": -49.285540,
+            "ordem": 59
+        },
+        {
+            "idcoordenadapercurso": 2209306,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.508080,
+            "longitude": -49.285440,
+            "ordem": 60
+        },
+        {
+            "idcoordenadapercurso": 2209307,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.507970,
+            "longitude": -49.285360,
+            "ordem": 61
+        },
+        {
+            "idcoordenadapercurso": 2209308,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.507750,
+            "longitude": -49.285170,
+            "ordem": 62
+        },
+        {
+            "idcoordenadapercurso": 2209309,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.507500,
+            "longitude": -49.284970,
+            "ordem": 63
+        },
+        {
+            "idcoordenadapercurso": 2209310,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.507320,
+            "longitude": -49.284820,
+            "ordem": 64
+        },
+        {
+            "idcoordenadapercurso": 2209311,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.506750,
+            "longitude": -49.284350,
+            "ordem": 65
+        },
+        {
+            "idcoordenadapercurso": 2209312,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.506600,
+            "longitude": -49.284230,
+            "ordem": 66
+        },
+        {
+            "idcoordenadapercurso": 2209313,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.506460,
+            "longitude": -49.284120,
+            "ordem": 67
+        },
+        {
+            "idcoordenadapercurso": 2209314,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.505970,
+            "longitude": -49.283720,
+            "ordem": 68
+        },
+        {
+            "idcoordenadapercurso": 2209315,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.505710,
+            "longitude": -49.283520,
+            "ordem": 69
+        },
+        {
+            "idcoordenadapercurso": 2209316,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.505460,
+            "longitude": -49.283310,
+            "ordem": 70
+        },
+        {
+            "idcoordenadapercurso": 2209317,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.505310,
+            "longitude": -49.283200,
+            "ordem": 71
+        },
+        {
+            "idcoordenadapercurso": 2209318,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.505140,
+            "longitude": -49.283050,
+            "ordem": 72
+        },
+        {
+            "idcoordenadapercurso": 2209319,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.505000,
+            "longitude": -49.282940,
+            "ordem": 73
+        },
+        {
+            "idcoordenadapercurso": 2209320,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.504800,
+            "longitude": -49.282780,
+            "ordem": 74
+        },
+        {
+            "idcoordenadapercurso": 2209321,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.504570,
+            "longitude": -49.282600,
+            "ordem": 75
+        },
+        {
+            "idcoordenadapercurso": 2209322,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.504360,
+            "longitude": -49.282430,
+            "ordem": 76
+        },
+        {
+            "idcoordenadapercurso": 2209323,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.503970,
+            "longitude": -49.282110,
+            "ordem": 77
+        },
+        {
+            "idcoordenadapercurso": 2209324,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.503770,
+            "longitude": -49.281950,
+            "ordem": 78
+        },
+        {
+            "idcoordenadapercurso": 2209325,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.503620,
+            "longitude": -49.281820,
+            "ordem": 79
+        },
+        {
+            "idcoordenadapercurso": 2209326,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.503280,
+            "longitude": -49.281550,
+            "ordem": 80
+        },
+        {
+            "idcoordenadapercurso": 2209327,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.502990,
+            "longitude": -49.281310,
+            "ordem": 81
+        },
+        {
+            "idcoordenadapercurso": 2209328,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.502720,
+            "longitude": -49.281100,
+            "ordem": 82
+        },
+        {
+            "idcoordenadapercurso": 2209329,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.502510,
+            "longitude": -49.280920,
+            "ordem": 83
+        },
+        {
+            "idcoordenadapercurso": 2209330,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.502300,
+            "longitude": -49.280760,
+            "ordem": 84
+        },
+        {
+            "idcoordenadapercurso": 2209331,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.502100,
+            "longitude": -49.280590,
+            "ordem": 85
+        },
+        {
+            "idcoordenadapercurso": 2209332,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.501860,
+            "longitude": -49.280400,
+            "ordem": 86
+        },
+        {
+            "idcoordenadapercurso": 2209333,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.501650,
+            "longitude": -49.280230,
+            "ordem": 87
+        },
+        {
+            "idcoordenadapercurso": 2209334,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.501440,
+            "longitude": -49.280060,
+            "ordem": 88
+        },
+        {
+            "idcoordenadapercurso": 2209335,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.501340,
+            "longitude": -49.279980,
+            "ordem": 89
+        },
+        {
+            "idcoordenadapercurso": 2209336,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.501240,
+            "longitude": -49.279890,
+            "ordem": 90
+        },
+        {
+            "idcoordenadapercurso": 2209337,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.501060,
+            "longitude": -49.279750,
+            "ordem": 91
+        },
+        {
+            "idcoordenadapercurso": 2209338,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.500780,
+            "longitude": -49.279520,
+            "ordem": 92
+        },
+        {
+            "idcoordenadapercurso": 2209339,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.500630,
+            "longitude": -49.279400,
+            "ordem": 93
+        },
+        {
+            "idcoordenadapercurso": 2209340,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.500480,
+            "longitude": -49.279280,
+            "ordem": 94
+        },
+        {
+            "idcoordenadapercurso": 2209341,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.500290,
+            "longitude": -49.279130,
+            "ordem": 95
+        },
+        {
+            "idcoordenadapercurso": 2209342,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.500030,
+            "longitude": -49.278920,
+            "ordem": 96
+        },
+        {
+            "idcoordenadapercurso": 2209343,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.499920,
+            "longitude": -49.278830,
+            "ordem": 97
+        },
+        {
+            "idcoordenadapercurso": 2209344,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.499830,
+            "longitude": -49.278760,
+            "ordem": 98
+        },
+        {
+            "idcoordenadapercurso": 2209345,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.499670,
+            "longitude": -49.278630,
+            "ordem": 99
+        },
+        {
+            "idcoordenadapercurso": 2209346,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.499520,
+            "longitude": -49.278510,
+            "ordem": 100
+        },
+        {
+            "idcoordenadapercurso": 2209347,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.499370,
+            "longitude": -49.278400,
+            "ordem": 101
+        },
+        {
+            "idcoordenadapercurso": 2209348,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.499220,
+            "longitude": -49.278280,
+            "ordem": 102
+        },
+        {
+            "idcoordenadapercurso": 2209349,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.498930,
+            "longitude": -49.278040,
+            "ordem": 103
+        },
+        {
+            "idcoordenadapercurso": 2209350,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.498780,
+            "longitude": -49.277920,
+            "ordem": 104
+        },
+        {
+            "idcoordenadapercurso": 2209351,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.498700,
+            "longitude": -49.277860,
+            "ordem": 105
+        },
+        {
+            "idcoordenadapercurso": 2209352,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.498630,
+            "longitude": -49.277810,
+            "ordem": 106
+        },
+        {
+            "idcoordenadapercurso": 2209353,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.498530,
+            "longitude": -49.277730,
+            "ordem": 107
+        },
+        {
+            "idcoordenadapercurso": 2209354,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.498430,
+            "longitude": -49.277650,
+            "ordem": 108
+        },
+        {
+            "idcoordenadapercurso": 2209355,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.498330,
+            "longitude": -49.277580,
+            "ordem": 109
+        },
+        {
+            "idcoordenadapercurso": 2209356,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.498240,
+            "longitude": -49.277510,
+            "ordem": 110
+        },
+        {
+            "idcoordenadapercurso": 2209357,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.498040,
+            "longitude": -49.277360,
+            "ordem": 111
+        },
+        {
+            "idcoordenadapercurso": 2209358,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.497840,
+            "longitude": -49.277200,
+            "ordem": 112
+        },
+        {
+            "idcoordenadapercurso": 2209359,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.497680,
+            "longitude": -49.277080,
+            "ordem": 113
+        },
+        {
+            "idcoordenadapercurso": 2209360,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.497530,
+            "longitude": -49.276970,
+            "ordem": 114
+        },
+        {
+            "idcoordenadapercurso": 2209361,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.497320,
+            "longitude": -49.276790,
+            "ordem": 115
+        },
+        {
+            "idcoordenadapercurso": 2209362,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.497100,
+            "longitude": -49.276610,
+            "ordem": 116
+        },
+        {
+            "idcoordenadapercurso": 2209363,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.496740,
+            "longitude": -49.276320,
+            "ordem": 117
+        },
+        {
+            "idcoordenadapercurso": 2209364,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.496640,
+            "longitude": -49.276240,
+            "ordem": 118
+        },
+        {
+            "idcoordenadapercurso": 2209365,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.496540,
+            "longitude": -49.276150,
+            "ordem": 119
+        },
+        {
+            "idcoordenadapercurso": 2209366,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.496360,
+            "longitude": -49.276010,
+            "ordem": 120
+        },
+        {
+            "idcoordenadapercurso": 2209367,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.496260,
+            "longitude": -49.275930,
+            "ordem": 121
+        },
+        {
+            "idcoordenadapercurso": 2209368,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.496150,
+            "longitude": -49.275840,
+            "ordem": 122
+        },
+        {
+            "idcoordenadapercurso": 2209369,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.496090,
+            "longitude": -49.275790,
+            "ordem": 123
+        },
+        {
+            "idcoordenadapercurso": 2209370,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.496000,
+            "longitude": -49.275730,
+            "ordem": 124
+        },
+        {
+            "idcoordenadapercurso": 2209371,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.495890,
+            "longitude": -49.275650,
+            "ordem": 125
+        },
+        {
+            "idcoordenadapercurso": 2209372,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.495840,
+            "longitude": -49.275610,
+            "ordem": 126
+        },
+        {
+            "idcoordenadapercurso": 2209373,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.495790,
+            "longitude": -49.275560,
+            "ordem": 127
+        },
+        {
+            "idcoordenadapercurso": 2209374,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.495680,
+            "longitude": -49.275470,
+            "ordem": 128
+        },
+        {
+            "idcoordenadapercurso": 2209375,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.495560,
+            "longitude": -49.275370,
+            "ordem": 129
+        },
+        {
+            "idcoordenadapercurso": 2209376,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.495440,
+            "longitude": -49.275260,
+            "ordem": 130
+        },
+        {
+            "idcoordenadapercurso": 2209377,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.495330,
+            "longitude": -49.275170,
+            "ordem": 131
+        },
+        {
+            "idcoordenadapercurso": 2209378,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.495220,
+            "longitude": -49.275070,
+            "ordem": 132
+        },
+        {
+            "idcoordenadapercurso": 2209379,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.495120,
+            "longitude": -49.274980,
+            "ordem": 133
+        },
+        {
+            "idcoordenadapercurso": 2209380,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.495010,
+            "longitude": -49.274870,
+            "ordem": 134
+        },
+        {
+            "idcoordenadapercurso": 2209381,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.494870,
+            "longitude": -49.274740,
+            "ordem": 135
+        },
+        {
+            "idcoordenadapercurso": 2209382,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.494690,
+            "longitude": -49.274560,
+            "ordem": 136
+        },
+        {
+            "idcoordenadapercurso": 2209383,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.494570,
+            "longitude": -49.274440,
+            "ordem": 137
+        },
+        {
+            "idcoordenadapercurso": 2209384,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.494470,
+            "longitude": -49.274340,
+            "ordem": 138
+        },
+        {
+            "idcoordenadapercurso": 2209385,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.494240,
+            "longitude": -49.274150,
+            "ordem": 139
+        },
+        {
+            "idcoordenadapercurso": 2209386,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.494030,
+            "longitude": -49.273980,
+            "ordem": 140
+        },
+        {
+            "idcoordenadapercurso": 2209387,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.493860,
+            "longitude": -49.273840,
+            "ordem": 141
+        },
+        {
+            "idcoordenadapercurso": 2209388,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.493620,
+            "longitude": -49.273640,
+            "ordem": 142
+        },
+        {
+            "idcoordenadapercurso": 2209389,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.493360,
+            "longitude": -49.273430,
+            "ordem": 143
+        },
+        {
+            "idcoordenadapercurso": 2209390,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.493140,
+            "longitude": -49.273250,
+            "ordem": 144
+        },
+        {
+            "idcoordenadapercurso": 2209391,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.492800,
+            "longitude": -49.272970,
+            "ordem": 145
+        },
+        {
+            "idcoordenadapercurso": 2209392,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.492630,
+            "longitude": -49.272830,
+            "ordem": 146
+        },
+        {
+            "idcoordenadapercurso": 2209393,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.492480,
+            "longitude": -49.272710,
+            "ordem": 147
+        },
+        {
+            "idcoordenadapercurso": 2209394,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.492290,
+            "longitude": -49.272550,
+            "ordem": 148
+        },
+        {
+            "idcoordenadapercurso": 2209395,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.492100,
+            "longitude": -49.272400,
+            "ordem": 149
+        },
+        {
+            "idcoordenadapercurso": 2209396,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.491880,
+            "longitude": -49.272220,
+            "ordem": 150
+        },
+        {
+            "idcoordenadapercurso": 2209397,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.491660,
+            "longitude": -49.272050,
+            "ordem": 151
+        },
+        {
+            "idcoordenadapercurso": 2209398,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.491450,
+            "longitude": -49.271870,
+            "ordem": 152
+        },
+        {
+            "idcoordenadapercurso": 2209399,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.491240,
+            "longitude": -49.271700,
+            "ordem": 153
+        },
+        {
+            "idcoordenadapercurso": 2209400,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.491020,
+            "longitude": -49.271520,
+            "ordem": 154
+        },
+        {
+            "idcoordenadapercurso": 2209401,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.490800,
+            "longitude": -49.271340,
+            "ordem": 155
+        },
+        {
+            "idcoordenadapercurso": 2209402,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.490580,
+            "longitude": -49.271170,
+            "ordem": 156
+        },
+        {
+            "idcoordenadapercurso": 2209403,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.490360,
+            "longitude": -49.270990,
+            "ordem": 157
+        },
+        {
+            "idcoordenadapercurso": 2209404,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.489490,
+            "longitude": -49.270280,
+            "ordem": 158
+        },
+        {
+            "idcoordenadapercurso": 2209405,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.489260,
+            "longitude": -49.270090,
+            "ordem": 159
+        },
+        {
+            "idcoordenadapercurso": 2209406,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.489130,
+            "longitude": -49.269990,
+            "ordem": 160
+        },
+        {
+            "idcoordenadapercurso": 2209407,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.488820,
+            "longitude": -49.269740,
+            "ordem": 161
+        },
+        {
+            "idcoordenadapercurso": 2209408,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.488620,
+            "longitude": -49.269580,
+            "ordem": 162
+        },
+        {
+            "idcoordenadapercurso": 2209409,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.488440,
+            "longitude": -49.269430,
+            "ordem": 163
+        },
+        {
+            "idcoordenadapercurso": 2209410,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.488090,
+            "longitude": -49.269140,
+            "ordem": 164
+        },
+        {
+            "idcoordenadapercurso": 2209411,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.488000,
+            "longitude": -49.269060,
+            "ordem": 165
+        },
+        {
+            "idcoordenadapercurso": 2209412,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.487910,
+            "longitude": -49.269000,
+            "ordem": 166
+        },
+        {
+            "idcoordenadapercurso": 2209413,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.487730,
+            "longitude": -49.268860,
+            "ordem": 167
+        },
+        {
+            "idcoordenadapercurso": 2209414,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.487470,
+            "longitude": -49.268650,
+            "ordem": 168
+        },
+        {
+            "idcoordenadapercurso": 2209415,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.487200,
+            "longitude": -49.268430,
+            "ordem": 169
+        },
+        {
+            "idcoordenadapercurso": 2209416,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.486990,
+            "longitude": -49.268270,
+            "ordem": 170
+        },
+        {
+            "idcoordenadapercurso": 2209417,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.486900,
+            "longitude": -49.268210,
+            "ordem": 171
+        },
+        {
+            "idcoordenadapercurso": 2209418,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.486810,
+            "longitude": -49.268140,
+            "ordem": 172
+        },
+        {
+            "idcoordenadapercurso": 2209419,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.486640,
+            "longitude": -49.268020,
+            "ordem": 173
+        },
+        {
+            "idcoordenadapercurso": 2209420,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.486430,
+            "longitude": -49.267880,
+            "ordem": 174
+        },
+        {
+            "idcoordenadapercurso": 2209421,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.486240,
+            "longitude": -49.267730,
+            "ordem": 175
+        },
+        {
+            "idcoordenadapercurso": 2209422,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.486020,
+            "longitude": -49.267570,
+            "ordem": 176
+        },
+        {
+            "idcoordenadapercurso": 2209423,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.485820,
+            "longitude": -49.267420,
+            "ordem": 177
+        },
+        {
+            "idcoordenadapercurso": 2209424,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.485660,
+            "longitude": -49.267300,
+            "ordem": 178
+        },
+        {
+            "idcoordenadapercurso": 2209425,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.485520,
+            "longitude": -49.267180,
+            "ordem": 179
+        },
+        {
+            "idcoordenadapercurso": 2209426,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.485340,
+            "longitude": -49.267030,
+            "ordem": 180
+        },
+        {
+            "idcoordenadapercurso": 2209427,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.485090,
+            "longitude": -49.266830,
+            "ordem": 181
+        },
+        {
+            "idcoordenadapercurso": 2209428,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.484860,
+            "longitude": -49.266640,
+            "ordem": 182
+        },
+        {
+            "idcoordenadapercurso": 2209429,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.484710,
+            "longitude": -49.266520,
+            "ordem": 183
+        },
+        {
+            "idcoordenadapercurso": 2209430,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.484600,
+            "longitude": -49.266430,
+            "ordem": 184
+        },
+        {
+            "idcoordenadapercurso": 2209431,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.484390,
+            "longitude": -49.266270,
+            "ordem": 185
+        },
+        {
+            "idcoordenadapercurso": 2209432,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.484150,
+            "longitude": -49.266050,
+            "ordem": 186
+        },
+        {
+            "idcoordenadapercurso": 2209433,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.483920,
+            "longitude": -49.265830,
+            "ordem": 187
+        },
+        {
+            "idcoordenadapercurso": 2209434,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.483700,
+            "longitude": -49.265630,
+            "ordem": 188
+        },
+        {
+            "idcoordenadapercurso": 2209435,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.483530,
+            "longitude": -49.265490,
+            "ordem": 189
+        },
+        {
+            "idcoordenadapercurso": 2209436,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.483430,
+            "longitude": -49.265390,
+            "ordem": 190
+        },
+        {
+            "idcoordenadapercurso": 2209437,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.483290,
+            "longitude": -49.265270,
+            "ordem": 191
+        },
+        {
+            "idcoordenadapercurso": 2209438,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.483180,
+            "longitude": -49.265170,
+            "ordem": 192
+        },
+        {
+            "idcoordenadapercurso": 2209439,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.482970,
+            "longitude": -49.265010,
+            "ordem": 193
+        },
+        {
+            "idcoordenadapercurso": 2209440,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.482760,
+            "longitude": -49.264840,
+            "ordem": 194
+        },
+        {
+            "idcoordenadapercurso": 2209441,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.482440,
+            "longitude": -49.264580,
+            "ordem": 195
+        },
+        {
+            "idcoordenadapercurso": 2209442,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.482270,
+            "longitude": -49.264440,
+            "ordem": 196
+        },
+        {
+            "idcoordenadapercurso": 2209443,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.482050,
+            "longitude": -49.264270,
+            "ordem": 197
+        },
+        {
+            "idcoordenadapercurso": 2209444,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.481920,
+            "longitude": -49.264160,
+            "ordem": 198
+        },
+        {
+            "idcoordenadapercurso": 2209445,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.481620,
+            "longitude": -49.263920,
+            "ordem": 199
+        },
+        {
+            "idcoordenadapercurso": 2209446,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.481380,
+            "longitude": -49.263720,
+            "ordem": 200
+        },
+        {
+            "idcoordenadapercurso": 2209447,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.481200,
+            "longitude": -49.263580,
+            "ordem": 201
+        },
+        {
+            "idcoordenadapercurso": 2209448,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.480860,
+            "longitude": -49.263310,
+            "ordem": 202
+        },
+        {
+            "idcoordenadapercurso": 2209449,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.480420,
+            "longitude": -49.262950,
+            "ordem": 203
+        },
+        {
+            "idcoordenadapercurso": 2209450,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.479980,
+            "longitude": -49.262600,
+            "ordem": 204
+        },
+        {
+            "idcoordenadapercurso": 2209451,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.479700,
+            "longitude": -49.262380,
+            "ordem": 205
+        },
+        {
+            "idcoordenadapercurso": 2209452,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.479460,
+            "longitude": -49.262180,
+            "ordem": 206
+        },
+        {
+            "idcoordenadapercurso": 2209453,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.479240,
+            "longitude": -49.262010,
+            "ordem": 207
+        },
+        {
+            "idcoordenadapercurso": 2209454,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.479000,
+            "longitude": -49.261800,
+            "ordem": 208
+        },
+        {
+            "idcoordenadapercurso": 2209455,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.478790,
+            "longitude": -49.261640,
+            "ordem": 209
+        },
+        {
+            "idcoordenadapercurso": 2209456,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.478560,
+            "longitude": -49.261450,
+            "ordem": 210
+        },
+        {
+            "idcoordenadapercurso": 2209457,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.478290,
+            "longitude": -49.261240,
+            "ordem": 211
+        },
+        {
+            "idcoordenadapercurso": 2209458,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.478070,
+            "longitude": -49.261060,
+            "ordem": 212
+        },
+        {
+            "idcoordenadapercurso": 2209459,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.477860,
+            "longitude": -49.260890,
+            "ordem": 213
+        },
+        {
+            "idcoordenadapercurso": 2209460,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.477640,
+            "longitude": -49.260710,
+            "ordem": 214
+        },
+        {
+            "idcoordenadapercurso": 2209461,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.477370,
+            "longitude": -49.260500,
+            "ordem": 215
+        },
+        {
+            "idcoordenadapercurso": 2209462,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.477130,
+            "longitude": -49.260300,
+            "ordem": 216
+        },
+        {
+            "idcoordenadapercurso": 2209463,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.476870,
+            "longitude": -49.260090,
+            "ordem": 217
+        },
+        {
+            "idcoordenadapercurso": 2209464,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.476700,
+            "longitude": -49.259970,
+            "ordem": 218
+        },
+        {
+            "idcoordenadapercurso": 2209465,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.476540,
+            "longitude": -49.259860,
+            "ordem": 219
+        },
+        {
+            "idcoordenadapercurso": 2209466,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.476400,
+            "longitude": -49.259760,
+            "ordem": 220
+        },
+        {
+            "idcoordenadapercurso": 2209467,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.476240,
+            "longitude": -49.259660,
+            "ordem": 221
+        },
+        {
+            "idcoordenadapercurso": 2209468,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.476110,
+            "longitude": -49.259570,
+            "ordem": 222
+        },
+        {
+            "idcoordenadapercurso": 2209469,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.475990,
+            "longitude": -49.259500,
+            "ordem": 223
+        },
+        {
+            "idcoordenadapercurso": 2209470,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.475870,
+            "longitude": -49.259410,
+            "ordem": 224
+        },
+        {
+            "idcoordenadapercurso": 2209471,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.475800,
+            "longitude": -49.259360,
+            "ordem": 225
+        },
+        {
+            "idcoordenadapercurso": 2209472,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.475650,
+            "longitude": -49.259240,
+            "ordem": 226
+        },
+        {
+            "idcoordenadapercurso": 2209473,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.475450,
+            "longitude": -49.259080,
+            "ordem": 227
+        },
+        {
+            "idcoordenadapercurso": 2209474,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.475310,
+            "longitude": -49.258960,
+            "ordem": 228
+        },
+        {
+            "idcoordenadapercurso": 2209475,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.475140,
+            "longitude": -49.258820,
+            "ordem": 229
+        },
+        {
+            "idcoordenadapercurso": 2209476,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.474970,
+            "longitude": -49.258690,
+            "ordem": 230
+        },
+        {
+            "idcoordenadapercurso": 2209477,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.474680,
+            "longitude": -49.258450,
+            "ordem": 231
+        },
+        {
+            "idcoordenadapercurso": 2209478,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.474400,
+            "longitude": -49.258210,
+            "ordem": 232
+        },
+        {
+            "idcoordenadapercurso": 2209479,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.474160,
+            "longitude": -49.258010,
+            "ordem": 233
+        },
+        {
+            "idcoordenadapercurso": 2209480,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.473940,
+            "longitude": -49.257830,
+            "ordem": 234
+        },
+        {
+            "idcoordenadapercurso": 2209481,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.473670,
+            "longitude": -49.257620,
+            "ordem": 235
+        },
+        {
+            "idcoordenadapercurso": 2209482,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.473420,
+            "longitude": -49.257410,
+            "ordem": 236
+        },
+        {
+            "idcoordenadapercurso": 2209483,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.473160,
+            "longitude": -49.257200,
+            "ordem": 237
+        },
+        {
+            "idcoordenadapercurso": 2209484,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.473010,
+            "longitude": -49.257080,
+            "ordem": 238
+        },
+        {
+            "idcoordenadapercurso": 2209485,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.472810,
+            "longitude": -49.256910,
+            "ordem": 239
+        },
+        {
+            "idcoordenadapercurso": 2209486,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.472390,
+            "longitude": -49.256580,
+            "ordem": 240
+        },
+        {
+            "idcoordenadapercurso": 2209487,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.472300,
+            "longitude": -49.256510,
+            "ordem": 241
+        },
+        {
+            "idcoordenadapercurso": 2209488,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.471660,
+            "longitude": -49.256000,
+            "ordem": 242
+        },
+        {
+            "idcoordenadapercurso": 2209489,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.471340,
+            "longitude": -49.255730,
+            "ordem": 243
+        },
+        {
+            "idcoordenadapercurso": 2209490,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.471120,
+            "longitude": -49.255560,
+            "ordem": 244
+        },
+        {
+            "idcoordenadapercurso": 2209491,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470940,
+            "longitude": -49.255410,
+            "ordem": 245
+        },
+        {
+            "idcoordenadapercurso": 2209492,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470800,
+            "longitude": -49.255300,
+            "ordem": 246
+        },
+        {
+            "idcoordenadapercurso": 2209493,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470500,
+            "longitude": -49.255060,
+            "ordem": 247
+        },
+        {
+            "idcoordenadapercurso": 2209494,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470420,
+            "longitude": -49.255000,
+            "ordem": 248
+        },
+        {
+            "idcoordenadapercurso": 2209495,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470320,
+            "longitude": -49.254930,
+            "ordem": 249
+        },
+        {
+            "idcoordenadapercurso": 2209496,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470290,
+            "longitude": -49.254910,
+            "ordem": 250
+        },
+        {
+            "idcoordenadapercurso": 2209497,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470260,
+            "longitude": -49.254890,
+            "ordem": 251
+        },
+        {
+            "idcoordenadapercurso": 2209498,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470230,
+            "longitude": -49.254860,
+            "ordem": 252
+        },
+        {
+            "idcoordenadapercurso": 2209499,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470170,
+            "longitude": -49.254820,
+            "ordem": 253
+        },
+        {
+            "idcoordenadapercurso": 2209500,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470060,
+            "longitude": -49.254700,
+            "ordem": 254
+        },
+        {
+            "idcoordenadapercurso": 2209501,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.470010,
+            "longitude": -49.254650,
+            "ordem": 255
+        },
+        {
+            "idcoordenadapercurso": 2209502,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.469970,
+            "longitude": -49.254600,
+            "ordem": 256
+        },
+        {
+            "idcoordenadapercurso": 2209503,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.469900,
+            "longitude": -49.254530,
+            "ordem": 257
+        },
+        {
+            "idcoordenadapercurso": 2209504,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.469750,
+            "longitude": -49.254400,
+            "ordem": 258
+        },
+        {
+            "idcoordenadapercurso": 2209505,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.469690,
+            "longitude": -49.254350,
+            "ordem": 259
+        },
+        {
+            "idcoordenadapercurso": 2209506,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.469630,
+            "longitude": -49.254290,
+            "ordem": 260
+        },
+        {
+            "idcoordenadapercurso": 2209507,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.469520,
+            "longitude": -49.254200,
+            "ordem": 261
+        },
+        {
+            "idcoordenadapercurso": 2209508,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.469310,
+            "longitude": -49.254040,
+            "ordem": 262
+        },
+        {
+            "idcoordenadapercurso": 2209509,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.469160,
+            "longitude": -49.253920,
+            "ordem": 263
+        },
+        {
+            "idcoordenadapercurso": 2209510,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.469020,
+            "longitude": -49.253810,
+            "ordem": 264
+        },
+        {
+            "idcoordenadapercurso": 2209511,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468860,
+            "longitude": -49.253680,
+            "ordem": 265
+        },
+        {
+            "idcoordenadapercurso": 2209512,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468710,
+            "longitude": -49.253560,
+            "ordem": 266
+        },
+        {
+            "idcoordenadapercurso": 2209513,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468590,
+            "longitude": -49.253470,
+            "ordem": 267
+        },
+        {
+            "idcoordenadapercurso": 2209514,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468520,
+            "longitude": -49.253400,
+            "ordem": 268
+        },
+        {
+            "idcoordenadapercurso": 2209515,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468430,
+            "longitude": -49.253350,
+            "ordem": 269
+        },
+        {
+            "idcoordenadapercurso": 2209516,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468380,
+            "longitude": -49.253320,
+            "ordem": 270
+        },
+        {
+            "idcoordenadapercurso": 2209517,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468270,
+            "longitude": -49.253260,
+            "ordem": 271
+        },
+        {
+            "idcoordenadapercurso": 2209518,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468190,
+            "longitude": -49.253290,
+            "ordem": 272
+        },
+        {
+            "idcoordenadapercurso": 2209519,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468160,
+            "longitude": -49.253300,
+            "ordem": 273
+        },
+        {
+            "idcoordenadapercurso": 2209520,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468130,
+            "longitude": -49.253310,
+            "ordem": 274
+        },
+        {
+            "idcoordenadapercurso": 2209521,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468100,
+            "longitude": -49.253340,
+            "ordem": 275
+        },
+        {
+            "idcoordenadapercurso": 2209522,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.468020,
+            "longitude": -49.253400,
+            "ordem": 276
+        },
+        {
+            "idcoordenadapercurso": 2209523,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.467930,
+            "longitude": -49.253470,
+            "ordem": 277
+        },
+        {
+            "idcoordenadapercurso": 2209524,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.467790,
+            "longitude": -49.253580,
+            "ordem": 278
+        },
+        {
+            "idcoordenadapercurso": 2209525,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.467610,
+            "longitude": -49.253720,
+            "ordem": 279
+        },
+        {
+            "idcoordenadapercurso": 2209526,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.467380,
+            "longitude": -49.253890,
+            "ordem": 280
+        },
+        {
+            "idcoordenadapercurso": 2209527,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.467240,
+            "longitude": -49.254000,
+            "ordem": 281
+        },
+        {
+            "idcoordenadapercurso": 2209528,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.467160,
+            "longitude": -49.254080,
+            "ordem": 282
+        },
+        {
+            "idcoordenadapercurso": 2209529,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.467110,
+            "longitude": -49.254140,
+            "ordem": 283
+        },
+        {
+            "idcoordenadapercurso": 2209530,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.467060,
+            "longitude": -49.254190,
+            "ordem": 284
+        },
+        {
+            "idcoordenadapercurso": 2209531,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.467000,
+            "longitude": -49.254210,
+            "ordem": 285
+        },
+        {
+            "idcoordenadapercurso": 2209532,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.466940,
+            "longitude": -49.254240,
+            "ordem": 286
+        },
+        {
+            "idcoordenadapercurso": 2209533,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.466690,
+            "longitude": -49.254370,
+            "ordem": 287
+        },
+        {
+            "idcoordenadapercurso": 2209534,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.466650,
+            "longitude": -49.254390,
+            "ordem": 288
+        },
+        {
+            "idcoordenadapercurso": 2209535,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.466490,
+            "longitude": -49.254480,
+            "ordem": 289
+        },
+        {
+            "idcoordenadapercurso": 2209536,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.466460,
+            "longitude": -49.254490,
+            "ordem": 290
+        },
+        {
+            "idcoordenadapercurso": 2209537,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.466440,
+            "longitude": -49.254510,
+            "ordem": 291
+        },
+        {
+            "idcoordenadapercurso": 2209538,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.466210,
+            "longitude": -49.254710,
+            "ordem": 292
+        },
+        {
+            "idcoordenadapercurso": 2209539,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.466120,
+            "longitude": -49.254780,
+            "ordem": 293
+        },
+        {
+            "idcoordenadapercurso": 2209540,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.466040,
+            "longitude": -49.254840,
+            "ordem": 294
+        },
+        {
+            "idcoordenadapercurso": 2209541,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.465950,
+            "longitude": -49.254880,
+            "ordem": 295
+        },
+        {
+            "idcoordenadapercurso": 2209542,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.465710,
+            "longitude": -49.255010,
+            "ordem": 296
+        },
+        {
+            "idcoordenadapercurso": 2209543,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.465630,
+            "longitude": -49.255050,
+            "ordem": 297
+        },
+        {
+            "idcoordenadapercurso": 2209544,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.465550,
+            "longitude": -49.255090,
+            "ordem": 298
+        },
+        {
+            "idcoordenadapercurso": 2209545,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.465490,
+            "longitude": -49.255120,
+            "ordem": 299
+        },
+        {
+            "idcoordenadapercurso": 2209546,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.465440,
+            "longitude": -49.255140,
+            "ordem": 300
+        },
+        {
+            "idcoordenadapercurso": 2209547,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.465280,
+            "longitude": -49.255210,
+            "ordem": 301
+        },
+        {
+            "idcoordenadapercurso": 2209548,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.465100,
+            "longitude": -49.255290,
+            "ordem": 302
+        },
+        {
+            "idcoordenadapercurso": 2209549,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.464600,
+            "longitude": -49.255540,
+            "ordem": 303
+        },
+        {
+            "idcoordenadapercurso": 2209550,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.464480,
+            "longitude": -49.255600,
+            "ordem": 304
+        },
+        {
+            "idcoordenadapercurso": 2209551,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.464360,
+            "longitude": -49.255660,
+            "ordem": 305
+        },
+        {
+            "idcoordenadapercurso": 2209552,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.464210,
+            "longitude": -49.255730,
+            "ordem": 306
+        },
+        {
+            "idcoordenadapercurso": 2209553,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.464130,
+            "longitude": -49.255770,
+            "ordem": 307
+        },
+        {
+            "idcoordenadapercurso": 2209554,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.464060,
+            "longitude": -49.255810,
+            "ordem": 308
+        },
+        {
+            "idcoordenadapercurso": 2209555,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.463820,
+            "longitude": -49.255920,
+            "ordem": 309
+        },
+        {
+            "idcoordenadapercurso": 2209556,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.463580,
+            "longitude": -49.256040,
+            "ordem": 310
+        },
+        {
+            "idcoordenadapercurso": 2209557,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.463440,
+            "longitude": -49.256100,
+            "ordem": 311
+        },
+        {
+            "idcoordenadapercurso": 2209558,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.463310,
+            "longitude": -49.256170,
+            "ordem": 312
+        },
+        {
+            "idcoordenadapercurso": 2209559,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.463180,
+            "longitude": -49.256240,
+            "ordem": 313
+        },
+        {
+            "idcoordenadapercurso": 2209560,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.463040,
+            "longitude": -49.256310,
+            "ordem": 314
+        },
+        {
+            "idcoordenadapercurso": 2209561,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.462790,
+            "longitude": -49.256440,
+            "ordem": 315
+        },
+        {
+            "idcoordenadapercurso": 2209562,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.462550,
+            "longitude": -49.256560,
+            "ordem": 316
+        },
+        {
+            "idcoordenadapercurso": 2209563,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.462310,
+            "longitude": -49.256690,
+            "ordem": 317
+        },
+        {
+            "idcoordenadapercurso": 2209564,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.462050,
+            "longitude": -49.256800,
+            "ordem": 318
+        },
+        {
+            "idcoordenadapercurso": 2209565,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.461870,
+            "longitude": -49.256890,
+            "ordem": 319
+        },
+        {
+            "idcoordenadapercurso": 2209566,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.461690,
+            "longitude": -49.256970,
+            "ordem": 320
+        },
+        {
+            "idcoordenadapercurso": 2209567,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.461510,
+            "longitude": -49.257060,
+            "ordem": 321
+        },
+        {
+            "idcoordenadapercurso": 2209568,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.461420,
+            "longitude": -49.257100,
+            "ordem": 322
+        },
+        {
+            "idcoordenadapercurso": 2209569,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.461330,
+            "longitude": -49.257140,
+            "ordem": 323
+        },
+        {
+            "idcoordenadapercurso": 2209570,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.461130,
+            "longitude": -49.257240,
+            "ordem": 324
+        },
+        {
+            "idcoordenadapercurso": 2209571,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.460970,
+            "longitude": -49.257320,
+            "ordem": 325
+        },
+        {
+            "idcoordenadapercurso": 2209572,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.460800,
+            "longitude": -49.257410,
+            "ordem": 326
+        },
+        {
+            "idcoordenadapercurso": 2209573,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.460620,
+            "longitude": -49.257490,
+            "ordem": 327
+        },
+        {
+            "idcoordenadapercurso": 2209574,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.460270,
+            "longitude": -49.257660,
+            "ordem": 328
+        },
+        {
+            "idcoordenadapercurso": 2209575,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.460090,
+            "longitude": -49.257750,
+            "ordem": 329
+        },
+        {
+            "idcoordenadapercurso": 2209576,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.459930,
+            "longitude": -49.257820,
+            "ordem": 330
+        },
+        {
+            "idcoordenadapercurso": 2209577,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.459580,
+            "longitude": -49.257990,
+            "ordem": 331
+        },
+        {
+            "idcoordenadapercurso": 2209578,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.459400,
+            "longitude": -49.258080,
+            "ordem": 332
+        },
+        {
+            "idcoordenadapercurso": 2209579,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.459230,
+            "longitude": -49.258150,
+            "ordem": 333
+        },
+        {
+            "idcoordenadapercurso": 2209580,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.459040,
+            "longitude": -49.258250,
+            "ordem": 334
+        },
+        {
+            "idcoordenadapercurso": 2209581,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.458830,
+            "longitude": -49.258350,
+            "ordem": 335
+        },
+        {
+            "idcoordenadapercurso": 2209582,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.458600,
+            "longitude": -49.258470,
+            "ordem": 336
+        },
+        {
+            "idcoordenadapercurso": 2209583,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.458500,
+            "longitude": -49.258530,
+            "ordem": 337
+        },
+        {
+            "idcoordenadapercurso": 2209584,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.458430,
+            "longitude": -49.258570,
+            "ordem": 338
+        },
+        {
+            "idcoordenadapercurso": 2209585,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.458370,
+            "longitude": -49.258590,
+            "ordem": 339
+        },
+        {
+            "idcoordenadapercurso": 2209586,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.458070,
+            "longitude": -49.258740,
+            "ordem": 340
+        },
+        {
+            "idcoordenadapercurso": 2209587,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.457920,
+            "longitude": -49.258810,
+            "ordem": 341
+        },
+        {
+            "idcoordenadapercurso": 2209588,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.457780,
+            "longitude": -49.258880,
+            "ordem": 342
+        },
+        {
+            "idcoordenadapercurso": 2209589,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.457610,
+            "longitude": -49.258960,
+            "ordem": 343
+        },
+        {
+            "idcoordenadapercurso": 2209590,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.457460,
+            "longitude": -49.259030,
+            "ordem": 344
+        },
+        {
+            "idcoordenadapercurso": 2209591,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.457140,
+            "longitude": -49.259190,
+            "ordem": 345
+        },
+        {
+            "idcoordenadapercurso": 2209592,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.456810,
+            "longitude": -49.259360,
+            "ordem": 346
+        },
+        {
+            "idcoordenadapercurso": 2209593,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.456480,
+            "longitude": -49.259520,
+            "ordem": 347
+        },
+        {
+            "idcoordenadapercurso": 2209594,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.456320,
+            "longitude": -49.259600,
+            "ordem": 348
+        },
+        {
+            "idcoordenadapercurso": 2209595,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.456150,
+            "longitude": -49.259680,
+            "ordem": 349
+        },
+        {
+            "idcoordenadapercurso": 2209596,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.455990,
+            "longitude": -49.259760,
+            "ordem": 350
+        },
+        {
+            "idcoordenadapercurso": 2209597,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.455830,
+            "longitude": -49.259840,
+            "ordem": 351
+        },
+        {
+            "idcoordenadapercurso": 2209598,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.455500,
+            "longitude": -49.260000,
+            "ordem": 352
+        },
+        {
+            "idcoordenadapercurso": 2209599,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.455160,
+            "longitude": -49.260160,
+            "ordem": 353
+        },
+        {
+            "idcoordenadapercurso": 2209600,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.454870,
+            "longitude": -49.260310,
+            "ordem": 354
+        },
+        {
+            "idcoordenadapercurso": 2209601,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.454650,
+            "longitude": -49.260410,
+            "ordem": 355
+        },
+        {
+            "idcoordenadapercurso": 2209602,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.454460,
+            "longitude": -49.260500,
+            "ordem": 356
+        },
+        {
+            "idcoordenadapercurso": 2209603,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.453810,
+            "longitude": -49.260810,
+            "ordem": 357
+        },
+        {
+            "idcoordenadapercurso": 2209604,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.453530,
+            "longitude": -49.260950,
+            "ordem": 358
+        },
+        {
+            "idcoordenadapercurso": 2209605,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.453260,
+            "longitude": -49.261080,
+            "ordem": 359
+        },
+        {
+            "idcoordenadapercurso": 2209606,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.452930,
+            "longitude": -49.261240,
+            "ordem": 360
+        },
+        {
+            "idcoordenadapercurso": 2209607,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.452690,
+            "longitude": -49.261360,
+            "ordem": 361
+        },
+        {
+            "idcoordenadapercurso": 2209608,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.452410,
+            "longitude": -49.261490,
+            "ordem": 362
+        },
+        {
+            "idcoordenadapercurso": 2209609,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.452060,
+            "longitude": -49.261660,
+            "ordem": 363
+        },
+        {
+            "idcoordenadapercurso": 2209610,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.451800,
+            "longitude": -49.261800,
+            "ordem": 364
+        },
+        {
+            "idcoordenadapercurso": 2209611,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.451530,
+            "longitude": -49.261920,
+            "ordem": 365
+        },
+        {
+            "idcoordenadapercurso": 2209612,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.451210,
+            "longitude": -49.262080,
+            "ordem": 366
+        },
+        {
+            "idcoordenadapercurso": 2209613,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.450900,
+            "longitude": -49.262230,
+            "ordem": 367
+        },
+        {
+            "idcoordenadapercurso": 2209614,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.450850,
+            "longitude": -49.262260,
+            "ordem": 368
+        },
+        {
+            "idcoordenadapercurso": 2209615,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.450720,
+            "longitude": -49.262280,
+            "ordem": 369
+        },
+        {
+            "idcoordenadapercurso": 2209616,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.450200,
+            "longitude": -49.262530,
+            "ordem": 370
+        },
+        {
+            "idcoordenadapercurso": 2209617,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.449900,
+            "longitude": -49.262670,
+            "ordem": 371
+        },
+        {
+            "idcoordenadapercurso": 2209618,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.449600,
+            "longitude": -49.262810,
+            "ordem": 372
+        },
+        {
+            "idcoordenadapercurso": 2209619,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.449330,
+            "longitude": -49.262950,
+            "ordem": 373
+        },
+        {
+            "idcoordenadapercurso": 2209620,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.449100,
+            "longitude": -49.263060,
+            "ordem": 374
+        },
+        {
+            "idcoordenadapercurso": 2209621,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.448590,
+            "longitude": -49.263310,
+            "ordem": 375
+        },
+        {
+            "idcoordenadapercurso": 2209622,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.448210,
+            "longitude": -49.263500,
+            "ordem": 376
+        },
+        {
+            "idcoordenadapercurso": 2209623,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.447770,
+            "longitude": -49.263720,
+            "ordem": 377
+        },
+        {
+            "idcoordenadapercurso": 2209624,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.447320,
+            "longitude": -49.263940,
+            "ordem": 378
+        },
+        {
+            "idcoordenadapercurso": 2209625,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.447070,
+            "longitude": -49.264070,
+            "ordem": 379
+        },
+        {
+            "idcoordenadapercurso": 2209626,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.446800,
+            "longitude": -49.264200,
+            "ordem": 380
+        },
+        {
+            "idcoordenadapercurso": 2209627,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.446350,
+            "longitude": -49.264420,
+            "ordem": 381
+        },
+        {
+            "idcoordenadapercurso": 2209628,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.445930,
+            "longitude": -49.264620,
+            "ordem": 382
+        },
+        {
+            "idcoordenadapercurso": 2209629,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.445570,
+            "longitude": -49.264800,
+            "ordem": 383
+        },
+        {
+            "idcoordenadapercurso": 2209630,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.445200,
+            "longitude": -49.264980,
+            "ordem": 384
+        },
+        {
+            "idcoordenadapercurso": 2209631,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.444820,
+            "longitude": -49.265170,
+            "ordem": 385
+        },
+        {
+            "idcoordenadapercurso": 2209632,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.444620,
+            "longitude": -49.265270,
+            "ordem": 386
+        },
+        {
+            "idcoordenadapercurso": 2209633,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.444280,
+            "longitude": -49.265430,
+            "ordem": 387
+        },
+        {
+            "idcoordenadapercurso": 2209634,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.444030,
+            "longitude": -49.265550,
+            "ordem": 388
+        },
+        {
+            "idcoordenadapercurso": 2209635,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.443820,
+            "longitude": -49.265660,
+            "ordem": 389
+        },
+        {
+            "idcoordenadapercurso": 2209636,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.443560,
+            "longitude": -49.265780,
+            "ordem": 390
+        },
+        {
+            "idcoordenadapercurso": 2209637,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.443410,
+            "longitude": -49.265860,
+            "ordem": 391
+        },
+        {
+            "idcoordenadapercurso": 2209638,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.443210,
+            "longitude": -49.265960,
+            "ordem": 392
+        },
+        {
+            "idcoordenadapercurso": 2209639,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.443100,
+            "longitude": -49.266010,
+            "ordem": 393
+        },
+        {
+            "idcoordenadapercurso": 2209640,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.442900,
+            "longitude": -49.266130,
+            "ordem": 394
+        },
+        {
+            "idcoordenadapercurso": 2209641,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.442780,
+            "longitude": -49.266210,
+            "ordem": 395
+        },
+        {
+            "idcoordenadapercurso": 2209642,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.442480,
+            "longitude": -49.266370,
+            "ordem": 396
+        },
+        {
+            "idcoordenadapercurso": 2209643,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.442270,
+            "longitude": -49.266490,
+            "ordem": 397
+        },
+        {
+            "idcoordenadapercurso": 2209644,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.442060,
+            "longitude": -49.266600,
+            "ordem": 398
+        },
+        {
+            "idcoordenadapercurso": 2209645,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.441950,
+            "longitude": -49.266650,
+            "ordem": 399
+        },
+        {
+            "idcoordenadapercurso": 2209646,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.441730,
+            "longitude": -49.266750,
+            "ordem": 400
+        },
+        {
+            "idcoordenadapercurso": 2209647,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.441510,
+            "longitude": -49.266860,
+            "ordem": 401
+        },
+        {
+            "idcoordenadapercurso": 2209648,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.441310,
+            "longitude": -49.266960,
+            "ordem": 402
+        },
+        {
+            "idcoordenadapercurso": 2209649,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.440870,
+            "longitude": -49.267190,
+            "ordem": 403
+        },
+        {
+            "idcoordenadapercurso": 2209650,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.440760,
+            "longitude": -49.267240,
+            "ordem": 404
+        },
+        {
+            "idcoordenadapercurso": 2209651,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.440640,
+            "longitude": -49.267310,
+            "ordem": 405
+        },
+        {
+            "idcoordenadapercurso": 2209652,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.440480,
+            "longitude": -49.267390,
+            "ordem": 406
+        },
+        {
+            "idcoordenadapercurso": 2209653,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.440280,
+            "longitude": -49.267500,
+            "ordem": 407
+        },
+        {
+            "idcoordenadapercurso": 2209654,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.440060,
+            "longitude": -49.267610,
+            "ordem": 408
+        },
+        {
+            "idcoordenadapercurso": 2209655,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.439850,
+            "longitude": -49.267730,
+            "ordem": 409
+        },
+        {
+            "idcoordenadapercurso": 2209656,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.439600,
+            "longitude": -49.267840,
+            "ordem": 410
+        },
+        {
+            "idcoordenadapercurso": 2209657,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.439320,
+            "longitude": -49.267980,
+            "ordem": 411
+        },
+        {
+            "idcoordenadapercurso": 2209658,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.438970,
+            "longitude": -49.268140,
+            "ordem": 412
+        },
+        {
+            "idcoordenadapercurso": 2209659,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.438680,
+            "longitude": -49.268280,
+            "ordem": 413
+        },
+        {
+            "idcoordenadapercurso": 2209660,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.438390,
+            "longitude": -49.268410,
+            "ordem": 414
+        },
+        {
+            "idcoordenadapercurso": 2209661,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.438150,
+            "longitude": -49.267820,
+            "ordem": 415
+        },
+        {
+            "idcoordenadapercurso": 2209662,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.437990,
+            "longitude": -49.267380,
+            "ordem": 416
+        },
+        {
+            "idcoordenadapercurso": 2209663,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.437800,
+            "longitude": -49.267380,
+            "ordem": 417
+        },
+        {
+            "idcoordenadapercurso": 2209664,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.437580,
+            "longitude": -49.267470,
+            "ordem": 418
+        },
+        {
+            "idcoordenadapercurso": 2209665,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.437180,
+            "longitude": -49.267660,
+            "ordem": 419
+        },
+        {
+            "idcoordenadapercurso": 2209666,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.437050,
+            "longitude": -49.267720,
+            "ordem": 420
+        },
+        {
+            "idcoordenadapercurso": 2209667,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.436660,
+            "longitude": -49.267900,
+            "ordem": 421
+        },
+        {
+            "idcoordenadapercurso": 2209668,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.436420,
+            "longitude": -49.268030,
+            "ordem": 422
+        },
+        {
+            "idcoordenadapercurso": 2209669,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.436000,
+            "longitude": -49.268250,
+            "ordem": 423
+        },
+        {
+            "idcoordenadapercurso": 2209670,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.435610,
+            "longitude": -49.268450,
+            "ordem": 424
+        },
+        {
+            "idcoordenadapercurso": 2209671,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.435220,
+            "longitude": -49.268640,
+            "ordem": 425
+        },
+        {
+            "idcoordenadapercurso": 2209672,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.434960,
+            "longitude": -49.268780,
+            "ordem": 426
+        },
+        {
+            "idcoordenadapercurso": 2209673,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.434820,
+            "longitude": -49.268850,
+            "ordem": 427
+        },
+        {
+            "idcoordenadapercurso": 2209674,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.434430,
+            "longitude": -49.269030,
+            "ordem": 428
+        },
+        {
+            "idcoordenadapercurso": 2209675,
+            "idpercurso": 9572,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_001_Sentido Praça Carlos Gomes.gpx",
+            "latitude": -25.434010,
+            "longitude": -49.269220,
+            "ordem": 429
+        }
+    ]
+}

@@ -1,0 +1,3309 @@
+{
+    "status": "success",
+    "coordenadasPercurso": [
+        {
+            "idcoordenadapercurso": 5096057,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491274,
+            "longitude": -49.285822,
+            "ordem": 1
+        },
+        {
+            "idcoordenadapercurso": 5096058,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491881,
+            "longitude": -49.285564,
+            "ordem": 2
+        },
+        {
+            "idcoordenadapercurso": 5096059,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.492392,
+            "longitude": -49.285317,
+            "ordem": 3
+        },
+        {
+            "idcoordenadapercurso": 5096060,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.492035,
+            "longitude": -49.285019,
+            "ordem": 4
+        },
+        {
+            "idcoordenadapercurso": 5096061,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491641,
+            "longitude": -49.284683,
+            "ordem": 5
+        },
+        {
+            "idcoordenadapercurso": 5096062,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491250,
+            "longitude": -49.284379,
+            "ordem": 6
+        },
+        {
+            "idcoordenadapercurso": 5096063,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490999,
+            "longitude": -49.284208,
+            "ordem": 7
+        },
+        {
+            "idcoordenadapercurso": 5096064,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490909,
+            "longitude": -49.284138,
+            "ordem": 8
+        },
+        {
+            "idcoordenadapercurso": 5096065,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490889,
+            "longitude": -49.284108,
+            "ordem": 9
+        },
+        {
+            "idcoordenadapercurso": 5096066,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490872,
+            "longitude": -49.284062,
+            "ordem": 10
+        },
+        {
+            "idcoordenadapercurso": 5096067,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490882,
+            "longitude": -49.284004,
+            "ordem": 11
+        },
+        {
+            "idcoordenadapercurso": 5096068,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490966,
+            "longitude": -49.283874,
+            "ordem": 12
+        },
+        {
+            "idcoordenadapercurso": 5096069,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491167,
+            "longitude": -49.283562,
+            "ordem": 13
+        },
+        {
+            "idcoordenadapercurso": 5096070,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491697,
+            "longitude": -49.282780,
+            "ordem": 14
+        },
+        {
+            "idcoordenadapercurso": 5096071,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.492599,
+            "longitude": -49.281453,
+            "ordem": 15
+        },
+        {
+            "idcoordenadapercurso": 5096072,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.492732,
+            "longitude": -49.281264,
+            "ordem": 16
+        },
+        {
+            "idcoordenadapercurso": 5096073,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.492862,
+            "longitude": -49.281071,
+            "ordem": 17
+        },
+        {
+            "idcoordenadapercurso": 5096074,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.493048,
+            "longitude": -49.280797,
+            "ordem": 18
+        },
+        {
+            "idcoordenadapercurso": 5096075,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.493193,
+            "longitude": -49.280579,
+            "ordem": 19
+        },
+        {
+            "idcoordenadapercurso": 5096076,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.493312,
+            "longitude": -49.280407,
+            "ordem": 20
+        },
+        {
+            "idcoordenadapercurso": 5096077,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.493542,
+            "longitude": -49.280588,
+            "ordem": 21
+        },
+        {
+            "idcoordenadapercurso": 5096078,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.493750,
+            "longitude": -49.280752,
+            "ordem": 22
+        },
+        {
+            "idcoordenadapercurso": 5096079,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.493955,
+            "longitude": -49.280909,
+            "ordem": 23
+        },
+        {
+            "idcoordenadapercurso": 5096080,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494058,
+            "longitude": -49.280999,
+            "ordem": 24
+        },
+        {
+            "idcoordenadapercurso": 5096081,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494226,
+            "longitude": -49.281148,
+            "ordem": 25
+        },
+        {
+            "idcoordenadapercurso": 5096082,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494388,
+            "longitude": -49.281211,
+            "ordem": 26
+        },
+        {
+            "idcoordenadapercurso": 5096083,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494399,
+            "longitude": -49.281486,
+            "ordem": 27
+        },
+        {
+            "idcoordenadapercurso": 5096084,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494427,
+            "longitude": -49.281875,
+            "ordem": 28
+        },
+        {
+            "idcoordenadapercurso": 5096085,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494464,
+            "longitude": -49.282284,
+            "ordem": 29
+        },
+        {
+            "idcoordenadapercurso": 5096086,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494496,
+            "longitude": -49.282611,
+            "ordem": 30
+        },
+        {
+            "idcoordenadapercurso": 5096087,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494512,
+            "longitude": -49.282780,
+            "ordem": 31
+        },
+        {
+            "idcoordenadapercurso": 5096088,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494549,
+            "longitude": -49.283121,
+            "ordem": 32
+        },
+        {
+            "idcoordenadapercurso": 5096089,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494562,
+            "longitude": -49.283248,
+            "ordem": 33
+        },
+        {
+            "idcoordenadapercurso": 5096090,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494579,
+            "longitude": -49.283486,
+            "ordem": 34
+        },
+        {
+            "idcoordenadapercurso": 5096091,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494593,
+            "longitude": -49.283635,
+            "ordem": 35
+        },
+        {
+            "idcoordenadapercurso": 5096092,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494604,
+            "longitude": -49.283822,
+            "ordem": 36
+        },
+        {
+            "idcoordenadapercurso": 5096093,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494625,
+            "longitude": -49.284208,
+            "ordem": 37
+        },
+        {
+            "idcoordenadapercurso": 5096094,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494633,
+            "longitude": -49.284535,
+            "ordem": 38
+        },
+        {
+            "idcoordenadapercurso": 5096095,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494644,
+            "longitude": -49.284829,
+            "ordem": 39
+        },
+        {
+            "idcoordenadapercurso": 5096096,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494643,
+            "longitude": -49.284948,
+            "ordem": 40
+        },
+        {
+            "idcoordenadapercurso": 5096097,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494643,
+            "longitude": -49.285332,
+            "ordem": 41
+        },
+        {
+            "idcoordenadapercurso": 5096098,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494628,
+            "longitude": -49.285707,
+            "ordem": 42
+        },
+        {
+            "idcoordenadapercurso": 5096099,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494629,
+            "longitude": -49.285864,
+            "ordem": 43
+        },
+        {
+            "idcoordenadapercurso": 5096100,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494631,
+            "longitude": -49.285926,
+            "ordem": 44
+        },
+        {
+            "idcoordenadapercurso": 5096101,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494644,
+            "longitude": -49.286017,
+            "ordem": 45
+        },
+        {
+            "idcoordenadapercurso": 5096102,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494654,
+            "longitude": -49.286064,
+            "ordem": 46
+        },
+        {
+            "idcoordenadapercurso": 5096103,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494670,
+            "longitude": -49.286149,
+            "ordem": 47
+        },
+        {
+            "idcoordenadapercurso": 5096104,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494692,
+            "longitude": -49.286251,
+            "ordem": 48
+        },
+        {
+            "idcoordenadapercurso": 5096105,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494709,
+            "longitude": -49.286298,
+            "ordem": 49
+        },
+        {
+            "idcoordenadapercurso": 5096106,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494739,
+            "longitude": -49.286348,
+            "ordem": 50
+        },
+        {
+            "idcoordenadapercurso": 5096107,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494765,
+            "longitude": -49.286399,
+            "ordem": 51
+        },
+        {
+            "idcoordenadapercurso": 5096108,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494846,
+            "longitude": -49.286563,
+            "ordem": 52
+        },
+        {
+            "idcoordenadapercurso": 5096109,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494906,
+            "longitude": -49.286692,
+            "ordem": 53
+        },
+        {
+            "idcoordenadapercurso": 5096110,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494943,
+            "longitude": -49.286779,
+            "ordem": 54
+        },
+        {
+            "idcoordenadapercurso": 5096111,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494962,
+            "longitude": -49.286848,
+            "ordem": 55
+        },
+        {
+            "idcoordenadapercurso": 5096112,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494982,
+            "longitude": -49.286921,
+            "ordem": 56
+        },
+        {
+            "idcoordenadapercurso": 5096113,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.495011,
+            "longitude": -49.287055,
+            "ordem": 57
+        },
+        {
+            "idcoordenadapercurso": 5096114,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.495008,
+            "longitude": -49.287159,
+            "ordem": 58
+        },
+        {
+            "idcoordenadapercurso": 5096115,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.495000,
+            "longitude": -49.287245,
+            "ordem": 59
+        },
+        {
+            "idcoordenadapercurso": 5096116,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494986,
+            "longitude": -49.287322,
+            "ordem": 60
+        },
+        {
+            "idcoordenadapercurso": 5096117,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494939,
+            "longitude": -49.287435,
+            "ordem": 61
+        },
+        {
+            "idcoordenadapercurso": 5096118,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494897,
+            "longitude": -49.287511,
+            "ordem": 62
+        },
+        {
+            "idcoordenadapercurso": 5096119,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494816,
+            "longitude": -49.287639,
+            "ordem": 63
+        },
+        {
+            "idcoordenadapercurso": 5096120,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494693,
+            "longitude": -49.287798,
+            "ordem": 64
+        },
+        {
+            "idcoordenadapercurso": 5096121,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494578,
+            "longitude": -49.287925,
+            "ordem": 65
+        },
+        {
+            "idcoordenadapercurso": 5096122,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494425,
+            "longitude": -49.288086,
+            "ordem": 66
+        },
+        {
+            "idcoordenadapercurso": 5096123,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494263,
+            "longitude": -49.288258,
+            "ordem": 67
+        },
+        {
+            "idcoordenadapercurso": 5096124,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.494155,
+            "longitude": -49.288374,
+            "ordem": 68
+        },
+        {
+            "idcoordenadapercurso": 5096125,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.493822,
+            "longitude": -49.288693,
+            "ordem": 69
+        },
+        {
+            "idcoordenadapercurso": 5096126,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.493629,
+            "longitude": -49.288880,
+            "ordem": 70
+        },
+        {
+            "idcoordenadapercurso": 5096127,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.493404,
+            "longitude": -49.289097,
+            "ordem": 71
+        },
+        {
+            "idcoordenadapercurso": 5096128,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.493052,
+            "longitude": -49.289311,
+            "ordem": 72
+        },
+        {
+            "idcoordenadapercurso": 5096129,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.492722,
+            "longitude": -49.289511,
+            "ordem": 73
+        },
+        {
+            "idcoordenadapercurso": 5096130,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.492407,
+            "longitude": -49.289671,
+            "ordem": 74
+        },
+        {
+            "idcoordenadapercurso": 5096131,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.492069,
+            "longitude": -49.289221,
+            "ordem": 75
+        },
+        {
+            "idcoordenadapercurso": 5096132,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491889,
+            "longitude": -49.288982,
+            "ordem": 76
+        },
+        {
+            "idcoordenadapercurso": 5096133,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491762,
+            "longitude": -49.288813,
+            "ordem": 77
+        },
+        {
+            "idcoordenadapercurso": 5096134,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491623,
+            "longitude": -49.288623,
+            "ordem": 78
+        },
+        {
+            "idcoordenadapercurso": 5096135,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491470,
+            "longitude": -49.288434,
+            "ordem": 79
+        },
+        {
+            "idcoordenadapercurso": 5096136,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491231,
+            "longitude": -49.288146,
+            "ordem": 80
+        },
+        {
+            "idcoordenadapercurso": 5096137,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.491013,
+            "longitude": -49.287864,
+            "ordem": 81
+        },
+        {
+            "idcoordenadapercurso": 5096138,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490808,
+            "longitude": -49.287601,
+            "ordem": 82
+        },
+        {
+            "idcoordenadapercurso": 5096139,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490603,
+            "longitude": -49.287341,
+            "ordem": 83
+        },
+        {
+            "idcoordenadapercurso": 5096140,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490418,
+            "longitude": -49.287101,
+            "ordem": 84
+        },
+        {
+            "idcoordenadapercurso": 5096141,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490239,
+            "longitude": -49.286872,
+            "ordem": 85
+        },
+        {
+            "idcoordenadapercurso": 5096142,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.490047,
+            "longitude": -49.286625,
+            "ordem": 86
+        },
+        {
+            "idcoordenadapercurso": 5096143,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.489984,
+            "longitude": -49.286544,
+            "ordem": 87
+        },
+        {
+            "idcoordenadapercurso": 5096144,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.489837,
+            "longitude": -49.286667,
+            "ordem": 88
+        },
+        {
+            "idcoordenadapercurso": 5096145,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.489586,
+            "longitude": -49.286881,
+            "ordem": 89
+        },
+        {
+            "idcoordenadapercurso": 5096146,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.489422,
+            "longitude": -49.287022,
+            "ordem": 90
+        },
+        {
+            "idcoordenadapercurso": 5096147,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.489154,
+            "longitude": -49.287249,
+            "ordem": 91
+        },
+        {
+            "idcoordenadapercurso": 5096148,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.488884,
+            "longitude": -49.287479,
+            "ordem": 92
+        },
+        {
+            "idcoordenadapercurso": 5096149,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.488535,
+            "longitude": -49.287774,
+            "ordem": 93
+        },
+        {
+            "idcoordenadapercurso": 5096150,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.488396,
+            "longitude": -49.287885,
+            "ordem": 94
+        },
+        {
+            "idcoordenadapercurso": 5096151,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.488231,
+            "longitude": -49.288014,
+            "ordem": 95
+        },
+        {
+            "idcoordenadapercurso": 5096152,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.487940,
+            "longitude": -49.288242,
+            "ordem": 96
+        },
+        {
+            "idcoordenadapercurso": 5096153,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.487787,
+            "longitude": -49.288371,
+            "ordem": 97
+        },
+        {
+            "idcoordenadapercurso": 5096154,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.487602,
+            "longitude": -49.288525,
+            "ordem": 98
+        },
+        {
+            "idcoordenadapercurso": 5096155,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.487381,
+            "longitude": -49.288710,
+            "ordem": 99
+        },
+        {
+            "idcoordenadapercurso": 5096156,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.487188,
+            "longitude": -49.288871,
+            "ordem": 100
+        },
+        {
+            "idcoordenadapercurso": 5096157,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.486965,
+            "longitude": -49.289036,
+            "ordem": 101
+        },
+        {
+            "idcoordenadapercurso": 5096158,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.486777,
+            "longitude": -49.289171,
+            "ordem": 102
+        },
+        {
+            "idcoordenadapercurso": 5096159,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.486752,
+            "longitude": -49.289186,
+            "ordem": 103
+        },
+        {
+            "idcoordenadapercurso": 5096160,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.486727,
+            "longitude": -49.289194,
+            "ordem": 104
+        },
+        {
+            "idcoordenadapercurso": 5096161,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.486689,
+            "longitude": -49.289192,
+            "ordem": 105
+        },
+        {
+            "idcoordenadapercurso": 5096162,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.486615,
+            "longitude": -49.289166,
+            "ordem": 106
+        },
+        {
+            "idcoordenadapercurso": 5096163,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.486540,
+            "longitude": -49.289133,
+            "ordem": 107
+        },
+        {
+            "idcoordenadapercurso": 5096164,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.486309,
+            "longitude": -49.289107,
+            "ordem": 108
+        },
+        {
+            "idcoordenadapercurso": 5096165,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.486083,
+            "longitude": -49.289084,
+            "ordem": 109
+        },
+        {
+            "idcoordenadapercurso": 5096166,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.485945,
+            "longitude": -49.289087,
+            "ordem": 110
+        },
+        {
+            "idcoordenadapercurso": 5096167,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.485669,
+            "longitude": -49.289094,
+            "ordem": 111
+        },
+        {
+            "idcoordenadapercurso": 5096168,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.485256,
+            "longitude": -49.289104,
+            "ordem": 112
+        },
+        {
+            "idcoordenadapercurso": 5096169,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.484856,
+            "longitude": -49.289120,
+            "ordem": 113
+        },
+        {
+            "idcoordenadapercurso": 5096170,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.484431,
+            "longitude": -49.289112,
+            "ordem": 114
+        },
+        {
+            "idcoordenadapercurso": 5096171,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.484007,
+            "longitude": -49.289095,
+            "ordem": 115
+        },
+        {
+            "idcoordenadapercurso": 5096172,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.483924,
+            "longitude": -49.289093,
+            "ordem": 116
+        },
+        {
+            "idcoordenadapercurso": 5096173,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.483671,
+            "longitude": -49.289100,
+            "ordem": 117
+        },
+        {
+            "idcoordenadapercurso": 5096174,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.483637,
+            "longitude": -49.289089,
+            "ordem": 118
+        },
+        {
+            "idcoordenadapercurso": 5096175,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.483507,
+            "longitude": -49.289035,
+            "ordem": 119
+        },
+        {
+            "idcoordenadapercurso": 5096176,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.483293,
+            "longitude": -49.288991,
+            "ordem": 120
+        },
+        {
+            "idcoordenadapercurso": 5096177,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.483212,
+            "longitude": -49.288956,
+            "ordem": 121
+        },
+        {
+            "idcoordenadapercurso": 5096178,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.483116,
+            "longitude": -49.288899,
+            "ordem": 122
+        },
+        {
+            "idcoordenadapercurso": 5096179,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.482993,
+            "longitude": -49.288747,
+            "ordem": 123
+        },
+        {
+            "idcoordenadapercurso": 5096180,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.482810,
+            "longitude": -49.288509,
+            "ordem": 124
+        },
+        {
+            "idcoordenadapercurso": 5096181,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.482648,
+            "longitude": -49.288310,
+            "ordem": 125
+        },
+        {
+            "idcoordenadapercurso": 5096182,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.482602,
+            "longitude": -49.288257,
+            "ordem": 126
+        },
+        {
+            "idcoordenadapercurso": 5096183,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.482514,
+            "longitude": -49.288177,
+            "ordem": 127
+        },
+        {
+            "idcoordenadapercurso": 5096184,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.482410,
+            "longitude": -49.288123,
+            "ordem": 128
+        },
+        {
+            "idcoordenadapercurso": 5096185,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.482345,
+            "longitude": -49.288096,
+            "ordem": 129
+        },
+        {
+            "idcoordenadapercurso": 5096186,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.482233,
+            "longitude": -49.288076,
+            "ordem": 130
+        },
+        {
+            "idcoordenadapercurso": 5096187,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.482059,
+            "longitude": -49.288075,
+            "ordem": 131
+        },
+        {
+            "idcoordenadapercurso": 5096188,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.482012,
+            "longitude": -49.288080,
+            "ordem": 132
+        },
+        {
+            "idcoordenadapercurso": 5096189,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.481884,
+            "longitude": -49.288094,
+            "ordem": 133
+        },
+        {
+            "idcoordenadapercurso": 5096190,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.481690,
+            "longitude": -49.288119,
+            "ordem": 134
+        },
+        {
+            "idcoordenadapercurso": 5096191,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.481442,
+            "longitude": -49.288149,
+            "ordem": 135
+        },
+        {
+            "idcoordenadapercurso": 5096192,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.481390,
+            "longitude": -49.287862,
+            "ordem": 136
+        },
+        {
+            "idcoordenadapercurso": 5096193,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.481314,
+            "longitude": -49.287447,
+            "ordem": 137
+        },
+        {
+            "idcoordenadapercurso": 5096194,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.481250,
+            "longitude": -49.287117,
+            "ordem": 138
+        },
+        {
+            "idcoordenadapercurso": 5096195,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.481185,
+            "longitude": -49.286864,
+            "ordem": 139
+        },
+        {
+            "idcoordenadapercurso": 5096196,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.481155,
+            "longitude": -49.286747,
+            "ordem": 140
+        },
+        {
+            "idcoordenadapercurso": 5096197,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.481074,
+            "longitude": -49.286687,
+            "ordem": 141
+        },
+        {
+            "idcoordenadapercurso": 5096198,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.481010,
+            "longitude": -49.286611,
+            "ordem": 142
+        },
+        {
+            "idcoordenadapercurso": 5096199,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.480961,
+            "longitude": -49.286529,
+            "ordem": 143
+        },
+        {
+            "idcoordenadapercurso": 5096200,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.480920,
+            "longitude": -49.286451,
+            "ordem": 144
+        },
+        {
+            "idcoordenadapercurso": 5096201,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.480894,
+            "longitude": -49.286379,
+            "ordem": 145
+        },
+        {
+            "idcoordenadapercurso": 5096202,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.480872,
+            "longitude": -49.286322,
+            "ordem": 146
+        },
+        {
+            "idcoordenadapercurso": 5096203,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.480693,
+            "longitude": -49.286334,
+            "ordem": 147
+        },
+        {
+            "idcoordenadapercurso": 5096204,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.480274,
+            "longitude": -49.286365,
+            "ordem": 148
+        },
+        {
+            "idcoordenadapercurso": 5096205,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.480024,
+            "longitude": -49.286263,
+            "ordem": 149
+        },
+        {
+            "idcoordenadapercurso": 5096206,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.479843,
+            "longitude": -49.286187,
+            "ordem": 150
+        },
+        {
+            "idcoordenadapercurso": 5096207,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.479643,
+            "longitude": -49.286077,
+            "ordem": 151
+        },
+        {
+            "idcoordenadapercurso": 5096208,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.479456,
+            "longitude": -49.285976,
+            "ordem": 152
+        },
+        {
+            "idcoordenadapercurso": 5096209,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.479232,
+            "longitude": -49.285851,
+            "ordem": 153
+        },
+        {
+            "idcoordenadapercurso": 5096210,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.479076,
+            "longitude": -49.285766,
+            "ordem": 154
+        },
+        {
+            "idcoordenadapercurso": 5096211,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478752,
+            "longitude": -49.285626,
+            "ordem": 155
+        },
+        {
+            "idcoordenadapercurso": 5096212,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478465,
+            "longitude": -49.285501,
+            "ordem": 156
+        },
+        {
+            "idcoordenadapercurso": 5096213,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478252,
+            "longitude": -49.285409,
+            "ordem": 157
+        },
+        {
+            "idcoordenadapercurso": 5096214,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478433,
+            "longitude": -49.284560,
+            "ordem": 158
+        },
+        {
+            "idcoordenadapercurso": 5096215,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478531,
+            "longitude": -49.284096,
+            "ordem": 159
+        },
+        {
+            "idcoordenadapercurso": 5096216,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478667,
+            "longitude": -49.283473,
+            "ordem": 160
+        },
+        {
+            "idcoordenadapercurso": 5096217,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478709,
+            "longitude": -49.283295,
+            "ordem": 161
+        },
+        {
+            "idcoordenadapercurso": 5096218,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.479326,
+            "longitude": -49.283130,
+            "ordem": 162
+        },
+        {
+            "idcoordenadapercurso": 5096219,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.479801,
+            "longitude": -49.282981,
+            "ordem": 163
+        },
+        {
+            "idcoordenadapercurso": 5096220,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.480897,
+            "longitude": -49.282654,
+            "ordem": 164
+        },
+        {
+            "idcoordenadapercurso": 5096221,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.480590,
+            "longitude": -49.281345,
+            "ordem": 165
+        },
+        {
+            "idcoordenadapercurso": 5096222,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.479758,
+            "longitude": -49.281596,
+            "ordem": 166
+        },
+        {
+            "idcoordenadapercurso": 5096223,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.479046,
+            "longitude": -49.281805,
+            "ordem": 167
+        },
+        {
+            "idcoordenadapercurso": 5096224,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478880,
+            "longitude": -49.281865,
+            "ordem": 168
+        },
+        {
+            "idcoordenadapercurso": 5096225,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478710,
+            "longitude": -49.282761,
+            "ordem": 169
+        },
+        {
+            "idcoordenadapercurso": 5096226,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478651,
+            "longitude": -49.283046,
+            "ordem": 170
+        },
+        {
+            "idcoordenadapercurso": 5096227,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478616,
+            "longitude": -49.283212,
+            "ordem": 171
+        },
+        {
+            "idcoordenadapercurso": 5096228,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478583,
+            "longitude": -49.283379,
+            "ordem": 172
+        },
+        {
+            "idcoordenadapercurso": 5096229,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478492,
+            "longitude": -49.283819,
+            "ordem": 173
+        },
+        {
+            "idcoordenadapercurso": 5096230,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478402,
+            "longitude": -49.284243,
+            "ordem": 174
+        },
+        {
+            "idcoordenadapercurso": 5096231,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478332,
+            "longitude": -49.284589,
+            "ordem": 175
+        },
+        {
+            "idcoordenadapercurso": 5096232,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478244,
+            "longitude": -49.285003,
+            "ordem": 176
+        },
+        {
+            "idcoordenadapercurso": 5096233,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478167,
+            "longitude": -49.285311,
+            "ordem": 177
+        },
+        {
+            "idcoordenadapercurso": 5096234,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478148,
+            "longitude": -49.285378,
+            "ordem": 178
+        },
+        {
+            "idcoordenadapercurso": 5096235,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478137,
+            "longitude": -49.285419,
+            "ordem": 179
+        },
+        {
+            "idcoordenadapercurso": 5096236,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478114,
+            "longitude": -49.285464,
+            "ordem": 180
+        },
+        {
+            "idcoordenadapercurso": 5096237,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478081,
+            "longitude": -49.285507,
+            "ordem": 181
+        },
+        {
+            "idcoordenadapercurso": 5096238,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478058,
+            "longitude": -49.285538,
+            "ordem": 182
+        },
+        {
+            "idcoordenadapercurso": 5096239,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.478031,
+            "longitude": -49.285562,
+            "ordem": 183
+        },
+        {
+            "idcoordenadapercurso": 5096240,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.477984,
+            "longitude": -49.285591,
+            "ordem": 184
+        },
+        {
+            "idcoordenadapercurso": 5096241,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.477918,
+            "longitude": -49.285619,
+            "ordem": 185
+        },
+        {
+            "idcoordenadapercurso": 5096242,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.477783,
+            "longitude": -49.285670,
+            "ordem": 186
+        },
+        {
+            "idcoordenadapercurso": 5096243,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.477564,
+            "longitude": -49.285825,
+            "ordem": 187
+        },
+        {
+            "idcoordenadapercurso": 5096244,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.477633,
+            "longitude": -49.286118,
+            "ordem": 188
+        },
+        {
+            "idcoordenadapercurso": 5096245,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.477700,
+            "longitude": -49.286387,
+            "ordem": 189
+        },
+        {
+            "idcoordenadapercurso": 5096246,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.477616,
+            "longitude": -49.286463,
+            "ordem": 190
+        },
+        {
+            "idcoordenadapercurso": 5096247,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.477530,
+            "longitude": -49.286544,
+            "ordem": 191
+        },
+        {
+            "idcoordenadapercurso": 5096248,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.477430,
+            "longitude": -49.286627,
+            "ordem": 192
+        },
+        {
+            "idcoordenadapercurso": 5096249,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.477179,
+            "longitude": -49.286761,
+            "ordem": 193
+        },
+        {
+            "idcoordenadapercurso": 5096250,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476945,
+            "longitude": -49.286884,
+            "ordem": 194
+        },
+        {
+            "idcoordenadapercurso": 5096251,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476830,
+            "longitude": -49.286947,
+            "ordem": 195
+        },
+        {
+            "idcoordenadapercurso": 5096252,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476702,
+            "longitude": -49.287014,
+            "ordem": 196
+        },
+        {
+            "idcoordenadapercurso": 5096253,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476597,
+            "longitude": -49.287091,
+            "ordem": 197
+        },
+        {
+            "idcoordenadapercurso": 5096254,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476529,
+            "longitude": -49.287156,
+            "ordem": 198
+        },
+        {
+            "idcoordenadapercurso": 5096255,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476485,
+            "longitude": -49.287213,
+            "ordem": 199
+        },
+        {
+            "idcoordenadapercurso": 5096256,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476426,
+            "longitude": -49.287282,
+            "ordem": 200
+        },
+        {
+            "idcoordenadapercurso": 5096257,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476351,
+            "longitude": -49.287376,
+            "ordem": 201
+        },
+        {
+            "idcoordenadapercurso": 5096258,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476298,
+            "longitude": -49.287430,
+            "ordem": 202
+        },
+        {
+            "idcoordenadapercurso": 5096259,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476253,
+            "longitude": -49.287467,
+            "ordem": 203
+        },
+        {
+            "idcoordenadapercurso": 5096260,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.476050,
+            "longitude": -49.287572,
+            "ordem": 204
+        },
+        {
+            "idcoordenadapercurso": 5096261,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.475856,
+            "longitude": -49.287674,
+            "ordem": 205
+        },
+        {
+            "idcoordenadapercurso": 5096262,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.475713,
+            "longitude": -49.287746,
+            "ordem": 206
+        },
+        {
+            "idcoordenadapercurso": 5096263,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.475578,
+            "longitude": -49.287376,
+            "ordem": 207
+        },
+        {
+            "idcoordenadapercurso": 5096264,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.475090,
+            "longitude": -49.286061,
+            "ordem": 208
+        },
+        {
+            "idcoordenadapercurso": 5096265,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.474944,
+            "longitude": -49.285680,
+            "ordem": 209
+        },
+        {
+            "idcoordenadapercurso": 5096266,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.474774,
+            "longitude": -49.285222,
+            "ordem": 210
+        },
+        {
+            "idcoordenadapercurso": 5096267,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.474688,
+            "longitude": -49.284995,
+            "ordem": 211
+        },
+        {
+            "idcoordenadapercurso": 5096268,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.474512,
+            "longitude": -49.284521,
+            "ordem": 212
+        },
+        {
+            "idcoordenadapercurso": 5096269,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.474342,
+            "longitude": -49.284062,
+            "ordem": 213
+        },
+        {
+            "idcoordenadapercurso": 5096270,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.474183,
+            "longitude": -49.283643,
+            "ordem": 214
+        },
+        {
+            "idcoordenadapercurso": 5096271,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.474031,
+            "longitude": -49.283254,
+            "ordem": 215
+        },
+        {
+            "idcoordenadapercurso": 5096272,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.473928,
+            "longitude": -49.282995,
+            "ordem": 216
+        },
+        {
+            "idcoordenadapercurso": 5096273,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.473825,
+            "longitude": -49.282732,
+            "ordem": 217
+        },
+        {
+            "idcoordenadapercurso": 5096274,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.473665,
+            "longitude": -49.282327,
+            "ordem": 218
+        },
+        {
+            "idcoordenadapercurso": 5096275,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.473455,
+            "longitude": -49.281765,
+            "ordem": 219
+        },
+        {
+            "idcoordenadapercurso": 5096276,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.473242,
+            "longitude": -49.281193,
+            "ordem": 220
+        },
+        {
+            "idcoordenadapercurso": 5096277,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.473161,
+            "longitude": -49.280982,
+            "ordem": 221
+        },
+        {
+            "idcoordenadapercurso": 5096278,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.473043,
+            "longitude": -49.280680,
+            "ordem": 222
+        },
+        {
+            "idcoordenadapercurso": 5096279,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.472871,
+            "longitude": -49.280236,
+            "ordem": 223
+        },
+        {
+            "idcoordenadapercurso": 5096280,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.472638,
+            "longitude": -49.279638,
+            "ordem": 224
+        },
+        {
+            "idcoordenadapercurso": 5096281,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.472388,
+            "longitude": -49.278954,
+            "ordem": 225
+        },
+        {
+            "idcoordenadapercurso": 5096282,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.472244,
+            "longitude": -49.278551,
+            "ordem": 226
+        },
+        {
+            "idcoordenadapercurso": 5096283,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.472156,
+            "longitude": -49.278316,
+            "ordem": 227
+        },
+        {
+            "idcoordenadapercurso": 5096284,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.472059,
+            "longitude": -49.278064,
+            "ordem": 228
+        },
+        {
+            "idcoordenadapercurso": 5096285,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.471927,
+            "longitude": -49.277733,
+            "ordem": 229
+        },
+        {
+            "idcoordenadapercurso": 5096286,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.471775,
+            "longitude": -49.277347,
+            "ordem": 230
+        },
+        {
+            "idcoordenadapercurso": 5096287,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.471635,
+            "longitude": -49.276989,
+            "ordem": 231
+        },
+        {
+            "idcoordenadapercurso": 5096288,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.471493,
+            "longitude": -49.276631,
+            "ordem": 232
+        },
+        {
+            "idcoordenadapercurso": 5096289,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.471362,
+            "longitude": -49.276302,
+            "ordem": 233
+        },
+        {
+            "idcoordenadapercurso": 5096290,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.471234,
+            "longitude": -49.275968,
+            "ordem": 234
+        },
+        {
+            "idcoordenadapercurso": 5096291,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.471113,
+            "longitude": -49.275651,
+            "ordem": 235
+        },
+        {
+            "idcoordenadapercurso": 5096292,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.470992,
+            "longitude": -49.275341,
+            "ordem": 236
+        },
+        {
+            "idcoordenadapercurso": 5096293,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.470737,
+            "longitude": -49.274674,
+            "ordem": 237
+        },
+        {
+            "idcoordenadapercurso": 5096294,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.470597,
+            "longitude": -49.274312,
+            "ordem": 238
+        },
+        {
+            "idcoordenadapercurso": 5096295,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.470374,
+            "longitude": -49.273721,
+            "ordem": 239
+        },
+        {
+            "idcoordenadapercurso": 5096296,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.470269,
+            "longitude": -49.273453,
+            "ordem": 240
+        },
+        {
+            "idcoordenadapercurso": 5096297,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.470108,
+            "longitude": -49.273037,
+            "ordem": 241
+        },
+        {
+            "idcoordenadapercurso": 5096298,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.470007,
+            "longitude": -49.272775,
+            "ordem": 242
+        },
+        {
+            "idcoordenadapercurso": 5096299,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469904,
+            "longitude": -49.272501,
+            "ordem": 243
+        },
+        {
+            "idcoordenadapercurso": 5096300,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469820,
+            "longitude": -49.272278,
+            "ordem": 244
+        },
+        {
+            "idcoordenadapercurso": 5096301,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469621,
+            "longitude": -49.271750,
+            "ordem": 245
+        },
+        {
+            "idcoordenadapercurso": 5096302,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469636,
+            "longitude": -49.271726,
+            "ordem": 246
+        },
+        {
+            "idcoordenadapercurso": 5096303,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469645,
+            "longitude": -49.271698,
+            "ordem": 247
+        },
+        {
+            "idcoordenadapercurso": 5096304,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469642,
+            "longitude": -49.271676,
+            "ordem": 248
+        },
+        {
+            "idcoordenadapercurso": 5096305,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469631,
+            "longitude": -49.271655,
+            "ordem": 249
+        },
+        {
+            "idcoordenadapercurso": 5096306,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469613,
+            "longitude": -49.271642,
+            "ordem": 250
+        },
+        {
+            "idcoordenadapercurso": 5096307,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469597,
+            "longitude": -49.271635,
+            "ordem": 251
+        },
+        {
+            "idcoordenadapercurso": 5096308,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469578,
+            "longitude": -49.271641,
+            "ordem": 252
+        },
+        {
+            "idcoordenadapercurso": 5096309,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469558,
+            "longitude": -49.271651,
+            "ordem": 253
+        },
+        {
+            "idcoordenadapercurso": 5096310,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469550,
+            "longitude": -49.271667,
+            "ordem": 254
+        },
+        {
+            "idcoordenadapercurso": 5096311,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469541,
+            "longitude": -49.271685,
+            "ordem": 255
+        },
+        {
+            "idcoordenadapercurso": 5096312,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469543,
+            "longitude": -49.271711,
+            "ordem": 256
+        },
+        {
+            "idcoordenadapercurso": 5096313,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469532,
+            "longitude": -49.271715,
+            "ordem": 257
+        },
+        {
+            "idcoordenadapercurso": 5096314,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.469256,
+            "longitude": -49.271842,
+            "ordem": 258
+        },
+        {
+            "idcoordenadapercurso": 5096315,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.468914,
+            "longitude": -49.271998,
+            "ordem": 259
+        },
+        {
+            "idcoordenadapercurso": 5096316,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.468708,
+            "longitude": -49.272092,
+            "ordem": 260
+        },
+        {
+            "idcoordenadapercurso": 5096317,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.468600,
+            "longitude": -49.272139,
+            "ordem": 261
+        },
+        {
+            "idcoordenadapercurso": 5096318,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.468381,
+            "longitude": -49.272244,
+            "ordem": 262
+        },
+        {
+            "idcoordenadapercurso": 5096319,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.468153,
+            "longitude": -49.272354,
+            "ordem": 263
+        },
+        {
+            "idcoordenadapercurso": 5096320,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.467897,
+            "longitude": -49.272466,
+            "ordem": 264
+        },
+        {
+            "idcoordenadapercurso": 5096321,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.467658,
+            "longitude": -49.272573,
+            "ordem": 265
+        },
+        {
+            "idcoordenadapercurso": 5096322,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.467298,
+            "longitude": -49.272735,
+            "ordem": 266
+        },
+        {
+            "idcoordenadapercurso": 5096323,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.467124,
+            "longitude": -49.272809,
+            "ordem": 267
+        },
+        {
+            "idcoordenadapercurso": 5096324,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.466688,
+            "longitude": -49.273013,
+            "ordem": 268
+        },
+        {
+            "idcoordenadapercurso": 5096325,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.466386,
+            "longitude": -49.273154,
+            "ordem": 269
+        },
+        {
+            "idcoordenadapercurso": 5096326,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.466162,
+            "longitude": -49.273258,
+            "ordem": 270
+        },
+        {
+            "idcoordenadapercurso": 5096327,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.465967,
+            "longitude": -49.273349,
+            "ordem": 271
+        },
+        {
+            "idcoordenadapercurso": 5096328,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.465757,
+            "longitude": -49.273442,
+            "ordem": 272
+        },
+        {
+            "idcoordenadapercurso": 5096329,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.465490,
+            "longitude": -49.273563,
+            "ordem": 273
+        },
+        {
+            "idcoordenadapercurso": 5096330,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.465207,
+            "longitude": -49.273688,
+            "ordem": 274
+        },
+        {
+            "idcoordenadapercurso": 5096331,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.464675,
+            "longitude": -49.273940,
+            "ordem": 275
+        },
+        {
+            "idcoordenadapercurso": 5096332,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.464456,
+            "longitude": -49.274041,
+            "ordem": 276
+        },
+        {
+            "idcoordenadapercurso": 5096333,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.464212,
+            "longitude": -49.274156,
+            "ordem": 277
+        },
+        {
+            "idcoordenadapercurso": 5096334,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.463933,
+            "longitude": -49.274284,
+            "ordem": 278
+        },
+        {
+            "idcoordenadapercurso": 5096335,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.463600,
+            "longitude": -49.274437,
+            "ordem": 279
+        },
+        {
+            "idcoordenadapercurso": 5096336,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.463243,
+            "longitude": -49.274603,
+            "ordem": 280
+        },
+        {
+            "idcoordenadapercurso": 5096337,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.462774,
+            "longitude": -49.274820,
+            "ordem": 281
+        },
+        {
+            "idcoordenadapercurso": 5096338,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.462296,
+            "longitude": -49.275041,
+            "ordem": 282
+        },
+        {
+            "idcoordenadapercurso": 5096339,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.462056,
+            "longitude": -49.274773,
+            "ordem": 283
+        },
+        {
+            "idcoordenadapercurso": 5096340,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.461855,
+            "longitude": -49.274546,
+            "ordem": 284
+        },
+        {
+            "idcoordenadapercurso": 5096341,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.461637,
+            "longitude": -49.274323,
+            "ordem": 285
+        },
+        {
+            "idcoordenadapercurso": 5096342,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.461460,
+            "longitude": -49.274122,
+            "ordem": 286
+        },
+        {
+            "idcoordenadapercurso": 5096343,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.461283,
+            "longitude": -49.273923,
+            "ordem": 287
+        },
+        {
+            "idcoordenadapercurso": 5096344,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.461151,
+            "longitude": -49.273775,
+            "ordem": 288
+        },
+        {
+            "idcoordenadapercurso": 5096345,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.460882,
+            "longitude": -49.273479,
+            "ordem": 289
+        },
+        {
+            "idcoordenadapercurso": 5096346,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.460494,
+            "longitude": -49.273051,
+            "ordem": 290
+        },
+        {
+            "idcoordenadapercurso": 5096347,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.460308,
+            "longitude": -49.272836,
+            "ordem": 291
+        },
+        {
+            "idcoordenadapercurso": 5096348,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.459787,
+            "longitude": -49.272237,
+            "ordem": 292
+        },
+        {
+            "idcoordenadapercurso": 5096349,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.459420,
+            "longitude": -49.271814,
+            "ordem": 293
+        },
+        {
+            "idcoordenadapercurso": 5096350,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.459314,
+            "longitude": -49.271692,
+            "ordem": 294
+        },
+        {
+            "idcoordenadapercurso": 5096351,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.459140,
+            "longitude": -49.271513,
+            "ordem": 295
+        },
+        {
+            "idcoordenadapercurso": 5096352,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.458866,
+            "longitude": -49.271232,
+            "ordem": 296
+        },
+        {
+            "idcoordenadapercurso": 5096353,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.458681,
+            "longitude": -49.271039,
+            "ordem": 297
+        },
+        {
+            "idcoordenadapercurso": 5096354,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.458426,
+            "longitude": -49.270759,
+            "ordem": 298
+        },
+        {
+            "idcoordenadapercurso": 5096355,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.458282,
+            "longitude": -49.270594,
+            "ordem": 299
+        },
+        {
+            "idcoordenadapercurso": 5096356,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.458048,
+            "longitude": -49.270338,
+            "ordem": 300
+        },
+        {
+            "idcoordenadapercurso": 5096357,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.457680,
+            "longitude": -49.269935,
+            "ordem": 301
+        },
+        {
+            "idcoordenadapercurso": 5096358,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.457490,
+            "longitude": -49.269725,
+            "ordem": 302
+        },
+        {
+            "idcoordenadapercurso": 5096359,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.457303,
+            "longitude": -49.269516,
+            "ordem": 303
+        },
+        {
+            "idcoordenadapercurso": 5096360,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.457124,
+            "longitude": -49.269314,
+            "ordem": 304
+        },
+        {
+            "idcoordenadapercurso": 5096361,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.457046,
+            "longitude": -49.269227,
+            "ordem": 305
+        },
+        {
+            "idcoordenadapercurso": 5096362,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.456854,
+            "longitude": -49.269019,
+            "ordem": 306
+        },
+        {
+            "idcoordenadapercurso": 5096363,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.456693,
+            "longitude": -49.268845,
+            "ordem": 307
+        },
+        {
+            "idcoordenadapercurso": 5096364,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.456377,
+            "longitude": -49.268492,
+            "ordem": 308
+        },
+        {
+            "idcoordenadapercurso": 5096365,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.456099,
+            "longitude": -49.268181,
+            "ordem": 309
+        },
+        {
+            "idcoordenadapercurso": 5096366,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.455845,
+            "longitude": -49.267889,
+            "ordem": 310
+        },
+        {
+            "idcoordenadapercurso": 5096367,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.455542,
+            "longitude": -49.267552,
+            "ordem": 311
+        },
+        {
+            "idcoordenadapercurso": 5096368,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.455325,
+            "longitude": -49.267297,
+            "ordem": 312
+        },
+        {
+            "idcoordenadapercurso": 5096369,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.455125,
+            "longitude": -49.267068,
+            "ordem": 313
+        },
+        {
+            "idcoordenadapercurso": 5096370,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.454745,
+            "longitude": -49.266664,
+            "ordem": 314
+        },
+        {
+            "idcoordenadapercurso": 5096371,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.454584,
+            "longitude": -49.266486,
+            "ordem": 315
+        },
+        {
+            "idcoordenadapercurso": 5096372,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.454503,
+            "longitude": -49.266400,
+            "ordem": 316
+        },
+        {
+            "idcoordenadapercurso": 5096373,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.454433,
+            "longitude": -49.266315,
+            "ordem": 317
+        },
+        {
+            "idcoordenadapercurso": 5096374,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.454218,
+            "longitude": -49.266062,
+            "ordem": 318
+        },
+        {
+            "idcoordenadapercurso": 5096375,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.454048,
+            "longitude": -49.265884,
+            "ordem": 319
+        },
+        {
+            "idcoordenadapercurso": 5096376,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.453828,
+            "longitude": -49.265651,
+            "ordem": 320
+        },
+        {
+            "idcoordenadapercurso": 5096377,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.453743,
+            "longitude": -49.265537,
+            "ordem": 321
+        },
+        {
+            "idcoordenadapercurso": 5096378,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.453618,
+            "longitude": -49.265372,
+            "ordem": 322
+        },
+        {
+            "idcoordenadapercurso": 5096379,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.453546,
+            "longitude": -49.265410,
+            "ordem": 323
+        },
+        {
+            "idcoordenadapercurso": 5096380,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.453479,
+            "longitude": -49.265454,
+            "ordem": 324
+        },
+        {
+            "idcoordenadapercurso": 5096381,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.453438,
+            "longitude": -49.265474,
+            "ordem": 325
+        },
+        {
+            "idcoordenadapercurso": 5096382,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.453348,
+            "longitude": -49.265514,
+            "ordem": 326
+        },
+        {
+            "idcoordenadapercurso": 5096383,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.453125,
+            "longitude": -49.265621,
+            "ordem": 327
+        },
+        {
+            "idcoordenadapercurso": 5096384,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.452907,
+            "longitude": -49.265724,
+            "ordem": 328
+        },
+        {
+            "idcoordenadapercurso": 5096385,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.452590,
+            "longitude": -49.265875,
+            "ordem": 329
+        },
+        {
+            "idcoordenadapercurso": 5096386,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.452252,
+            "longitude": -49.266033,
+            "ordem": 330
+        },
+        {
+            "idcoordenadapercurso": 5096387,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.452002,
+            "longitude": -49.266153,
+            "ordem": 331
+        },
+        {
+            "idcoordenadapercurso": 5096388,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.451734,
+            "longitude": -49.266281,
+            "ordem": 332
+        },
+        {
+            "idcoordenadapercurso": 5096389,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.451434,
+            "longitude": -49.266424,
+            "ordem": 333
+        },
+        {
+            "idcoordenadapercurso": 5096390,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.451122,
+            "longitude": -49.266572,
+            "ordem": 334
+        },
+        {
+            "idcoordenadapercurso": 5096391,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.450887,
+            "longitude": -49.266691,
+            "ordem": 335
+        },
+        {
+            "idcoordenadapercurso": 5096392,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.450663,
+            "longitude": -49.266802,
+            "ordem": 336
+        },
+        {
+            "idcoordenadapercurso": 5096393,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.449810,
+            "longitude": -49.267228,
+            "ordem": 337
+        },
+        {
+            "idcoordenadapercurso": 5096394,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.449413,
+            "longitude": -49.267427,
+            "ordem": 338
+        },
+        {
+            "idcoordenadapercurso": 5096395,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.449027,
+            "longitude": -49.267599,
+            "ordem": 339
+        },
+        {
+            "idcoordenadapercurso": 5096396,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.448590,
+            "longitude": -49.267796,
+            "ordem": 340
+        },
+        {
+            "idcoordenadapercurso": 5096397,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.448251,
+            "longitude": -49.267948,
+            "ordem": 341
+        },
+        {
+            "idcoordenadapercurso": 5096398,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.447919,
+            "longitude": -49.268102,
+            "ordem": 342
+        },
+        {
+            "idcoordenadapercurso": 5096399,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.447560,
+            "longitude": -49.268267,
+            "ordem": 343
+        },
+        {
+            "idcoordenadapercurso": 5096400,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.447253,
+            "longitude": -49.268409,
+            "ordem": 344
+        },
+        {
+            "idcoordenadapercurso": 5096401,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.447001,
+            "longitude": -49.268525,
+            "ordem": 345
+        },
+        {
+            "idcoordenadapercurso": 5096402,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.446891,
+            "longitude": -49.268575,
+            "ordem": 346
+        },
+        {
+            "idcoordenadapercurso": 5096403,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.446649,
+            "longitude": -49.268693,
+            "ordem": 347
+        },
+        {
+            "idcoordenadapercurso": 5096404,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.446320,
+            "longitude": -49.268853,
+            "ordem": 348
+        },
+        {
+            "idcoordenadapercurso": 5096405,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.445561,
+            "longitude": -49.269227,
+            "ordem": 349
+        },
+        {
+            "idcoordenadapercurso": 5096406,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.445053,
+            "longitude": -49.269467,
+            "ordem": 350
+        },
+        {
+            "idcoordenadapercurso": 5096407,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.444389,
+            "longitude": -49.269784,
+            "ordem": 351
+        },
+        {
+            "idcoordenadapercurso": 5096408,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.444194,
+            "longitude": -49.269878,
+            "ordem": 352
+        },
+        {
+            "idcoordenadapercurso": 5096409,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.444082,
+            "longitude": -49.269921,
+            "ordem": 353
+        },
+        {
+            "idcoordenadapercurso": 5096410,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.443984,
+            "longitude": -49.269966,
+            "ordem": 354
+        },
+        {
+            "idcoordenadapercurso": 5096411,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.443768,
+            "longitude": -49.270067,
+            "ordem": 355
+        },
+        {
+            "idcoordenadapercurso": 5096412,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.443503,
+            "longitude": -49.270190,
+            "ordem": 356
+        },
+        {
+            "idcoordenadapercurso": 5096413,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.443248,
+            "longitude": -49.270314,
+            "ordem": 357
+        },
+        {
+            "idcoordenadapercurso": 5096414,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.442732,
+            "longitude": -49.270564,
+            "ordem": 358
+        },
+        {
+            "idcoordenadapercurso": 5096415,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.442604,
+            "longitude": -49.270622,
+            "ordem": 359
+        },
+        {
+            "idcoordenadapercurso": 5096416,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.442458,
+            "longitude": -49.270699,
+            "ordem": 360
+        },
+        {
+            "idcoordenadapercurso": 5096417,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.442283,
+            "longitude": -49.270773,
+            "ordem": 361
+        },
+        {
+            "idcoordenadapercurso": 5096418,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.442107,
+            "longitude": -49.270862,
+            "ordem": 362
+        },
+        {
+            "idcoordenadapercurso": 5096419,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.441750,
+            "longitude": -49.271039,
+            "ordem": 363
+        },
+        {
+            "idcoordenadapercurso": 5096420,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.441495,
+            "longitude": -49.271163,
+            "ordem": 364
+        },
+        {
+            "idcoordenadapercurso": 5096421,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.441228,
+            "longitude": -49.271299,
+            "ordem": 365
+        },
+        {
+            "idcoordenadapercurso": 5096422,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.441092,
+            "longitude": -49.271355,
+            "ordem": 366
+        },
+        {
+            "idcoordenadapercurso": 5096423,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.440827,
+            "longitude": -49.271487,
+            "ordem": 367
+        },
+        {
+            "idcoordenadapercurso": 5096424,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.440457,
+            "longitude": -49.271662,
+            "ordem": 368
+        },
+        {
+            "idcoordenadapercurso": 5096425,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.440103,
+            "longitude": -49.271830,
+            "ordem": 369
+        },
+        {
+            "idcoordenadapercurso": 5096426,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.439761,
+            "longitude": -49.271991,
+            "ordem": 370
+        },
+        {
+            "idcoordenadapercurso": 5096427,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.439613,
+            "longitude": -49.272052,
+            "ordem": 371
+        },
+        {
+            "idcoordenadapercurso": 5096428,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.439533,
+            "longitude": -49.272067,
+            "ordem": 372
+        },
+        {
+            "idcoordenadapercurso": 5096429,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.439417,
+            "longitude": -49.272119,
+            "ordem": 373
+        },
+        {
+            "idcoordenadapercurso": 5096430,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.439332,
+            "longitude": -49.272161,
+            "ordem": 374
+        },
+        {
+            "idcoordenadapercurso": 5096431,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.439164,
+            "longitude": -49.272251,
+            "ordem": 375
+        },
+        {
+            "idcoordenadapercurso": 5096432,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.439004,
+            "longitude": -49.272333,
+            "ordem": 376
+        },
+        {
+            "idcoordenadapercurso": 5096433,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.438708,
+            "longitude": -49.272465,
+            "ordem": 377
+        },
+        {
+            "idcoordenadapercurso": 5096434,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.438569,
+            "longitude": -49.272528,
+            "ordem": 378
+        },
+        {
+            "idcoordenadapercurso": 5096435,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.438400,
+            "longitude": -49.272604,
+            "ordem": 379
+        },
+        {
+            "idcoordenadapercurso": 5096436,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.438281,
+            "longitude": -49.272656,
+            "ordem": 380
+        },
+        {
+            "idcoordenadapercurso": 5096437,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.438020,
+            "longitude": -49.272780,
+            "ordem": 381
+        },
+        {
+            "idcoordenadapercurso": 5096438,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.437763,
+            "longitude": -49.272903,
+            "ordem": 382
+        },
+        {
+            "idcoordenadapercurso": 5096439,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.437301,
+            "longitude": -49.273122,
+            "ordem": 383
+        },
+        {
+            "idcoordenadapercurso": 5096440,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436907,
+            "longitude": -49.273299,
+            "ordem": 384
+        },
+        {
+            "idcoordenadapercurso": 5096441,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436686,
+            "longitude": -49.273400,
+            "ordem": 385
+        },
+        {
+            "idcoordenadapercurso": 5096442,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436576,
+            "longitude": -49.273460,
+            "ordem": 386
+        },
+        {
+            "idcoordenadapercurso": 5096443,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436561,
+            "longitude": -49.273407,
+            "ordem": 387
+        },
+        {
+            "idcoordenadapercurso": 5096444,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436554,
+            "longitude": -49.273383,
+            "ordem": 388
+        },
+        {
+            "idcoordenadapercurso": 5096445,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436543,
+            "longitude": -49.273361,
+            "ordem": 389
+        },
+        {
+            "idcoordenadapercurso": 5096446,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436533,
+            "longitude": -49.273355,
+            "ordem": 390
+        },
+        {
+            "idcoordenadapercurso": 5096447,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436520,
+            "longitude": -49.273347,
+            "ordem": 391
+        },
+        {
+            "idcoordenadapercurso": 5096448,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436492,
+            "longitude": -49.273341,
+            "ordem": 392
+        },
+        {
+            "idcoordenadapercurso": 5096449,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436456,
+            "longitude": -49.273345,
+            "ordem": 393
+        },
+        {
+            "idcoordenadapercurso": 5096450,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436417,
+            "longitude": -49.273364,
+            "ordem": 394
+        },
+        {
+            "idcoordenadapercurso": 5096451,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436395,
+            "longitude": -49.273389,
+            "ordem": 395
+        },
+        {
+            "idcoordenadapercurso": 5096452,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436379,
+            "longitude": -49.273415,
+            "ordem": 396
+        },
+        {
+            "idcoordenadapercurso": 5096453,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436374,
+            "longitude": -49.273491,
+            "ordem": 397
+        },
+        {
+            "idcoordenadapercurso": 5096454,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436352,
+            "longitude": -49.273589,
+            "ordem": 398
+        },
+        {
+            "idcoordenadapercurso": 5096455,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436206,
+            "longitude": -49.274198,
+            "ordem": 399
+        },
+        {
+            "idcoordenadapercurso": 5096456,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436161,
+            "longitude": -49.274400,
+            "ordem": 400
+        },
+        {
+            "idcoordenadapercurso": 5096457,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436140,
+            "longitude": -49.274427,
+            "ordem": 401
+        },
+        {
+            "idcoordenadapercurso": 5096458,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436120,
+            "longitude": -49.274455,
+            "ordem": 402
+        },
+        {
+            "idcoordenadapercurso": 5096459,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436111,
+            "longitude": -49.274477,
+            "ordem": 403
+        },
+        {
+            "idcoordenadapercurso": 5096460,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436104,
+            "longitude": -49.274503,
+            "ordem": 404
+        },
+        {
+            "idcoordenadapercurso": 5096461,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436103,
+            "longitude": -49.274534,
+            "ordem": 405
+        },
+        {
+            "idcoordenadapercurso": 5096462,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436112,
+            "longitude": -49.274575,
+            "ordem": 406
+        },
+        {
+            "idcoordenadapercurso": 5096463,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436128,
+            "longitude": -49.274605,
+            "ordem": 407
+        },
+        {
+            "idcoordenadapercurso": 5096464,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436159,
+            "longitude": -49.274642,
+            "ordem": 408
+        },
+        {
+            "idcoordenadapercurso": 5096465,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436132,
+            "longitude": -49.274680,
+            "ordem": 409
+        },
+        {
+            "idcoordenadapercurso": 5096466,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.436062,
+            "longitude": -49.274726,
+            "ordem": 410
+        },
+        {
+            "idcoordenadapercurso": 5096467,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.435955,
+            "longitude": -49.274779,
+            "ordem": 411
+        },
+        {
+            "idcoordenadapercurso": 5096468,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.435894,
+            "longitude": -49.274647,
+            "ordem": 412
+        },
+        {
+            "idcoordenadapercurso": 5096469,
+            "idpercurso": 17442,
+            "descricaoPercurso": "666_Novo Mundo_001_Praça Rui Barbosa",
+            "latitude": -25.435826,
+            "longitude": -49.274536,
+            "ordem": 413
+        }
+    ]
+}

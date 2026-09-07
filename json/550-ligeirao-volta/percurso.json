@@ -1,0 +1,3493 @@
+{
+    "status": "success",
+    "coordenadasPercurso": [
+        {
+            "idcoordenadapercurso": 2209676,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.434010,
+            "longitude": -49.269230,
+            "ordem": 1
+        },
+        {
+            "idcoordenadapercurso": 2209677,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.433750,
+            "longitude": -49.269370,
+            "ordem": 2
+        },
+        {
+            "idcoordenadapercurso": 2209678,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.433480,
+            "longitude": -49.269490,
+            "ordem": 3
+        },
+        {
+            "idcoordenadapercurso": 2209679,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.433620,
+            "longitude": -49.269820,
+            "ordem": 4
+        },
+        {
+            "idcoordenadapercurso": 2209680,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.433750,
+            "longitude": -49.270180,
+            "ordem": 5
+        },
+        {
+            "idcoordenadapercurso": 2209681,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.433890,
+            "longitude": -49.270580,
+            "ordem": 6
+        },
+        {
+            "idcoordenadapercurso": 2209682,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.434580,
+            "longitude": -49.270250,
+            "ordem": 7
+        },
+        {
+            "idcoordenadapercurso": 2209683,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.434890,
+            "longitude": -49.270090,
+            "ordem": 8
+        },
+        {
+            "idcoordenadapercurso": 2209684,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.435270,
+            "longitude": -49.269920,
+            "ordem": 9
+        },
+        {
+            "idcoordenadapercurso": 2209685,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.435790,
+            "longitude": -49.269670,
+            "ordem": 10
+        },
+        {
+            "idcoordenadapercurso": 2209686,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.436300,
+            "longitude": -49.269410,
+            "ordem": 11
+        },
+        {
+            "idcoordenadapercurso": 2209687,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.436790,
+            "longitude": -49.269180,
+            "ordem": 12
+        },
+        {
+            "idcoordenadapercurso": 2209688,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.437270,
+            "longitude": -49.268950,
+            "ordem": 13
+        },
+        {
+            "idcoordenadapercurso": 2209689,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.437640,
+            "longitude": -49.268770,
+            "ordem": 14
+        },
+        {
+            "idcoordenadapercurso": 2209690,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.437900,
+            "longitude": -49.268640,
+            "ordem": 15
+        },
+        {
+            "idcoordenadapercurso": 2209691,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.438220,
+            "longitude": -49.268470,
+            "ordem": 16
+        },
+        {
+            "idcoordenadapercurso": 2209692,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.438380,
+            "longitude": -49.268390,
+            "ordem": 17
+        },
+        {
+            "idcoordenadapercurso": 2209693,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.438710,
+            "longitude": -49.268230,
+            "ordem": 18
+        },
+        {
+            "idcoordenadapercurso": 2209694,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.438920,
+            "longitude": -49.268130,
+            "ordem": 19
+        },
+        {
+            "idcoordenadapercurso": 2209695,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.439310,
+            "longitude": -49.267940,
+            "ordem": 20
+        },
+        {
+            "idcoordenadapercurso": 2209696,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.439770,
+            "longitude": -49.267720,
+            "ordem": 21
+        },
+        {
+            "idcoordenadapercurso": 2209697,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.439940,
+            "longitude": -49.267640,
+            "ordem": 22
+        },
+        {
+            "idcoordenadapercurso": 2209698,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.440140,
+            "longitude": -49.267540,
+            "ordem": 23
+        },
+        {
+            "idcoordenadapercurso": 2209699,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.440410,
+            "longitude": -49.267420,
+            "ordem": 24
+        },
+        {
+            "idcoordenadapercurso": 2209700,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.440740,
+            "longitude": -49.267250,
+            "ordem": 25
+        },
+        {
+            "idcoordenadapercurso": 2209701,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.441080,
+            "longitude": -49.267090,
+            "ordem": 26
+        },
+        {
+            "idcoordenadapercurso": 2209702,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.441270,
+            "longitude": -49.266990,
+            "ordem": 27
+        },
+        {
+            "idcoordenadapercurso": 2209703,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.441430,
+            "longitude": -49.266910,
+            "ordem": 28
+        },
+        {
+            "idcoordenadapercurso": 2209704,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.441760,
+            "longitude": -49.266760,
+            "ordem": 29
+        },
+        {
+            "idcoordenadapercurso": 2209705,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.441960,
+            "longitude": -49.266660,
+            "ordem": 30
+        },
+        {
+            "idcoordenadapercurso": 2209706,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.442210,
+            "longitude": -49.266530,
+            "ordem": 31
+        },
+        {
+            "idcoordenadapercurso": 2209707,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.442440,
+            "longitude": -49.266420,
+            "ordem": 32
+        },
+        {
+            "idcoordenadapercurso": 2209708,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.442640,
+            "longitude": -49.266320,
+            "ordem": 33
+        },
+        {
+            "idcoordenadapercurso": 2209709,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.442820,
+            "longitude": -49.266220,
+            "ordem": 34
+        },
+        {
+            "idcoordenadapercurso": 2209710,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.442930,
+            "longitude": -49.266130,
+            "ordem": 35
+        },
+        {
+            "idcoordenadapercurso": 2209711,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.443110,
+            "longitude": -49.266030,
+            "ordem": 36
+        },
+        {
+            "idcoordenadapercurso": 2209712,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.443290,
+            "longitude": -49.265940,
+            "ordem": 37
+        },
+        {
+            "idcoordenadapercurso": 2209713,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.443490,
+            "longitude": -49.265870,
+            "ordem": 38
+        },
+        {
+            "idcoordenadapercurso": 2209714,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.443680,
+            "longitude": -49.265790,
+            "ordem": 39
+        },
+        {
+            "idcoordenadapercurso": 2209715,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.443930,
+            "longitude": -49.265660,
+            "ordem": 40
+        },
+        {
+            "idcoordenadapercurso": 2209716,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.444060,
+            "longitude": -49.265590,
+            "ordem": 41
+        },
+        {
+            "idcoordenadapercurso": 2209717,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.444220,
+            "longitude": -49.265480,
+            "ordem": 42
+        },
+        {
+            "idcoordenadapercurso": 2209718,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.444370,
+            "longitude": -49.265410,
+            "ordem": 43
+        },
+        {
+            "idcoordenadapercurso": 2209719,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.444630,
+            "longitude": -49.265280,
+            "ordem": 44
+        },
+        {
+            "idcoordenadapercurso": 2209720,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.445030,
+            "longitude": -49.265090,
+            "ordem": 45
+        },
+        {
+            "idcoordenadapercurso": 2209721,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.445410,
+            "longitude": -49.264900,
+            "ordem": 46
+        },
+        {
+            "idcoordenadapercurso": 2209722,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.445610,
+            "longitude": -49.264800,
+            "ordem": 47
+        },
+        {
+            "idcoordenadapercurso": 2209723,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.446000,
+            "longitude": -49.264620,
+            "ordem": 48
+        },
+        {
+            "idcoordenadapercurso": 2209724,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.446430,
+            "longitude": -49.264420,
+            "ordem": 49
+        },
+        {
+            "idcoordenadapercurso": 2209725,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.446820,
+            "longitude": -49.264240,
+            "ordem": 50
+        },
+        {
+            "idcoordenadapercurso": 2209726,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.446970,
+            "longitude": -49.264130,
+            "ordem": 51
+        },
+        {
+            "idcoordenadapercurso": 2209727,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.447300,
+            "longitude": -49.264000,
+            "ordem": 52
+        },
+        {
+            "idcoordenadapercurso": 2209728,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.447540,
+            "longitude": -49.263880,
+            "ordem": 53
+        },
+        {
+            "idcoordenadapercurso": 2209729,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.447830,
+            "longitude": -49.263720,
+            "ordem": 54
+        },
+        {
+            "idcoordenadapercurso": 2209730,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.448060,
+            "longitude": -49.263580,
+            "ordem": 55
+        },
+        {
+            "idcoordenadapercurso": 2209731,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.448210,
+            "longitude": -49.263500,
+            "ordem": 56
+        },
+        {
+            "idcoordenadapercurso": 2209732,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.448450,
+            "longitude": -49.263380,
+            "ordem": 57
+        },
+        {
+            "idcoordenadapercurso": 2209733,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.448690,
+            "longitude": -49.263270,
+            "ordem": 58
+        },
+        {
+            "idcoordenadapercurso": 2209734,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.448990,
+            "longitude": -49.263140,
+            "ordem": 59
+        },
+        {
+            "idcoordenadapercurso": 2209735,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.449290,
+            "longitude": -49.263000,
+            "ordem": 60
+        },
+        {
+            "idcoordenadapercurso": 2209736,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.449670,
+            "longitude": -49.262810,
+            "ordem": 61
+        },
+        {
+            "idcoordenadapercurso": 2209737,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.449960,
+            "longitude": -49.262670,
+            "ordem": 62
+        },
+        {
+            "idcoordenadapercurso": 2209738,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.450270,
+            "longitude": -49.262520,
+            "ordem": 63
+        },
+        {
+            "idcoordenadapercurso": 2209739,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.450550,
+            "longitude": -49.262390,
+            "ordem": 64
+        },
+        {
+            "idcoordenadapercurso": 2209740,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.450880,
+            "longitude": -49.262250,
+            "ordem": 65
+        },
+        {
+            "idcoordenadapercurso": 2209741,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.451080,
+            "longitude": -49.262160,
+            "ordem": 66
+        },
+        {
+            "idcoordenadapercurso": 2209742,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.451340,
+            "longitude": -49.262070,
+            "ordem": 67
+        },
+        {
+            "idcoordenadapercurso": 2209743,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.451530,
+            "longitude": -49.261980,
+            "ordem": 68
+        },
+        {
+            "idcoordenadapercurso": 2209744,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.451720,
+            "longitude": -49.261880,
+            "ordem": 69
+        },
+        {
+            "idcoordenadapercurso": 2209745,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.451940,
+            "longitude": -49.261750,
+            "ordem": 70
+        },
+        {
+            "idcoordenadapercurso": 2209746,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.452200,
+            "longitude": -49.261610,
+            "ordem": 71
+        },
+        {
+            "idcoordenadapercurso": 2209747,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.452590,
+            "longitude": -49.261420,
+            "ordem": 72
+        },
+        {
+            "idcoordenadapercurso": 2209748,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.452820,
+            "longitude": -49.261310,
+            "ordem": 73
+        },
+        {
+            "idcoordenadapercurso": 2209749,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.453020,
+            "longitude": -49.261220,
+            "ordem": 74
+        },
+        {
+            "idcoordenadapercurso": 2209750,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.453270,
+            "longitude": -49.261100,
+            "ordem": 75
+        },
+        {
+            "idcoordenadapercurso": 2209751,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.453500,
+            "longitude": -49.260990,
+            "ordem": 76
+        },
+        {
+            "idcoordenadapercurso": 2209752,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.453870,
+            "longitude": -49.260810,
+            "ordem": 77
+        },
+        {
+            "idcoordenadapercurso": 2209753,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.454080,
+            "longitude": -49.260710,
+            "ordem": 78
+        },
+        {
+            "idcoordenadapercurso": 2209754,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.454270,
+            "longitude": -49.260640,
+            "ordem": 79
+        },
+        {
+            "idcoordenadapercurso": 2209755,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.454520,
+            "longitude": -49.260520,
+            "ordem": 80
+        },
+        {
+            "idcoordenadapercurso": 2209756,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.454870,
+            "longitude": -49.260340,
+            "ordem": 81
+        },
+        {
+            "idcoordenadapercurso": 2209757,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.455010,
+            "longitude": -49.260250,
+            "ordem": 82
+        },
+        {
+            "idcoordenadapercurso": 2209758,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.455160,
+            "longitude": -49.260160,
+            "ordem": 83
+        },
+        {
+            "idcoordenadapercurso": 2209759,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.455500,
+            "longitude": -49.260000,
+            "ordem": 84
+        },
+        {
+            "idcoordenadapercurso": 2209760,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.455890,
+            "longitude": -49.259820,
+            "ordem": 85
+        },
+        {
+            "idcoordenadapercurso": 2209761,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.456520,
+            "longitude": -49.259520,
+            "ordem": 86
+        },
+        {
+            "idcoordenadapercurso": 2209762,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.456890,
+            "longitude": -49.259330,
+            "ordem": 87
+        },
+        {
+            "idcoordenadapercurso": 2209763,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.457220,
+            "longitude": -49.259180,
+            "ordem": 88
+        },
+        {
+            "idcoordenadapercurso": 2209764,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.457530,
+            "longitude": -49.259010,
+            "ordem": 89
+        },
+        {
+            "idcoordenadapercurso": 2209765,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.457740,
+            "longitude": -49.258910,
+            "ordem": 90
+        },
+        {
+            "idcoordenadapercurso": 2209766,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.458060,
+            "longitude": -49.258800,
+            "ordem": 91
+        },
+        {
+            "idcoordenadapercurso": 2209767,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.458370,
+            "longitude": -49.258640,
+            "ordem": 92
+        },
+        {
+            "idcoordenadapercurso": 2209768,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.458510,
+            "longitude": -49.258560,
+            "ordem": 93
+        },
+        {
+            "idcoordenadapercurso": 2209769,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.458630,
+            "longitude": -49.258490,
+            "ordem": 94
+        },
+        {
+            "idcoordenadapercurso": 2209770,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.458840,
+            "longitude": -49.258370,
+            "ordem": 95
+        },
+        {
+            "idcoordenadapercurso": 2209771,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.459210,
+            "longitude": -49.258180,
+            "ordem": 96
+        },
+        {
+            "idcoordenadapercurso": 2209772,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.459410,
+            "longitude": -49.258100,
+            "ordem": 97
+        },
+        {
+            "idcoordenadapercurso": 2209773,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.459660,
+            "longitude": -49.257980,
+            "ordem": 98
+        },
+        {
+            "idcoordenadapercurso": 2209774,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.460020,
+            "longitude": -49.257810,
+            "ordem": 99
+        },
+        {
+            "idcoordenadapercurso": 2209775,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.460370,
+            "longitude": -49.257630,
+            "ordem": 100
+        },
+        {
+            "idcoordenadapercurso": 2209776,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.460710,
+            "longitude": -49.257470,
+            "ordem": 101
+        },
+        {
+            "idcoordenadapercurso": 2209777,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.461040,
+            "longitude": -49.257310,
+            "ordem": 102
+        },
+        {
+            "idcoordenadapercurso": 2209778,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.461390,
+            "longitude": -49.257130,
+            "ordem": 103
+        },
+        {
+            "idcoordenadapercurso": 2209779,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.461610,
+            "longitude": -49.257030,
+            "ordem": 104
+        },
+        {
+            "idcoordenadapercurso": 2209780,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.461800,
+            "longitude": -49.256940,
+            "ordem": 105
+        },
+        {
+            "idcoordenadapercurso": 2209781,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.462140,
+            "longitude": -49.256780,
+            "ordem": 106
+        },
+        {
+            "idcoordenadapercurso": 2209782,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.462330,
+            "longitude": -49.256670,
+            "ordem": 107
+        },
+        {
+            "idcoordenadapercurso": 2209783,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.462490,
+            "longitude": -49.256610,
+            "ordem": 108
+        },
+        {
+            "idcoordenadapercurso": 2209784,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.462670,
+            "longitude": -49.256540,
+            "ordem": 109
+        },
+        {
+            "idcoordenadapercurso": 2209785,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.463030,
+            "longitude": -49.256360,
+            "ordem": 110
+        },
+        {
+            "idcoordenadapercurso": 2209786,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.463270,
+            "longitude": -49.256260,
+            "ordem": 111
+        },
+        {
+            "idcoordenadapercurso": 2209787,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.463420,
+            "longitude": -49.256180,
+            "ordem": 112
+        },
+        {
+            "idcoordenadapercurso": 2209788,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.463550,
+            "longitude": -49.256090,
+            "ordem": 113
+        },
+        {
+            "idcoordenadapercurso": 2209789,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.463650,
+            "longitude": -49.256020,
+            "ordem": 114
+        },
+        {
+            "idcoordenadapercurso": 2209790,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.463890,
+            "longitude": -49.255900,
+            "ordem": 115
+        },
+        {
+            "idcoordenadapercurso": 2209791,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.464260,
+            "longitude": -49.255730,
+            "ordem": 116
+        },
+        {
+            "idcoordenadapercurso": 2209792,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.464430,
+            "longitude": -49.255640,
+            "ordem": 117
+        },
+        {
+            "idcoordenadapercurso": 2209793,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.464670,
+            "longitude": -49.255520,
+            "ordem": 118
+        },
+        {
+            "idcoordenadapercurso": 2209794,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.464900,
+            "longitude": -49.255400,
+            "ordem": 119
+        },
+        {
+            "idcoordenadapercurso": 2209795,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.465130,
+            "longitude": -49.255290,
+            "ordem": 120
+        },
+        {
+            "idcoordenadapercurso": 2209796,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.465580,
+            "longitude": -49.255080,
+            "ordem": 121
+        },
+        {
+            "idcoordenadapercurso": 2209797,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.465760,
+            "longitude": -49.254990,
+            "ordem": 122
+        },
+        {
+            "idcoordenadapercurso": 2209798,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466020,
+            "longitude": -49.254850,
+            "ordem": 123
+        },
+        {
+            "idcoordenadapercurso": 2209799,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466060,
+            "longitude": -49.254820,
+            "ordem": 124
+        },
+        {
+            "idcoordenadapercurso": 2209800,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466110,
+            "longitude": -49.254790,
+            "ordem": 125
+        },
+        {
+            "idcoordenadapercurso": 2209801,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466210,
+            "longitude": -49.254710,
+            "ordem": 126
+        },
+        {
+            "idcoordenadapercurso": 2209802,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466280,
+            "longitude": -49.254670,
+            "ordem": 127
+        },
+        {
+            "idcoordenadapercurso": 2209803,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466330,
+            "longitude": -49.254640,
+            "ordem": 128
+        },
+        {
+            "idcoordenadapercurso": 2209804,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466380,
+            "longitude": -49.254620,
+            "ordem": 129
+        },
+        {
+            "idcoordenadapercurso": 2209805,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466430,
+            "longitude": -49.254610,
+            "ordem": 130
+        },
+        {
+            "idcoordenadapercurso": 2209806,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466450,
+            "longitude": -49.254600,
+            "ordem": 131
+        },
+        {
+            "idcoordenadapercurso": 2209807,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466600,
+            "longitude": -49.254530,
+            "ordem": 132
+        },
+        {
+            "idcoordenadapercurso": 2209808,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466680,
+            "longitude": -49.254480,
+            "ordem": 133
+        },
+        {
+            "idcoordenadapercurso": 2209809,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466900,
+            "longitude": -49.254380,
+            "ordem": 134
+        },
+        {
+            "idcoordenadapercurso": 2209810,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.466940,
+            "longitude": -49.254350,
+            "ordem": 135
+        },
+        {
+            "idcoordenadapercurso": 2209811,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.467000,
+            "longitude": -49.254280,
+            "ordem": 136
+        },
+        {
+            "idcoordenadapercurso": 2209812,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.467060,
+            "longitude": -49.254190,
+            "ordem": 137
+        },
+        {
+            "idcoordenadapercurso": 2209813,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.467120,
+            "longitude": -49.254130,
+            "ordem": 138
+        },
+        {
+            "idcoordenadapercurso": 2209814,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.467160,
+            "longitude": -49.254080,
+            "ordem": 139
+        },
+        {
+            "idcoordenadapercurso": 2209815,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.467250,
+            "longitude": -49.254000,
+            "ordem": 140
+        },
+        {
+            "idcoordenadapercurso": 2209816,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.467310,
+            "longitude": -49.253950,
+            "ordem": 141
+        },
+        {
+            "idcoordenadapercurso": 2209817,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.467500,
+            "longitude": -49.253790,
+            "ordem": 142
+        },
+        {
+            "idcoordenadapercurso": 2209818,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.467640,
+            "longitude": -49.253690,
+            "ordem": 143
+        },
+        {
+            "idcoordenadapercurso": 2209819,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.467900,
+            "longitude": -49.253480,
+            "ordem": 144
+        },
+        {
+            "idcoordenadapercurso": 2209820,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468010,
+            "longitude": -49.253400,
+            "ordem": 145
+        },
+        {
+            "idcoordenadapercurso": 2209821,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468100,
+            "longitude": -49.253340,
+            "ordem": 146
+        },
+        {
+            "idcoordenadapercurso": 2209822,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468130,
+            "longitude": -49.253310,
+            "ordem": 147
+        },
+        {
+            "idcoordenadapercurso": 2209823,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468190,
+            "longitude": -49.253290,
+            "ordem": 148
+        },
+        {
+            "idcoordenadapercurso": 2209824,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468270,
+            "longitude": -49.253290,
+            "ordem": 149
+        },
+        {
+            "idcoordenadapercurso": 2209825,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468390,
+            "longitude": -49.253320,
+            "ordem": 150
+        },
+        {
+            "idcoordenadapercurso": 2209826,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468430,
+            "longitude": -49.253350,
+            "ordem": 151
+        },
+        {
+            "idcoordenadapercurso": 2209827,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468510,
+            "longitude": -49.253400,
+            "ordem": 152
+        },
+        {
+            "idcoordenadapercurso": 2209828,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468580,
+            "longitude": -49.253460,
+            "ordem": 153
+        },
+        {
+            "idcoordenadapercurso": 2209829,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468650,
+            "longitude": -49.253510,
+            "ordem": 154
+        },
+        {
+            "idcoordenadapercurso": 2209830,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468710,
+            "longitude": -49.253560,
+            "ordem": 155
+        },
+        {
+            "idcoordenadapercurso": 2209831,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.468860,
+            "longitude": -49.253680,
+            "ordem": 156
+        },
+        {
+            "idcoordenadapercurso": 2209832,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.469030,
+            "longitude": -49.253810,
+            "ordem": 157
+        },
+        {
+            "idcoordenadapercurso": 2209833,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.469160,
+            "longitude": -49.253920,
+            "ordem": 158
+        },
+        {
+            "idcoordenadapercurso": 2209834,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.469320,
+            "longitude": -49.254040,
+            "ordem": 159
+        },
+        {
+            "idcoordenadapercurso": 2209835,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.469520,
+            "longitude": -49.254210,
+            "ordem": 160
+        },
+        {
+            "idcoordenadapercurso": 2209836,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.469630,
+            "longitude": -49.254290,
+            "ordem": 161
+        },
+        {
+            "idcoordenadapercurso": 2209837,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.469770,
+            "longitude": -49.254420,
+            "ordem": 162
+        },
+        {
+            "idcoordenadapercurso": 2209838,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.469900,
+            "longitude": -49.254530,
+            "ordem": 163
+        },
+        {
+            "idcoordenadapercurso": 2209839,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.469970,
+            "longitude": -49.254600,
+            "ordem": 164
+        },
+        {
+            "idcoordenadapercurso": 2209840,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470020,
+            "longitude": -49.254660,
+            "ordem": 165
+        },
+        {
+            "idcoordenadapercurso": 2209841,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470070,
+            "longitude": -49.254710,
+            "ordem": 166
+        },
+        {
+            "idcoordenadapercurso": 2209842,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470130,
+            "longitude": -49.254780,
+            "ordem": 167
+        },
+        {
+            "idcoordenadapercurso": 2209843,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470170,
+            "longitude": -49.254820,
+            "ordem": 168
+        },
+        {
+            "idcoordenadapercurso": 2209844,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470210,
+            "longitude": -49.254850,
+            "ordem": 169
+        },
+        {
+            "idcoordenadapercurso": 2209845,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470270,
+            "longitude": -49.254900,
+            "ordem": 170
+        },
+        {
+            "idcoordenadapercurso": 2209846,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470300,
+            "longitude": -49.254910,
+            "ordem": 171
+        },
+        {
+            "idcoordenadapercurso": 2209847,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470410,
+            "longitude": -49.254990,
+            "ordem": 172
+        },
+        {
+            "idcoordenadapercurso": 2209848,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470510,
+            "longitude": -49.255070,
+            "ordem": 173
+        },
+        {
+            "idcoordenadapercurso": 2209849,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470800,
+            "longitude": -49.255300,
+            "ordem": 174
+        },
+        {
+            "idcoordenadapercurso": 2209850,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.470940,
+            "longitude": -49.255420,
+            "ordem": 175
+        },
+        {
+            "idcoordenadapercurso": 2209851,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.471130,
+            "longitude": -49.255560,
+            "ordem": 176
+        },
+        {
+            "idcoordenadapercurso": 2209852,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.471360,
+            "longitude": -49.255760,
+            "ordem": 177
+        },
+        {
+            "idcoordenadapercurso": 2209853,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.471450,
+            "longitude": -49.255830,
+            "ordem": 178
+        },
+        {
+            "idcoordenadapercurso": 2209854,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.471760,
+            "longitude": -49.256080,
+            "ordem": 179
+        },
+        {
+            "idcoordenadapercurso": 2209855,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.472080,
+            "longitude": -49.256340,
+            "ordem": 180
+        },
+        {
+            "idcoordenadapercurso": 2209856,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.472300,
+            "longitude": -49.256510,
+            "ordem": 181
+        },
+        {
+            "idcoordenadapercurso": 2209857,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.472510,
+            "longitude": -49.256680,
+            "ordem": 182
+        },
+        {
+            "idcoordenadapercurso": 2209858,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.472730,
+            "longitude": -49.256860,
+            "ordem": 183
+        },
+        {
+            "idcoordenadapercurso": 2209859,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.472880,
+            "longitude": -49.256980,
+            "ordem": 184
+        },
+        {
+            "idcoordenadapercurso": 2209860,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.473150,
+            "longitude": -49.257200,
+            "ordem": 185
+        },
+        {
+            "idcoordenadapercurso": 2209861,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.473410,
+            "longitude": -49.257410,
+            "ordem": 186
+        },
+        {
+            "idcoordenadapercurso": 2209862,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.473670,
+            "longitude": -49.257610,
+            "ordem": 187
+        },
+        {
+            "idcoordenadapercurso": 2209863,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.473930,
+            "longitude": -49.257820,
+            "ordem": 188
+        },
+        {
+            "idcoordenadapercurso": 2209864,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.474200,
+            "longitude": -49.258040,
+            "ordem": 189
+        },
+        {
+            "idcoordenadapercurso": 2209865,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.474400,
+            "longitude": -49.258210,
+            "ordem": 190
+        },
+        {
+            "idcoordenadapercurso": 2209866,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.474700,
+            "longitude": -49.258470,
+            "ordem": 191
+        },
+        {
+            "idcoordenadapercurso": 2209867,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.475040,
+            "longitude": -49.258750,
+            "ordem": 192
+        },
+        {
+            "idcoordenadapercurso": 2209868,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.475380,
+            "longitude": -49.259010,
+            "ordem": 193
+        },
+        {
+            "idcoordenadapercurso": 2209869,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.475600,
+            "longitude": -49.259210,
+            "ordem": 194
+        },
+        {
+            "idcoordenadapercurso": 2209870,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.475780,
+            "longitude": -49.259350,
+            "ordem": 195
+        },
+        {
+            "idcoordenadapercurso": 2209871,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.475910,
+            "longitude": -49.259450,
+            "ordem": 196
+        },
+        {
+            "idcoordenadapercurso": 2209872,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.476080,
+            "longitude": -49.259560,
+            "ordem": 197
+        },
+        {
+            "idcoordenadapercurso": 2209873,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.476190,
+            "longitude": -49.259630,
+            "ordem": 198
+        },
+        {
+            "idcoordenadapercurso": 2209874,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.476310,
+            "longitude": -49.259700,
+            "ordem": 199
+        },
+        {
+            "idcoordenadapercurso": 2209875,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.476460,
+            "longitude": -49.259810,
+            "ordem": 200
+        },
+        {
+            "idcoordenadapercurso": 2209876,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.476660,
+            "longitude": -49.259950,
+            "ordem": 201
+        },
+        {
+            "idcoordenadapercurso": 2209877,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.476810,
+            "longitude": -49.260050,
+            "ordem": 202
+        },
+        {
+            "idcoordenadapercurso": 2209878,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.476880,
+            "longitude": -49.260100,
+            "ordem": 203
+        },
+        {
+            "idcoordenadapercurso": 2209879,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.477190,
+            "longitude": -49.260330,
+            "ordem": 204
+        },
+        {
+            "idcoordenadapercurso": 2209880,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.477450,
+            "longitude": -49.260540,
+            "ordem": 205
+        },
+        {
+            "idcoordenadapercurso": 2209881,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.477710,
+            "longitude": -49.260750,
+            "ordem": 206
+        },
+        {
+            "idcoordenadapercurso": 2209882,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.477950,
+            "longitude": -49.260930,
+            "ordem": 207
+        },
+        {
+            "idcoordenadapercurso": 2209883,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.478180,
+            "longitude": -49.261120,
+            "ordem": 208
+        },
+        {
+            "idcoordenadapercurso": 2209884,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.478400,
+            "longitude": -49.261300,
+            "ordem": 209
+        },
+        {
+            "idcoordenadapercurso": 2209885,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.478630,
+            "longitude": -49.261480,
+            "ordem": 210
+        },
+        {
+            "idcoordenadapercurso": 2209886,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.478850,
+            "longitude": -49.261660,
+            "ordem": 211
+        },
+        {
+            "idcoordenadapercurso": 2209887,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.479070,
+            "longitude": -49.261840,
+            "ordem": 212
+        },
+        {
+            "idcoordenadapercurso": 2209888,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.479300,
+            "longitude": -49.262030,
+            "ordem": 213
+        },
+        {
+            "idcoordenadapercurso": 2209889,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.479410,
+            "longitude": -49.262120,
+            "ordem": 214
+        },
+        {
+            "idcoordenadapercurso": 2209890,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.479580,
+            "longitude": -49.262260,
+            "ordem": 215
+        },
+        {
+            "idcoordenadapercurso": 2209891,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.479980,
+            "longitude": -49.262580,
+            "ordem": 216
+        },
+        {
+            "idcoordenadapercurso": 2209892,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.480890,
+            "longitude": -49.263310,
+            "ordem": 217
+        },
+        {
+            "idcoordenadapercurso": 2209893,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.481200,
+            "longitude": -49.263570,
+            "ordem": 218
+        },
+        {
+            "idcoordenadapercurso": 2209894,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.481500,
+            "longitude": -49.263810,
+            "ordem": 219
+        },
+        {
+            "idcoordenadapercurso": 2209895,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.481680,
+            "longitude": -49.263960,
+            "ordem": 220
+        },
+        {
+            "idcoordenadapercurso": 2209896,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.481840,
+            "longitude": -49.264090,
+            "ordem": 221
+        },
+        {
+            "idcoordenadapercurso": 2209897,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.482160,
+            "longitude": -49.264340,
+            "ordem": 222
+        },
+        {
+            "idcoordenadapercurso": 2209898,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.482320,
+            "longitude": -49.264470,
+            "ordem": 223
+        },
+        {
+            "idcoordenadapercurso": 2209899,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.482480,
+            "longitude": -49.264610,
+            "ordem": 224
+        },
+        {
+            "idcoordenadapercurso": 2209900,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.482800,
+            "longitude": -49.264860,
+            "ordem": 225
+        },
+        {
+            "idcoordenadapercurso": 2209901,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.482990,
+            "longitude": -49.265020,
+            "ordem": 226
+        },
+        {
+            "idcoordenadapercurso": 2209902,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.483170,
+            "longitude": -49.265170,
+            "ordem": 227
+        },
+        {
+            "idcoordenadapercurso": 2209903,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.483460,
+            "longitude": -49.265420,
+            "ordem": 228
+        },
+        {
+            "idcoordenadapercurso": 2209904,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.483560,
+            "longitude": -49.265510,
+            "ordem": 229
+        },
+        {
+            "idcoordenadapercurso": 2209905,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.483670,
+            "longitude": -49.265600,
+            "ordem": 230
+        },
+        {
+            "idcoordenadapercurso": 2209906,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.483790,
+            "longitude": -49.265720,
+            "ordem": 231
+        },
+        {
+            "idcoordenadapercurso": 2209907,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.483950,
+            "longitude": -49.265860,
+            "ordem": 232
+        },
+        {
+            "idcoordenadapercurso": 2209908,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.484160,
+            "longitude": -49.266060,
+            "ordem": 233
+        },
+        {
+            "idcoordenadapercurso": 2209909,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.484390,
+            "longitude": -49.266270,
+            "ordem": 234
+        },
+        {
+            "idcoordenadapercurso": 2209910,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.484490,
+            "longitude": -49.266350,
+            "ordem": 235
+        },
+        {
+            "idcoordenadapercurso": 2209911,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.484600,
+            "longitude": -49.266430,
+            "ordem": 236
+        },
+        {
+            "idcoordenadapercurso": 2209912,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.484720,
+            "longitude": -49.266520,
+            "ordem": 237
+        },
+        {
+            "idcoordenadapercurso": 2209913,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.484860,
+            "longitude": -49.266640,
+            "ordem": 238
+        },
+        {
+            "idcoordenadapercurso": 2209914,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.485090,
+            "longitude": -49.266830,
+            "ordem": 239
+        },
+        {
+            "idcoordenadapercurso": 2209915,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.485340,
+            "longitude": -49.267030,
+            "ordem": 240
+        },
+        {
+            "idcoordenadapercurso": 2209916,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.485530,
+            "longitude": -49.267180,
+            "ordem": 241
+        },
+        {
+            "idcoordenadapercurso": 2209917,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.485660,
+            "longitude": -49.267300,
+            "ordem": 242
+        },
+        {
+            "idcoordenadapercurso": 2209918,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.485820,
+            "longitude": -49.267420,
+            "ordem": 243
+        },
+        {
+            "idcoordenadapercurso": 2209919,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.486020,
+            "longitude": -49.267570,
+            "ordem": 244
+        },
+        {
+            "idcoordenadapercurso": 2209920,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.486240,
+            "longitude": -49.267730,
+            "ordem": 245
+        },
+        {
+            "idcoordenadapercurso": 2209921,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.486430,
+            "longitude": -49.267880,
+            "ordem": 246
+        },
+        {
+            "idcoordenadapercurso": 2209922,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.486640,
+            "longitude": -49.268020,
+            "ordem": 247
+        },
+        {
+            "idcoordenadapercurso": 2209923,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.486810,
+            "longitude": -49.268140,
+            "ordem": 248
+        },
+        {
+            "idcoordenadapercurso": 2209924,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.486900,
+            "longitude": -49.268210,
+            "ordem": 249
+        },
+        {
+            "idcoordenadapercurso": 2209925,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.486990,
+            "longitude": -49.268270,
+            "ordem": 250
+        },
+        {
+            "idcoordenadapercurso": 2209926,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.487200,
+            "longitude": -49.268430,
+            "ordem": 251
+        },
+        {
+            "idcoordenadapercurso": 2209927,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.487340,
+            "longitude": -49.268550,
+            "ordem": 252
+        },
+        {
+            "idcoordenadapercurso": 2209928,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.487470,
+            "longitude": -49.268650,
+            "ordem": 253
+        },
+        {
+            "idcoordenadapercurso": 2209929,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.487730,
+            "longitude": -49.268860,
+            "ordem": 254
+        },
+        {
+            "idcoordenadapercurso": 2209930,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.487910,
+            "longitude": -49.269000,
+            "ordem": 255
+        },
+        {
+            "idcoordenadapercurso": 2209931,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.488010,
+            "longitude": -49.269070,
+            "ordem": 256
+        },
+        {
+            "idcoordenadapercurso": 2209932,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.488100,
+            "longitude": -49.269150,
+            "ordem": 257
+        },
+        {
+            "idcoordenadapercurso": 2209933,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.488270,
+            "longitude": -49.269290,
+            "ordem": 258
+        },
+        {
+            "idcoordenadapercurso": 2209934,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.488450,
+            "longitude": -49.269430,
+            "ordem": 259
+        },
+        {
+            "idcoordenadapercurso": 2209935,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.488630,
+            "longitude": -49.269580,
+            "ordem": 260
+        },
+        {
+            "idcoordenadapercurso": 2209936,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.488830,
+            "longitude": -49.269750,
+            "ordem": 261
+        },
+        {
+            "idcoordenadapercurso": 2209937,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.489030,
+            "longitude": -49.269910,
+            "ordem": 262
+        },
+        {
+            "idcoordenadapercurso": 2209938,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.489140,
+            "longitude": -49.270000,
+            "ordem": 263
+        },
+        {
+            "idcoordenadapercurso": 2209939,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.489200,
+            "longitude": -49.270050,
+            "ordem": 264
+        },
+        {
+            "idcoordenadapercurso": 2209940,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.489260,
+            "longitude": -49.270100,
+            "ordem": 265
+        },
+        {
+            "idcoordenadapercurso": 2209941,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.489490,
+            "longitude": -49.270280,
+            "ordem": 266
+        },
+        {
+            "idcoordenadapercurso": 2209942,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.490360,
+            "longitude": -49.270990,
+            "ordem": 267
+        },
+        {
+            "idcoordenadapercurso": 2209943,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.490580,
+            "longitude": -49.271170,
+            "ordem": 268
+        },
+        {
+            "idcoordenadapercurso": 2209944,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.490690,
+            "longitude": -49.271260,
+            "ordem": 269
+        },
+        {
+            "idcoordenadapercurso": 2209945,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.490800,
+            "longitude": -49.271340,
+            "ordem": 270
+        },
+        {
+            "idcoordenadapercurso": 2209946,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.490910,
+            "longitude": -49.271430,
+            "ordem": 271
+        },
+        {
+            "idcoordenadapercurso": 2209947,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.491030,
+            "longitude": -49.271530,
+            "ordem": 272
+        },
+        {
+            "idcoordenadapercurso": 2209948,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.491240,
+            "longitude": -49.271700,
+            "ordem": 273
+        },
+        {
+            "idcoordenadapercurso": 2209949,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.491450,
+            "longitude": -49.271870,
+            "ordem": 274
+        },
+        {
+            "idcoordenadapercurso": 2209950,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.491660,
+            "longitude": -49.272040,
+            "ordem": 275
+        },
+        {
+            "idcoordenadapercurso": 2209951,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.491900,
+            "longitude": -49.272220,
+            "ordem": 276
+        },
+        {
+            "idcoordenadapercurso": 2209952,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.492260,
+            "longitude": -49.272520,
+            "ordem": 277
+        },
+        {
+            "idcoordenadapercurso": 2209953,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.492480,
+            "longitude": -49.272690,
+            "ordem": 278
+        },
+        {
+            "idcoordenadapercurso": 2209954,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.492750,
+            "longitude": -49.272910,
+            "ordem": 279
+        },
+        {
+            "idcoordenadapercurso": 2209955,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.493020,
+            "longitude": -49.273140,
+            "ordem": 280
+        },
+        {
+            "idcoordenadapercurso": 2209956,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.493410,
+            "longitude": -49.273440,
+            "ordem": 281
+        },
+        {
+            "idcoordenadapercurso": 2209957,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.493670,
+            "longitude": -49.273650,
+            "ordem": 282
+        },
+        {
+            "idcoordenadapercurso": 2209958,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.493900,
+            "longitude": -49.273850,
+            "ordem": 283
+        },
+        {
+            "idcoordenadapercurso": 2209959,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.494070,
+            "longitude": -49.273990,
+            "ordem": 284
+        },
+        {
+            "idcoordenadapercurso": 2209960,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.494180,
+            "longitude": -49.274070,
+            "ordem": 285
+        },
+        {
+            "idcoordenadapercurso": 2209961,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.494450,
+            "longitude": -49.274330,
+            "ordem": 286
+        },
+        {
+            "idcoordenadapercurso": 2209962,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.494570,
+            "longitude": -49.274440,
+            "ordem": 287
+        },
+        {
+            "idcoordenadapercurso": 2209963,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.494700,
+            "longitude": -49.274570,
+            "ordem": 288
+        },
+        {
+            "idcoordenadapercurso": 2209964,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.494890,
+            "longitude": -49.274760,
+            "ordem": 289
+        },
+        {
+            "idcoordenadapercurso": 2209965,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.495120,
+            "longitude": -49.274980,
+            "ordem": 290
+        },
+        {
+            "idcoordenadapercurso": 2209966,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.495360,
+            "longitude": -49.275190,
+            "ordem": 291
+        },
+        {
+            "idcoordenadapercurso": 2209967,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.495460,
+            "longitude": -49.275280,
+            "ordem": 292
+        },
+        {
+            "idcoordenadapercurso": 2209968,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.495560,
+            "longitude": -49.275370,
+            "ordem": 293
+        },
+        {
+            "idcoordenadapercurso": 2209969,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.495640,
+            "longitude": -49.275440,
+            "ordem": 294
+        },
+        {
+            "idcoordenadapercurso": 2209970,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.495800,
+            "longitude": -49.275570,
+            "ordem": 295
+        },
+        {
+            "idcoordenadapercurso": 2209971,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.495810,
+            "longitude": -49.275580,
+            "ordem": 296
+        },
+        {
+            "idcoordenadapercurso": 2209972,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.495900,
+            "longitude": -49.275660,
+            "ordem": 297
+        },
+        {
+            "idcoordenadapercurso": 2209973,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.495960,
+            "longitude": -49.275700,
+            "ordem": 298
+        },
+        {
+            "idcoordenadapercurso": 2209974,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.496030,
+            "longitude": -49.275750,
+            "ordem": 299
+        },
+        {
+            "idcoordenadapercurso": 2209975,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.496090,
+            "longitude": -49.275790,
+            "ordem": 300
+        },
+        {
+            "idcoordenadapercurso": 2209976,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.496150,
+            "longitude": -49.275840,
+            "ordem": 301
+        },
+        {
+            "idcoordenadapercurso": 2209977,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.496360,
+            "longitude": -49.276010,
+            "ordem": 302
+        },
+        {
+            "idcoordenadapercurso": 2209978,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.496550,
+            "longitude": -49.276170,
+            "ordem": 303
+        },
+        {
+            "idcoordenadapercurso": 2209979,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.496740,
+            "longitude": -49.276320,
+            "ordem": 304
+        },
+        {
+            "idcoordenadapercurso": 2209980,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.496920,
+            "longitude": -49.276470,
+            "ordem": 305
+        },
+        {
+            "idcoordenadapercurso": 2209981,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.497100,
+            "longitude": -49.276610,
+            "ordem": 306
+        },
+        {
+            "idcoordenadapercurso": 2209982,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.497320,
+            "longitude": -49.276790,
+            "ordem": 307
+        },
+        {
+            "idcoordenadapercurso": 2209983,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.497530,
+            "longitude": -49.276970,
+            "ordem": 308
+        },
+        {
+            "idcoordenadapercurso": 2209984,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.497820,
+            "longitude": -49.277200,
+            "ordem": 309
+        },
+        {
+            "idcoordenadapercurso": 2209985,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.497990,
+            "longitude": -49.277330,
+            "ordem": 310
+        },
+        {
+            "idcoordenadapercurso": 2209986,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.498240,
+            "longitude": -49.277510,
+            "ordem": 311
+        },
+        {
+            "idcoordenadapercurso": 2209987,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.498330,
+            "longitude": -49.277570,
+            "ordem": 312
+        },
+        {
+            "idcoordenadapercurso": 2209988,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.498430,
+            "longitude": -49.277650,
+            "ordem": 313
+        },
+        {
+            "idcoordenadapercurso": 2209989,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.498540,
+            "longitude": -49.277730,
+            "ordem": 314
+        },
+        {
+            "idcoordenadapercurso": 2209990,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.498660,
+            "longitude": -49.277820,
+            "ordem": 315
+        },
+        {
+            "idcoordenadapercurso": 2209991,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.498780,
+            "longitude": -49.277920,
+            "ordem": 316
+        },
+        {
+            "idcoordenadapercurso": 2209992,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.498930,
+            "longitude": -49.278040,
+            "ordem": 317
+        },
+        {
+            "idcoordenadapercurso": 2209993,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.499220,
+            "longitude": -49.278280,
+            "ordem": 318
+        },
+        {
+            "idcoordenadapercurso": 2209994,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.499370,
+            "longitude": -49.278400,
+            "ordem": 319
+        },
+        {
+            "idcoordenadapercurso": 2209995,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.499520,
+            "longitude": -49.278520,
+            "ordem": 320
+        },
+        {
+            "idcoordenadapercurso": 2209996,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.499830,
+            "longitude": -49.278760,
+            "ordem": 321
+        },
+        {
+            "idcoordenadapercurso": 2209997,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.500030,
+            "longitude": -49.278920,
+            "ordem": 322
+        },
+        {
+            "idcoordenadapercurso": 2209998,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.500230,
+            "longitude": -49.279080,
+            "ordem": 323
+        },
+        {
+            "idcoordenadapercurso": 2209999,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.500480,
+            "longitude": -49.279280,
+            "ordem": 324
+        },
+        {
+            "idcoordenadapercurso": 2210000,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.500630,
+            "longitude": -49.279400,
+            "ordem": 325
+        },
+        {
+            "idcoordenadapercurso": 2210001,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.500780,
+            "longitude": -49.279530,
+            "ordem": 326
+        },
+        {
+            "idcoordenadapercurso": 2210002,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.501030,
+            "longitude": -49.279730,
+            "ordem": 327
+        },
+        {
+            "idcoordenadapercurso": 2210003,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.501240,
+            "longitude": -49.279890,
+            "ordem": 328
+        },
+        {
+            "idcoordenadapercurso": 2210004,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.501330,
+            "longitude": -49.279970,
+            "ordem": 329
+        },
+        {
+            "idcoordenadapercurso": 2210005,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.501440,
+            "longitude": -49.280060,
+            "ordem": 330
+        },
+        {
+            "idcoordenadapercurso": 2210006,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.501550,
+            "longitude": -49.280150,
+            "ordem": 331
+        },
+        {
+            "idcoordenadapercurso": 2210007,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.501660,
+            "longitude": -49.280240,
+            "ordem": 332
+        },
+        {
+            "idcoordenadapercurso": 2210008,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.501780,
+            "longitude": -49.280330,
+            "ordem": 333
+        },
+        {
+            "idcoordenadapercurso": 2210009,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.501880,
+            "longitude": -49.280420,
+            "ordem": 334
+        },
+        {
+            "idcoordenadapercurso": 2210010,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.501990,
+            "longitude": -49.280510,
+            "ordem": 335
+        },
+        {
+            "idcoordenadapercurso": 2210011,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.502100,
+            "longitude": -49.280590,
+            "ordem": 336
+        },
+        {
+            "idcoordenadapercurso": 2210012,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.502200,
+            "longitude": -49.280670,
+            "ordem": 337
+        },
+        {
+            "idcoordenadapercurso": 2210013,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.502310,
+            "longitude": -49.280760,
+            "ordem": 338
+        },
+        {
+            "idcoordenadapercurso": 2210014,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.502510,
+            "longitude": -49.280930,
+            "ordem": 339
+        },
+        {
+            "idcoordenadapercurso": 2210015,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.502720,
+            "longitude": -49.281100,
+            "ordem": 340
+        },
+        {
+            "idcoordenadapercurso": 2210016,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.502990,
+            "longitude": -49.281310,
+            "ordem": 341
+        },
+        {
+            "idcoordenadapercurso": 2210017,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.503160,
+            "longitude": -49.281450,
+            "ordem": 342
+        },
+        {
+            "idcoordenadapercurso": 2210018,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.503400,
+            "longitude": -49.281640,
+            "ordem": 343
+        },
+        {
+            "idcoordenadapercurso": 2210019,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.503620,
+            "longitude": -49.281820,
+            "ordem": 344
+        },
+        {
+            "idcoordenadapercurso": 2210020,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.503860,
+            "longitude": -49.282010,
+            "ordem": 345
+        },
+        {
+            "idcoordenadapercurso": 2210021,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.504100,
+            "longitude": -49.282210,
+            "ordem": 346
+        },
+        {
+            "idcoordenadapercurso": 2210022,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.504240,
+            "longitude": -49.282320,
+            "ordem": 347
+        },
+        {
+            "idcoordenadapercurso": 2210023,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.504400,
+            "longitude": -49.282450,
+            "ordem": 348
+        },
+        {
+            "idcoordenadapercurso": 2210024,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.504500,
+            "longitude": -49.282530,
+            "ordem": 349
+        },
+        {
+            "idcoordenadapercurso": 2210025,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.504600,
+            "longitude": -49.282610,
+            "ordem": 350
+        },
+        {
+            "idcoordenadapercurso": 2210026,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.504820,
+            "longitude": -49.282790,
+            "ordem": 351
+        },
+        {
+            "idcoordenadapercurso": 2210027,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.504950,
+            "longitude": -49.282900,
+            "ordem": 352
+        },
+        {
+            "idcoordenadapercurso": 2210028,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.505020,
+            "longitude": -49.282950,
+            "ordem": 353
+        },
+        {
+            "idcoordenadapercurso": 2210029,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.505090,
+            "longitude": -49.283000,
+            "ordem": 354
+        },
+        {
+            "idcoordenadapercurso": 2210030,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.505220,
+            "longitude": -49.283110,
+            "ordem": 355
+        },
+        {
+            "idcoordenadapercurso": 2210031,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.505350,
+            "longitude": -49.283220,
+            "ordem": 356
+        },
+        {
+            "idcoordenadapercurso": 2210032,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.505490,
+            "longitude": -49.283330,
+            "ordem": 357
+        },
+        {
+            "idcoordenadapercurso": 2210033,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.505620,
+            "longitude": -49.283440,
+            "ordem": 358
+        },
+        {
+            "idcoordenadapercurso": 2210034,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.505800,
+            "longitude": -49.283580,
+            "ordem": 359
+        },
+        {
+            "idcoordenadapercurso": 2210035,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.505980,
+            "longitude": -49.283720,
+            "ordem": 360
+        },
+        {
+            "idcoordenadapercurso": 2210036,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.506170,
+            "longitude": -49.283880,
+            "ordem": 361
+        },
+        {
+            "idcoordenadapercurso": 2210037,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.506450,
+            "longitude": -49.284110,
+            "ordem": 362
+        },
+        {
+            "idcoordenadapercurso": 2210038,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.506600,
+            "longitude": -49.284230,
+            "ordem": 363
+        },
+        {
+            "idcoordenadapercurso": 2210039,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.506670,
+            "longitude": -49.284280,
+            "ordem": 364
+        },
+        {
+            "idcoordenadapercurso": 2210040,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.506750,
+            "longitude": -49.284350,
+            "ordem": 365
+        },
+        {
+            "idcoordenadapercurso": 2210041,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.507340,
+            "longitude": -49.284840,
+            "ordem": 366
+        },
+        {
+            "idcoordenadapercurso": 2210042,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.507500,
+            "longitude": -49.284970,
+            "ordem": 367
+        },
+        {
+            "idcoordenadapercurso": 2210043,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.507750,
+            "longitude": -49.285170,
+            "ordem": 368
+        },
+        {
+            "idcoordenadapercurso": 2210044,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.507970,
+            "longitude": -49.285360,
+            "ordem": 369
+        },
+        {
+            "idcoordenadapercurso": 2210045,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.508080,
+            "longitude": -49.285440,
+            "ordem": 370
+        },
+        {
+            "idcoordenadapercurso": 2210046,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.508200,
+            "longitude": -49.285540,
+            "ordem": 371
+        },
+        {
+            "idcoordenadapercurso": 2210047,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.508400,
+            "longitude": -49.285700,
+            "ordem": 372
+        },
+        {
+            "idcoordenadapercurso": 2210048,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.508510,
+            "longitude": -49.285790,
+            "ordem": 373
+        },
+        {
+            "idcoordenadapercurso": 2210049,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.508630,
+            "longitude": -49.285880,
+            "ordem": 374
+        },
+        {
+            "idcoordenadapercurso": 2210050,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.508850,
+            "longitude": -49.286050,
+            "ordem": 375
+        },
+        {
+            "idcoordenadapercurso": 2210051,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.509060,
+            "longitude": -49.286220,
+            "ordem": 376
+        },
+        {
+            "idcoordenadapercurso": 2210052,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.509170,
+            "longitude": -49.286310,
+            "ordem": 377
+        },
+        {
+            "idcoordenadapercurso": 2210053,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.509280,
+            "longitude": -49.286390,
+            "ordem": 378
+        },
+        {
+            "idcoordenadapercurso": 2210054,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.509390,
+            "longitude": -49.286490,
+            "ordem": 379
+        },
+        {
+            "idcoordenadapercurso": 2210055,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.509510,
+            "longitude": -49.286580,
+            "ordem": 380
+        },
+        {
+            "idcoordenadapercurso": 2210056,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.509720,
+            "longitude": -49.286760,
+            "ordem": 381
+        },
+        {
+            "idcoordenadapercurso": 2210057,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.509920,
+            "longitude": -49.286920,
+            "ordem": 382
+        },
+        {
+            "idcoordenadapercurso": 2210058,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.510020,
+            "longitude": -49.287000,
+            "ordem": 383
+        },
+        {
+            "idcoordenadapercurso": 2210059,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.510100,
+            "longitude": -49.287070,
+            "ordem": 384
+        },
+        {
+            "idcoordenadapercurso": 2210060,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.510190,
+            "longitude": -49.287140,
+            "ordem": 385
+        },
+        {
+            "idcoordenadapercurso": 2210061,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.510280,
+            "longitude": -49.287210,
+            "ordem": 386
+        },
+        {
+            "idcoordenadapercurso": 2210062,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.510320,
+            "longitude": -49.287250,
+            "ordem": 387
+        },
+        {
+            "idcoordenadapercurso": 2210063,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.510380,
+            "longitude": -49.287290,
+            "ordem": 388
+        },
+        {
+            "idcoordenadapercurso": 2210064,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.510610,
+            "longitude": -49.287480,
+            "ordem": 389
+        },
+        {
+            "idcoordenadapercurso": 2210065,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.510840,
+            "longitude": -49.287660,
+            "ordem": 390
+        },
+        {
+            "idcoordenadapercurso": 2210066,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511050,
+            "longitude": -49.287830,
+            "ordem": 391
+        },
+        {
+            "idcoordenadapercurso": 2210067,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511270,
+            "longitude": -49.288010,
+            "ordem": 392
+        },
+        {
+            "idcoordenadapercurso": 2210068,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511470,
+            "longitude": -49.288180,
+            "ordem": 393
+        },
+        {
+            "idcoordenadapercurso": 2210069,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511680,
+            "longitude": -49.288340,
+            "ordem": 394
+        },
+        {
+            "idcoordenadapercurso": 2210070,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511890,
+            "longitude": -49.288520,
+            "ordem": 395
+        },
+        {
+            "idcoordenadapercurso": 2210071,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512090,
+            "longitude": -49.288680,
+            "ordem": 396
+        },
+        {
+            "idcoordenadapercurso": 2210072,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512290,
+            "longitude": -49.288840,
+            "ordem": 397
+        },
+        {
+            "idcoordenadapercurso": 2210073,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512380,
+            "longitude": -49.288910,
+            "ordem": 398
+        },
+        {
+            "idcoordenadapercurso": 2210074,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512450,
+            "longitude": -49.288980,
+            "ordem": 399
+        },
+        {
+            "idcoordenadapercurso": 2210075,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512520,
+            "longitude": -49.289050,
+            "ordem": 400
+        },
+        {
+            "idcoordenadapercurso": 2210076,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512560,
+            "longitude": -49.289120,
+            "ordem": 401
+        },
+        {
+            "idcoordenadapercurso": 2210077,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512610,
+            "longitude": -49.289210,
+            "ordem": 402
+        },
+        {
+            "idcoordenadapercurso": 2210078,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512620,
+            "longitude": -49.289250,
+            "ordem": 403
+        },
+        {
+            "idcoordenadapercurso": 2210079,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512640,
+            "longitude": -49.289330,
+            "ordem": 404
+        },
+        {
+            "idcoordenadapercurso": 2210080,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512650,
+            "longitude": -49.289420,
+            "ordem": 405
+        },
+        {
+            "idcoordenadapercurso": 2210081,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512650,
+            "longitude": -49.289480,
+            "ordem": 406
+        },
+        {
+            "idcoordenadapercurso": 2210082,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512640,
+            "longitude": -49.289580,
+            "ordem": 407
+        },
+        {
+            "idcoordenadapercurso": 2210083,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512610,
+            "longitude": -49.289680,
+            "ordem": 408
+        },
+        {
+            "idcoordenadapercurso": 2210084,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512570,
+            "longitude": -49.289790,
+            "ordem": 409
+        },
+        {
+            "idcoordenadapercurso": 2210085,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512540,
+            "longitude": -49.289850,
+            "ordem": 410
+        },
+        {
+            "idcoordenadapercurso": 2210086,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512470,
+            "longitude": -49.289990,
+            "ordem": 411
+        },
+        {
+            "idcoordenadapercurso": 2210087,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512420,
+            "longitude": -49.290100,
+            "ordem": 412
+        },
+        {
+            "idcoordenadapercurso": 2210088,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512360,
+            "longitude": -49.290210,
+            "ordem": 413
+        },
+        {
+            "idcoordenadapercurso": 2210089,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512190,
+            "longitude": -49.290560,
+            "ordem": 414
+        },
+        {
+            "idcoordenadapercurso": 2210090,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511980,
+            "longitude": -49.290980,
+            "ordem": 415
+        },
+        {
+            "idcoordenadapercurso": 2210091,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511840,
+            "longitude": -49.291280,
+            "ordem": 416
+        },
+        {
+            "idcoordenadapercurso": 2210092,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511670,
+            "longitude": -49.291610,
+            "ordem": 417
+        },
+        {
+            "idcoordenadapercurso": 2210093,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511510,
+            "longitude": -49.291940,
+            "ordem": 418
+        },
+        {
+            "idcoordenadapercurso": 2210094,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511470,
+            "longitude": -49.292040,
+            "ordem": 419
+        },
+        {
+            "idcoordenadapercurso": 2210095,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511440,
+            "longitude": -49.292130,
+            "ordem": 420
+        },
+        {
+            "idcoordenadapercurso": 2210096,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511420,
+            "longitude": -49.292230,
+            "ordem": 421
+        },
+        {
+            "idcoordenadapercurso": 2210097,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511410,
+            "longitude": -49.292310,
+            "ordem": 422
+        },
+        {
+            "idcoordenadapercurso": 2210098,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511400,
+            "longitude": -49.292380,
+            "ordem": 423
+        },
+        {
+            "idcoordenadapercurso": 2210099,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511400,
+            "longitude": -49.292490,
+            "ordem": 424
+        },
+        {
+            "idcoordenadapercurso": 2210100,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511410,
+            "longitude": -49.292600,
+            "ordem": 425
+        },
+        {
+            "idcoordenadapercurso": 2210101,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511430,
+            "longitude": -49.292730,
+            "ordem": 426
+        },
+        {
+            "idcoordenadapercurso": 2210102,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511530,
+            "longitude": -49.293070,
+            "ordem": 427
+        },
+        {
+            "idcoordenadapercurso": 2210103,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511610,
+            "longitude": -49.293350,
+            "ordem": 428
+        },
+        {
+            "idcoordenadapercurso": 2210104,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511670,
+            "longitude": -49.293610,
+            "ordem": 429
+        },
+        {
+            "idcoordenadapercurso": 2210105,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511710,
+            "longitude": -49.293850,
+            "ordem": 430
+        },
+        {
+            "idcoordenadapercurso": 2210106,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511730,
+            "longitude": -49.294040,
+            "ordem": 431
+        },
+        {
+            "idcoordenadapercurso": 2210107,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511740,
+            "longitude": -49.294340,
+            "ordem": 432
+        },
+        {
+            "idcoordenadapercurso": 2210108,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511770,
+            "longitude": -49.294960,
+            "ordem": 433
+        },
+        {
+            "idcoordenadapercurso": 2210109,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.513470,
+            "longitude": -49.294900,
+            "ordem": 434
+        },
+        {
+            "idcoordenadapercurso": 2210110,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.513460,
+            "longitude": -49.294610,
+            "ordem": 435
+        },
+        {
+            "idcoordenadapercurso": 2210111,
+            "idpercurso": 9573,
+            "descricaoPercurso": "550_Ligeirão Pinheirinho-C.Gomes_002_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512100,
+            "longitude": -49.294650,
+            "ordem": 436
+        }
+    ]
+}

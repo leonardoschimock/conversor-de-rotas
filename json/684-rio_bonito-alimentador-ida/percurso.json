@@ -1,0 +1,4501 @@
+{
+    "status": "success",
+    "coordenadasPercurso": [
+        {
+            "idcoordenadapercurso": 4652342,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585140,
+            "longitude": -49.340238,
+            "ordem": 1
+        },
+        {
+            "idcoordenadapercurso": 4652343,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585291,
+            "longitude": -49.340280,
+            "ordem": 2
+        },
+        {
+            "idcoordenadapercurso": 4652344,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585578,
+            "longitude": -49.340353,
+            "ordem": 3
+        },
+        {
+            "idcoordenadapercurso": 4652345,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.586435,
+            "longitude": -49.340571,
+            "ordem": 4
+        },
+        {
+            "idcoordenadapercurso": 4652346,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.586640,
+            "longitude": -49.340624,
+            "ordem": 5
+        },
+        {
+            "idcoordenadapercurso": 4652347,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.586772,
+            "longitude": -49.340657,
+            "ordem": 6
+        },
+        {
+            "idcoordenadapercurso": 4652348,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.586940,
+            "longitude": -49.340700,
+            "ordem": 7
+        },
+        {
+            "idcoordenadapercurso": 4652349,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.587068,
+            "longitude": -49.340732,
+            "ordem": 8
+        },
+        {
+            "idcoordenadapercurso": 4652350,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.587316,
+            "longitude": -49.340785,
+            "ordem": 9
+        },
+        {
+            "idcoordenadapercurso": 4652351,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.587488,
+            "longitude": -49.340835,
+            "ordem": 10
+        },
+        {
+            "idcoordenadapercurso": 4652352,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.587861,
+            "longitude": -49.340941,
+            "ordem": 11
+        },
+        {
+            "idcoordenadapercurso": 4652353,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.588466,
+            "longitude": -49.341096,
+            "ordem": 12
+        },
+        {
+            "idcoordenadapercurso": 4652354,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.588660,
+            "longitude": -49.341148,
+            "ordem": 13
+        },
+        {
+            "idcoordenadapercurso": 4652355,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.588907,
+            "longitude": -49.341215,
+            "ordem": 14
+        },
+        {
+            "idcoordenadapercurso": 4652356,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.589125,
+            "longitude": -49.341277,
+            "ordem": 15
+        },
+        {
+            "idcoordenadapercurso": 4652357,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.589318,
+            "longitude": -49.341322,
+            "ordem": 16
+        },
+        {
+            "idcoordenadapercurso": 4652358,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.589570,
+            "longitude": -49.341381,
+            "ordem": 17
+        },
+        {
+            "idcoordenadapercurso": 4652359,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.589766,
+            "longitude": -49.341435,
+            "ordem": 18
+        },
+        {
+            "idcoordenadapercurso": 4652360,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.590035,
+            "longitude": -49.341506,
+            "ordem": 19
+        },
+        {
+            "idcoordenadapercurso": 4652361,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.590189,
+            "longitude": -49.341566,
+            "ordem": 20
+        },
+        {
+            "idcoordenadapercurso": 4652362,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.590361,
+            "longitude": -49.341635,
+            "ordem": 21
+        },
+        {
+            "idcoordenadapercurso": 4652363,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.590496,
+            "longitude": -49.341691,
+            "ordem": 22
+        },
+        {
+            "idcoordenadapercurso": 4652364,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.590817,
+            "longitude": -49.341775,
+            "ordem": 23
+        },
+        {
+            "idcoordenadapercurso": 4652365,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.591103,
+            "longitude": -49.341851,
+            "ordem": 24
+        },
+        {
+            "idcoordenadapercurso": 4652366,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.591326,
+            "longitude": -49.341908,
+            "ordem": 25
+        },
+        {
+            "idcoordenadapercurso": 4652367,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.591512,
+            "longitude": -49.341943,
+            "ordem": 26
+        },
+        {
+            "idcoordenadapercurso": 4652368,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.591791,
+            "longitude": -49.341992,
+            "ordem": 27
+        },
+        {
+            "idcoordenadapercurso": 4652369,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.591990,
+            "longitude": -49.342057,
+            "ordem": 28
+        },
+        {
+            "idcoordenadapercurso": 4652370,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592135,
+            "longitude": -49.342102,
+            "ordem": 29
+        },
+        {
+            "idcoordenadapercurso": 4652371,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592244,
+            "longitude": -49.342135,
+            "ordem": 30
+        },
+        {
+            "idcoordenadapercurso": 4652372,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592404,
+            "longitude": -49.342164,
+            "ordem": 31
+        },
+        {
+            "idcoordenadapercurso": 4652373,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592503,
+            "longitude": -49.341874,
+            "ordem": 32
+        },
+        {
+            "idcoordenadapercurso": 4652374,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592591,
+            "longitude": -49.341614,
+            "ordem": 33
+        },
+        {
+            "idcoordenadapercurso": 4652375,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592763,
+            "longitude": -49.341147,
+            "ordem": 34
+        },
+        {
+            "idcoordenadapercurso": 4652376,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592862,
+            "longitude": -49.340873,
+            "ordem": 35
+        },
+        {
+            "idcoordenadapercurso": 4652377,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592939,
+            "longitude": -49.340659,
+            "ordem": 36
+        },
+        {
+            "idcoordenadapercurso": 4652378,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593032,
+            "longitude": -49.340363,
+            "ordem": 37
+        },
+        {
+            "idcoordenadapercurso": 4652379,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593102,
+            "longitude": -49.340138,
+            "ordem": 38
+        },
+        {
+            "idcoordenadapercurso": 4652380,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593054,
+            "longitude": -49.339954,
+            "ordem": 39
+        },
+        {
+            "idcoordenadapercurso": 4652381,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593048,
+            "longitude": -49.339717,
+            "ordem": 40
+        },
+        {
+            "idcoordenadapercurso": 4652382,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593044,
+            "longitude": -49.339461,
+            "ordem": 41
+        },
+        {
+            "idcoordenadapercurso": 4652383,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593155,
+            "longitude": -49.338858,
+            "ordem": 42
+        },
+        {
+            "idcoordenadapercurso": 4652384,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593270,
+            "longitude": -49.338226,
+            "ordem": 43
+        },
+        {
+            "idcoordenadapercurso": 4652385,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593376,
+            "longitude": -49.337653,
+            "ordem": 44
+        },
+        {
+            "idcoordenadapercurso": 4652386,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593422,
+            "longitude": -49.337404,
+            "ordem": 45
+        },
+        {
+            "idcoordenadapercurso": 4652387,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593487,
+            "longitude": -49.337089,
+            "ordem": 46
+        },
+        {
+            "idcoordenadapercurso": 4652388,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593536,
+            "longitude": -49.336856,
+            "ordem": 47
+        },
+        {
+            "idcoordenadapercurso": 4652389,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593572,
+            "longitude": -49.336691,
+            "ordem": 48
+        },
+        {
+            "idcoordenadapercurso": 4652390,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593606,
+            "longitude": -49.336536,
+            "ordem": 49
+        },
+        {
+            "idcoordenadapercurso": 4652391,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593721,
+            "longitude": -49.336014,
+            "ordem": 50
+        },
+        {
+            "idcoordenadapercurso": 4652392,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593849,
+            "longitude": -49.335433,
+            "ordem": 51
+        },
+        {
+            "idcoordenadapercurso": 4652393,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593937,
+            "longitude": -49.334964,
+            "ordem": 52
+        },
+        {
+            "idcoordenadapercurso": 4652394,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593745,
+            "longitude": -49.334584,
+            "ordem": 53
+        },
+        {
+            "idcoordenadapercurso": 4652395,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.593556,
+            "longitude": -49.334209,
+            "ordem": 54
+        },
+        {
+            "idcoordenadapercurso": 4652396,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592903,
+            "longitude": -49.332916,
+            "ordem": 55
+        },
+        {
+            "idcoordenadapercurso": 4652397,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592726,
+            "longitude": -49.332604,
+            "ordem": 56
+        },
+        {
+            "idcoordenadapercurso": 4652398,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592580,
+            "longitude": -49.332298,
+            "ordem": 57
+        },
+        {
+            "idcoordenadapercurso": 4652399,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592505,
+            "longitude": -49.332143,
+            "ordem": 58
+        },
+        {
+            "idcoordenadapercurso": 4652400,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592384,
+            "longitude": -49.331985,
+            "ordem": 59
+        },
+        {
+            "idcoordenadapercurso": 4652401,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592420,
+            "longitude": -49.331906,
+            "ordem": 60
+        },
+        {
+            "idcoordenadapercurso": 4652402,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592439,
+            "longitude": -49.331814,
+            "ordem": 61
+        },
+        {
+            "idcoordenadapercurso": 4652403,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592435,
+            "longitude": -49.331731,
+            "ordem": 62
+        },
+        {
+            "idcoordenadapercurso": 4652404,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592402,
+            "longitude": -49.331665,
+            "ordem": 63
+        },
+        {
+            "idcoordenadapercurso": 4652405,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592336,
+            "longitude": -49.331601,
+            "ordem": 64
+        },
+        {
+            "idcoordenadapercurso": 4652406,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592283,
+            "longitude": -49.331572,
+            "ordem": 65
+        },
+        {
+            "idcoordenadapercurso": 4652407,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592193,
+            "longitude": -49.331543,
+            "ordem": 66
+        },
+        {
+            "idcoordenadapercurso": 4652408,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592099,
+            "longitude": -49.331532,
+            "ordem": 67
+        },
+        {
+            "idcoordenadapercurso": 4652409,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.592027,
+            "longitude": -49.331582,
+            "ordem": 68
+        },
+        {
+            "idcoordenadapercurso": 4652410,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.591952,
+            "longitude": -49.331672,
+            "ordem": 69
+        },
+        {
+            "idcoordenadapercurso": 4652411,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.591907,
+            "longitude": -49.331780,
+            "ordem": 70
+        },
+        {
+            "idcoordenadapercurso": 4652412,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.591895,
+            "longitude": -49.331877,
+            "ordem": 71
+        },
+        {
+            "idcoordenadapercurso": 4652413,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.591678,
+            "longitude": -49.331858,
+            "ordem": 72
+        },
+        {
+            "idcoordenadapercurso": 4652414,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.591364,
+            "longitude": -49.331890,
+            "ordem": 73
+        },
+        {
+            "idcoordenadapercurso": 4652415,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.590203,
+            "longitude": -49.331608,
+            "ordem": 74
+        },
+        {
+            "idcoordenadapercurso": 4652416,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.589778,
+            "longitude": -49.331441,
+            "ordem": 75
+        },
+        {
+            "idcoordenadapercurso": 4652417,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.589315,
+            "longitude": -49.331346,
+            "ordem": 76
+        },
+        {
+            "idcoordenadapercurso": 4652418,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.589057,
+            "longitude": -49.331375,
+            "ordem": 77
+        },
+        {
+            "idcoordenadapercurso": 4652419,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.588668,
+            "longitude": -49.333349,
+            "ordem": 78
+        },
+        {
+            "idcoordenadapercurso": 4652420,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.588437,
+            "longitude": -49.334360,
+            "ordem": 79
+        },
+        {
+            "idcoordenadapercurso": 4652421,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.588222,
+            "longitude": -49.335416,
+            "ordem": 80
+        },
+        {
+            "idcoordenadapercurso": 4652422,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.588083,
+            "longitude": -49.335381,
+            "ordem": 81
+        },
+        {
+            "idcoordenadapercurso": 4652423,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.587483,
+            "longitude": -49.335229,
+            "ordem": 82
+        },
+        {
+            "idcoordenadapercurso": 4652424,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.587304,
+            "longitude": -49.335184,
+            "ordem": 83
+        },
+        {
+            "idcoordenadapercurso": 4652425,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.586991,
+            "longitude": -49.335103,
+            "ordem": 84
+        },
+        {
+            "idcoordenadapercurso": 4652426,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.586729,
+            "longitude": -49.335035,
+            "ordem": 85
+        },
+        {
+            "idcoordenadapercurso": 4652427,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.586369,
+            "longitude": -49.334944,
+            "ordem": 86
+        },
+        {
+            "idcoordenadapercurso": 4652428,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.586123,
+            "longitude": -49.334881,
+            "ordem": 87
+        },
+        {
+            "idcoordenadapercurso": 4652429,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585936,
+            "longitude": -49.334835,
+            "ordem": 88
+        },
+        {
+            "idcoordenadapercurso": 4652430,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585848,
+            "longitude": -49.334812,
+            "ordem": 89
+        },
+        {
+            "idcoordenadapercurso": 4652431,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585768,
+            "longitude": -49.334779,
+            "ordem": 90
+        },
+        {
+            "idcoordenadapercurso": 4652432,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585648,
+            "longitude": -49.335304,
+            "ordem": 91
+        },
+        {
+            "idcoordenadapercurso": 4652433,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585523,
+            "longitude": -49.335814,
+            "ordem": 92
+        },
+        {
+            "idcoordenadapercurso": 4652434,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585469,
+            "longitude": -49.336124,
+            "ordem": 93
+        },
+        {
+            "idcoordenadapercurso": 4652435,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585434,
+            "longitude": -49.336298,
+            "ordem": 94
+        },
+        {
+            "idcoordenadapercurso": 4652436,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585230,
+            "longitude": -49.337330,
+            "ordem": 95
+        },
+        {
+            "idcoordenadapercurso": 4652437,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585193,
+            "longitude": -49.337540,
+            "ordem": 96
+        },
+        {
+            "idcoordenadapercurso": 4652438,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.585125,
+            "longitude": -49.337872,
+            "ordem": 97
+        },
+        {
+            "idcoordenadapercurso": 4652439,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.584486,
+            "longitude": -49.337714,
+            "ordem": 98
+        },
+        {
+            "idcoordenadapercurso": 4652440,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.583962,
+            "longitude": -49.337582,
+            "ordem": 99
+        },
+        {
+            "idcoordenadapercurso": 4652441,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.583593,
+            "longitude": -49.337491,
+            "ordem": 100
+        },
+        {
+            "idcoordenadapercurso": 4652442,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.582876,
+            "longitude": -49.337313,
+            "ordem": 101
+        },
+        {
+            "idcoordenadapercurso": 4652443,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.582599,
+            "longitude": -49.337244,
+            "ordem": 102
+        },
+        {
+            "idcoordenadapercurso": 4652444,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.582399,
+            "longitude": -49.337195,
+            "ordem": 103
+        },
+        {
+            "idcoordenadapercurso": 4652445,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.582258,
+            "longitude": -49.337256,
+            "ordem": 104
+        },
+        {
+            "idcoordenadapercurso": 4652446,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.582167,
+            "longitude": -49.337250,
+            "ordem": 105
+        },
+        {
+            "idcoordenadapercurso": 4652447,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.582091,
+            "longitude": -49.337225,
+            "ordem": 106
+        },
+        {
+            "idcoordenadapercurso": 4652448,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.582047,
+            "longitude": -49.337206,
+            "ordem": 107
+        },
+        {
+            "idcoordenadapercurso": 4652449,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.581986,
+            "longitude": -49.337164,
+            "ordem": 108
+        },
+        {
+            "idcoordenadapercurso": 4652450,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.581858,
+            "longitude": -49.337051,
+            "ordem": 109
+        },
+        {
+            "idcoordenadapercurso": 4652451,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.581498,
+            "longitude": -49.336652,
+            "ordem": 110
+        },
+        {
+            "idcoordenadapercurso": 4652452,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.581425,
+            "longitude": -49.336576,
+            "ordem": 111
+        },
+        {
+            "idcoordenadapercurso": 4652453,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.581302,
+            "longitude": -49.336457,
+            "ordem": 112
+        },
+        {
+            "idcoordenadapercurso": 4652454,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.580983,
+            "longitude": -49.336148,
+            "ordem": 113
+        },
+        {
+            "idcoordenadapercurso": 4652455,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.580898,
+            "longitude": -49.336074,
+            "ordem": 114
+        },
+        {
+            "idcoordenadapercurso": 4652456,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.580742,
+            "longitude": -49.335909,
+            "ordem": 115
+        },
+        {
+            "idcoordenadapercurso": 4652457,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.580463,
+            "longitude": -49.335618,
+            "ordem": 116
+        },
+        {
+            "idcoordenadapercurso": 4652458,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.580232,
+            "longitude": -49.335374,
+            "ordem": 117
+        },
+        {
+            "idcoordenadapercurso": 4652459,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.580114,
+            "longitude": -49.335249,
+            "ordem": 118
+        },
+        {
+            "idcoordenadapercurso": 4652460,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.580022,
+            "longitude": -49.335099,
+            "ordem": 119
+        },
+        {
+            "idcoordenadapercurso": 4652461,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.579792,
+            "longitude": -49.334815,
+            "ordem": 120
+        },
+        {
+            "idcoordenadapercurso": 4652462,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.579631,
+            "longitude": -49.334639,
+            "ordem": 121
+        },
+        {
+            "idcoordenadapercurso": 4652463,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.579495,
+            "longitude": -49.334485,
+            "ordem": 122
+        },
+        {
+            "idcoordenadapercurso": 4652464,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.579295,
+            "longitude": -49.334258,
+            "ordem": 123
+        },
+        {
+            "idcoordenadapercurso": 4652465,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.579189,
+            "longitude": -49.334138,
+            "ordem": 124
+        },
+        {
+            "idcoordenadapercurso": 4652466,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.579037,
+            "longitude": -49.333973,
+            "ordem": 125
+        },
+        {
+            "idcoordenadapercurso": 4652467,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.578888,
+            "longitude": -49.333794,
+            "ordem": 126
+        },
+        {
+            "idcoordenadapercurso": 4652468,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.578748,
+            "longitude": -49.333642,
+            "ordem": 127
+        },
+        {
+            "idcoordenadapercurso": 4652469,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.578587,
+            "longitude": -49.333497,
+            "ordem": 128
+        },
+        {
+            "idcoordenadapercurso": 4652470,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.578421,
+            "longitude": -49.333348,
+            "ordem": 129
+        },
+        {
+            "idcoordenadapercurso": 4652471,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.578296,
+            "longitude": -49.333220,
+            "ordem": 130
+        },
+        {
+            "idcoordenadapercurso": 4652472,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.578111,
+            "longitude": -49.333032,
+            "ordem": 131
+        },
+        {
+            "idcoordenadapercurso": 4652473,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.577991,
+            "longitude": -49.332907,
+            "ordem": 132
+        },
+        {
+            "idcoordenadapercurso": 4652474,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.577853,
+            "longitude": -49.332778,
+            "ordem": 133
+        },
+        {
+            "idcoordenadapercurso": 4652475,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.577734,
+            "longitude": -49.332661,
+            "ordem": 134
+        },
+        {
+            "idcoordenadapercurso": 4652476,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.577674,
+            "longitude": -49.332599,
+            "ordem": 135
+        },
+        {
+            "idcoordenadapercurso": 4652477,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.577591,
+            "longitude": -49.332500,
+            "ordem": 136
+        },
+        {
+            "idcoordenadapercurso": 4652478,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.577393,
+            "longitude": -49.332304,
+            "ordem": 137
+        },
+        {
+            "idcoordenadapercurso": 4652479,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.577204,
+            "longitude": -49.332116,
+            "ordem": 138
+        },
+        {
+            "idcoordenadapercurso": 4652480,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.577080,
+            "longitude": -49.331998,
+            "ordem": 139
+        },
+        {
+            "idcoordenadapercurso": 4652481,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.576921,
+            "longitude": -49.331807,
+            "ordem": 140
+        },
+        {
+            "idcoordenadapercurso": 4652482,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.576839,
+            "longitude": -49.331712,
+            "ordem": 141
+        },
+        {
+            "idcoordenadapercurso": 4652483,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.576789,
+            "longitude": -49.331670,
+            "ordem": 142
+        },
+        {
+            "idcoordenadapercurso": 4652484,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.576665,
+            "longitude": -49.331854,
+            "ordem": 143
+        },
+        {
+            "idcoordenadapercurso": 4652485,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.576639,
+            "longitude": -49.331881,
+            "ordem": 144
+        },
+        {
+            "idcoordenadapercurso": 4652486,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.576579,
+            "longitude": -49.331976,
+            "ordem": 145
+        },
+        {
+            "idcoordenadapercurso": 4652487,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.576234,
+            "longitude": -49.331551,
+            "ordem": 146
+        },
+        {
+            "idcoordenadapercurso": 4652488,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575945,
+            "longitude": -49.331196,
+            "ordem": 147
+        },
+        {
+            "idcoordenadapercurso": 4652489,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575789,
+            "longitude": -49.331003,
+            "ordem": 148
+        },
+        {
+            "idcoordenadapercurso": 4652490,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575611,
+            "longitude": -49.330766,
+            "ordem": 149
+        },
+        {
+            "idcoordenadapercurso": 4652491,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575558,
+            "longitude": -49.330702,
+            "ordem": 150
+        },
+        {
+            "idcoordenadapercurso": 4652492,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575518,
+            "longitude": -49.330634,
+            "ordem": 151
+        },
+        {
+            "idcoordenadapercurso": 4652493,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575504,
+            "longitude": -49.330584,
+            "ordem": 152
+        },
+        {
+            "idcoordenadapercurso": 4652494,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575506,
+            "longitude": -49.330486,
+            "ordem": 153
+        },
+        {
+            "idcoordenadapercurso": 4652495,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575519,
+            "longitude": -49.330440,
+            "ordem": 154
+        },
+        {
+            "idcoordenadapercurso": 4652496,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575565,
+            "longitude": -49.330351,
+            "ordem": 155
+        },
+        {
+            "idcoordenadapercurso": 4652497,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575637,
+            "longitude": -49.330248,
+            "ordem": 156
+        },
+        {
+            "idcoordenadapercurso": 4652498,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575465,
+            "longitude": -49.330067,
+            "ordem": 157
+        },
+        {
+            "idcoordenadapercurso": 4652499,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575311,
+            "longitude": -49.329894,
+            "ordem": 158
+        },
+        {
+            "idcoordenadapercurso": 4652500,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575144,
+            "longitude": -49.329709,
+            "ordem": 159
+        },
+        {
+            "idcoordenadapercurso": 4652501,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.575087,
+            "longitude": -49.329626,
+            "ordem": 160
+        },
+        {
+            "idcoordenadapercurso": 4652502,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.574934,
+            "longitude": -49.329428,
+            "ordem": 161
+        },
+        {
+            "idcoordenadapercurso": 4652503,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.574692,
+            "longitude": -49.329134,
+            "ordem": 162
+        },
+        {
+            "idcoordenadapercurso": 4652504,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.574213,
+            "longitude": -49.328574,
+            "ordem": 163
+        },
+        {
+            "idcoordenadapercurso": 4652505,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.574059,
+            "longitude": -49.328391,
+            "ordem": 164
+        },
+        {
+            "idcoordenadapercurso": 4652506,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.573949,
+            "longitude": -49.328244,
+            "ordem": 165
+        },
+        {
+            "idcoordenadapercurso": 4652507,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.573660,
+            "longitude": -49.327894,
+            "ordem": 166
+        },
+        {
+            "idcoordenadapercurso": 4652508,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.573412,
+            "longitude": -49.327596,
+            "ordem": 167
+        },
+        {
+            "idcoordenadapercurso": 4652509,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.572982,
+            "longitude": -49.327060,
+            "ordem": 168
+        },
+        {
+            "idcoordenadapercurso": 4652510,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.572722,
+            "longitude": -49.326751,
+            "ordem": 169
+        },
+        {
+            "idcoordenadapercurso": 4652511,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.572536,
+            "longitude": -49.326527,
+            "ordem": 170
+        },
+        {
+            "idcoordenadapercurso": 4652512,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.572317,
+            "longitude": -49.326259,
+            "ordem": 171
+        },
+        {
+            "idcoordenadapercurso": 4652513,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.571826,
+            "longitude": -49.325662,
+            "ordem": 172
+        },
+        {
+            "idcoordenadapercurso": 4652514,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.571719,
+            "longitude": -49.325533,
+            "ordem": 173
+        },
+        {
+            "idcoordenadapercurso": 4652515,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.571606,
+            "longitude": -49.325429,
+            "ordem": 174
+        },
+        {
+            "idcoordenadapercurso": 4652516,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.571488,
+            "longitude": -49.325363,
+            "ordem": 175
+        },
+        {
+            "idcoordenadapercurso": 4652517,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.571323,
+            "longitude": -49.325283,
+            "ordem": 176
+        },
+        {
+            "idcoordenadapercurso": 4652518,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.571176,
+            "longitude": -49.325225,
+            "ordem": 177
+        },
+        {
+            "idcoordenadapercurso": 4652519,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570966,
+            "longitude": -49.325167,
+            "ordem": 178
+        },
+        {
+            "idcoordenadapercurso": 4652520,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570775,
+            "longitude": -49.325110,
+            "ordem": 179
+        },
+        {
+            "idcoordenadapercurso": 4652521,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570663,
+            "longitude": -49.325067,
+            "ordem": 180
+        },
+        {
+            "idcoordenadapercurso": 4652522,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570618,
+            "longitude": -49.325036,
+            "ordem": 181
+        },
+        {
+            "idcoordenadapercurso": 4652523,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570537,
+            "longitude": -49.324953,
+            "ordem": 182
+        },
+        {
+            "idcoordenadapercurso": 4652524,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570462,
+            "longitude": -49.324878,
+            "ordem": 183
+        },
+        {
+            "idcoordenadapercurso": 4652525,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570415,
+            "longitude": -49.324811,
+            "ordem": 184
+        },
+        {
+            "idcoordenadapercurso": 4652526,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570384,
+            "longitude": -49.324768,
+            "ordem": 185
+        },
+        {
+            "idcoordenadapercurso": 4652527,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570325,
+            "longitude": -49.324670,
+            "ordem": 186
+        },
+        {
+            "idcoordenadapercurso": 4652528,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570249,
+            "longitude": -49.324527,
+            "ordem": 187
+        },
+        {
+            "idcoordenadapercurso": 4652529,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570183,
+            "longitude": -49.324346,
+            "ordem": 188
+        },
+        {
+            "idcoordenadapercurso": 4652530,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.570071,
+            "longitude": -49.324070,
+            "ordem": 189
+        },
+        {
+            "idcoordenadapercurso": 4652531,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.569958,
+            "longitude": -49.323878,
+            "ordem": 190
+        },
+        {
+            "idcoordenadapercurso": 4652532,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.569813,
+            "longitude": -49.323544,
+            "ordem": 191
+        },
+        {
+            "idcoordenadapercurso": 4652533,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.569772,
+            "longitude": -49.323450,
+            "ordem": 192
+        },
+        {
+            "idcoordenadapercurso": 4652534,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.569743,
+            "longitude": -49.323335,
+            "ordem": 193
+        },
+        {
+            "idcoordenadapercurso": 4652535,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.569722,
+            "longitude": -49.323141,
+            "ordem": 194
+        },
+        {
+            "idcoordenadapercurso": 4652536,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.569565,
+            "longitude": -49.322558,
+            "ordem": 195
+        },
+        {
+            "idcoordenadapercurso": 4652537,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.569421,
+            "longitude": -49.322208,
+            "ordem": 196
+        },
+        {
+            "idcoordenadapercurso": 4652538,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.569311,
+            "longitude": -49.321936,
+            "ordem": 197
+        },
+        {
+            "idcoordenadapercurso": 4652539,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.569251,
+            "longitude": -49.321790,
+            "ordem": 198
+        },
+        {
+            "idcoordenadapercurso": 4652540,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.569100,
+            "longitude": -49.321470,
+            "ordem": 199
+        },
+        {
+            "idcoordenadapercurso": 4652541,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568802,
+            "longitude": -49.320837,
+            "ordem": 200
+        },
+        {
+            "idcoordenadapercurso": 4652542,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568632,
+            "longitude": -49.320475,
+            "ordem": 201
+        },
+        {
+            "idcoordenadapercurso": 4652543,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568582,
+            "longitude": -49.320377,
+            "ordem": 202
+        },
+        {
+            "idcoordenadapercurso": 4652544,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568588,
+            "longitude": -49.319804,
+            "ordem": 203
+        },
+        {
+            "idcoordenadapercurso": 4652545,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568604,
+            "longitude": -49.319521,
+            "ordem": 204
+        },
+        {
+            "idcoordenadapercurso": 4652546,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568591,
+            "longitude": -49.319348,
+            "ordem": 205
+        },
+        {
+            "idcoordenadapercurso": 4652547,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568562,
+            "longitude": -49.319151,
+            "ordem": 206
+        },
+        {
+            "idcoordenadapercurso": 4652548,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568539,
+            "longitude": -49.319017,
+            "ordem": 207
+        },
+        {
+            "idcoordenadapercurso": 4652549,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568501,
+            "longitude": -49.318857,
+            "ordem": 208
+        },
+        {
+            "idcoordenadapercurso": 4652550,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568492,
+            "longitude": -49.318835,
+            "ordem": 209
+        },
+        {
+            "idcoordenadapercurso": 4652551,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568454,
+            "longitude": -49.318791,
+            "ordem": 210
+        },
+        {
+            "idcoordenadapercurso": 4652552,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568410,
+            "longitude": -49.318760,
+            "ordem": 211
+        },
+        {
+            "idcoordenadapercurso": 4652553,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568211,
+            "longitude": -49.318674,
+            "ordem": 212
+        },
+        {
+            "idcoordenadapercurso": 4652554,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.568091,
+            "longitude": -49.318623,
+            "ordem": 213
+        },
+        {
+            "idcoordenadapercurso": 4652555,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567974,
+            "longitude": -49.318569,
+            "ordem": 214
+        },
+        {
+            "idcoordenadapercurso": 4652556,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567874,
+            "longitude": -49.318527,
+            "ordem": 215
+        },
+        {
+            "idcoordenadapercurso": 4652557,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567725,
+            "longitude": -49.318440,
+            "ordem": 216
+        },
+        {
+            "idcoordenadapercurso": 4652558,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567632,
+            "longitude": -49.318385,
+            "ordem": 217
+        },
+        {
+            "idcoordenadapercurso": 4652559,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567498,
+            "longitude": -49.318282,
+            "ordem": 218
+        },
+        {
+            "idcoordenadapercurso": 4652560,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567354,
+            "longitude": -49.318175,
+            "ordem": 219
+        },
+        {
+            "idcoordenadapercurso": 4652561,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567234,
+            "longitude": -49.318083,
+            "ordem": 220
+        },
+        {
+            "idcoordenadapercurso": 4652562,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567118,
+            "longitude": -49.317978,
+            "ordem": 221
+        },
+        {
+            "idcoordenadapercurso": 4652563,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566955,
+            "longitude": -49.317773,
+            "ordem": 222
+        },
+        {
+            "idcoordenadapercurso": 4652564,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566887,
+            "longitude": -49.317682,
+            "ordem": 223
+        },
+        {
+            "idcoordenadapercurso": 4652565,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566836,
+            "longitude": -49.317586,
+            "ordem": 224
+        },
+        {
+            "idcoordenadapercurso": 4652566,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566796,
+            "longitude": -49.317481,
+            "ordem": 225
+        },
+        {
+            "idcoordenadapercurso": 4652567,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566777,
+            "longitude": -49.317363,
+            "ordem": 226
+        },
+        {
+            "idcoordenadapercurso": 4652568,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566765,
+            "longitude": -49.317268,
+            "ordem": 227
+        },
+        {
+            "idcoordenadapercurso": 4652569,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566763,
+            "longitude": -49.317128,
+            "ordem": 228
+        },
+        {
+            "idcoordenadapercurso": 4652570,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566782,
+            "longitude": -49.316830,
+            "ordem": 229
+        },
+        {
+            "idcoordenadapercurso": 4652571,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566811,
+            "longitude": -49.316607,
+            "ordem": 230
+        },
+        {
+            "idcoordenadapercurso": 4652572,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566842,
+            "longitude": -49.316409,
+            "ordem": 231
+        },
+        {
+            "idcoordenadapercurso": 4652573,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566870,
+            "longitude": -49.316292,
+            "ordem": 232
+        },
+        {
+            "idcoordenadapercurso": 4652574,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566917,
+            "longitude": -49.316171,
+            "ordem": 233
+        },
+        {
+            "idcoordenadapercurso": 4652575,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567038,
+            "longitude": -49.315919,
+            "ordem": 234
+        },
+        {
+            "idcoordenadapercurso": 4652576,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567097,
+            "longitude": -49.315817,
+            "ordem": 235
+        },
+        {
+            "idcoordenadapercurso": 4652577,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567281,
+            "longitude": -49.315540,
+            "ordem": 236
+        },
+        {
+            "idcoordenadapercurso": 4652578,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567355,
+            "longitude": -49.315415,
+            "ordem": 237
+        },
+        {
+            "idcoordenadapercurso": 4652579,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567381,
+            "longitude": -49.315344,
+            "ordem": 238
+        },
+        {
+            "idcoordenadapercurso": 4652580,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567394,
+            "longitude": -49.315281,
+            "ordem": 239
+        },
+        {
+            "idcoordenadapercurso": 4652581,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567423,
+            "longitude": -49.314821,
+            "ordem": 240
+        },
+        {
+            "idcoordenadapercurso": 4652582,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.567223,
+            "longitude": -49.314761,
+            "ordem": 241
+        },
+        {
+            "idcoordenadapercurso": 4652583,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566987,
+            "longitude": -49.314705,
+            "ordem": 242
+        },
+        {
+            "idcoordenadapercurso": 4652584,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566694,
+            "longitude": -49.314645,
+            "ordem": 243
+        },
+        {
+            "idcoordenadapercurso": 4652585,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566618,
+            "longitude": -49.314630,
+            "ordem": 244
+        },
+        {
+            "idcoordenadapercurso": 4652586,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566314,
+            "longitude": -49.314597,
+            "ordem": 245
+        },
+        {
+            "idcoordenadapercurso": 4652587,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566219,
+            "longitude": -49.314600,
+            "ordem": 246
+        },
+        {
+            "idcoordenadapercurso": 4652588,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.566118,
+            "longitude": -49.314608,
+            "ordem": 247
+        },
+        {
+            "idcoordenadapercurso": 4652589,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565937,
+            "longitude": -49.314645,
+            "ordem": 248
+        },
+        {
+            "idcoordenadapercurso": 4652590,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565840,
+            "longitude": -49.314714,
+            "ordem": 249
+        },
+        {
+            "idcoordenadapercurso": 4652591,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565742,
+            "longitude": -49.314788,
+            "ordem": 250
+        },
+        {
+            "idcoordenadapercurso": 4652592,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565538,
+            "longitude": -49.314938,
+            "ordem": 251
+        },
+        {
+            "idcoordenadapercurso": 4652593,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565422,
+            "longitude": -49.315025,
+            "ordem": 252
+        },
+        {
+            "idcoordenadapercurso": 4652594,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565353,
+            "longitude": -49.315065,
+            "ordem": 253
+        },
+        {
+            "idcoordenadapercurso": 4652595,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565307,
+            "longitude": -49.315088,
+            "ordem": 254
+        },
+        {
+            "idcoordenadapercurso": 4652596,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565213,
+            "longitude": -49.315118,
+            "ordem": 255
+        },
+        {
+            "idcoordenadapercurso": 4652597,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565286,
+            "longitude": -49.314151,
+            "ordem": 256
+        },
+        {
+            "idcoordenadapercurso": 4652598,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565363,
+            "longitude": -49.313004,
+            "ordem": 257
+        },
+        {
+            "idcoordenadapercurso": 4652599,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565456,
+            "longitude": -49.311421,
+            "ordem": 258
+        },
+        {
+            "idcoordenadapercurso": 4652600,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565489,
+            "longitude": -49.311019,
+            "ordem": 259
+        },
+        {
+            "idcoordenadapercurso": 4652601,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565530,
+            "longitude": -49.310456,
+            "ordem": 260
+        },
+        {
+            "idcoordenadapercurso": 4652602,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565564,
+            "longitude": -49.310071,
+            "ordem": 261
+        },
+        {
+            "idcoordenadapercurso": 4652603,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565576,
+            "longitude": -49.309573,
+            "ordem": 262
+        },
+        {
+            "idcoordenadapercurso": 4652604,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565565,
+            "longitude": -49.309229,
+            "ordem": 263
+        },
+        {
+            "idcoordenadapercurso": 4652605,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565536,
+            "longitude": -49.309084,
+            "ordem": 264
+        },
+        {
+            "idcoordenadapercurso": 4652606,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565448,
+            "longitude": -49.308909,
+            "ordem": 265
+        },
+        {
+            "idcoordenadapercurso": 4652607,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565368,
+            "longitude": -49.308804,
+            "ordem": 266
+        },
+        {
+            "idcoordenadapercurso": 4652608,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565242,
+            "longitude": -49.308696,
+            "ordem": 267
+        },
+        {
+            "idcoordenadapercurso": 4652609,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565157,
+            "longitude": -49.308651,
+            "ordem": 268
+        },
+        {
+            "idcoordenadapercurso": 4652610,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.565020,
+            "longitude": -49.308607,
+            "ordem": 269
+        },
+        {
+            "idcoordenadapercurso": 4652611,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.564571,
+            "longitude": -49.308570,
+            "ordem": 270
+        },
+        {
+            "idcoordenadapercurso": 4652612,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.564179,
+            "longitude": -49.308552,
+            "ordem": 271
+        },
+        {
+            "idcoordenadapercurso": 4652613,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.564064,
+            "longitude": -49.308548,
+            "ordem": 272
+        },
+        {
+            "idcoordenadapercurso": 4652614,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.563952,
+            "longitude": -49.308537,
+            "ordem": 273
+        },
+        {
+            "idcoordenadapercurso": 4652615,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.563859,
+            "longitude": -49.308528,
+            "ordem": 274
+        },
+        {
+            "idcoordenadapercurso": 4652616,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.563596,
+            "longitude": -49.308500,
+            "ordem": 275
+        },
+        {
+            "idcoordenadapercurso": 4652617,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.563351,
+            "longitude": -49.308474,
+            "ordem": 276
+        },
+        {
+            "idcoordenadapercurso": 4652618,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.563213,
+            "longitude": -49.308494,
+            "ordem": 277
+        },
+        {
+            "idcoordenadapercurso": 4652619,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.562588,
+            "longitude": -49.308324,
+            "ordem": 278
+        },
+        {
+            "idcoordenadapercurso": 4652620,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.562184,
+            "longitude": -49.308215,
+            "ordem": 279
+        },
+        {
+            "idcoordenadapercurso": 4652621,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.561961,
+            "longitude": -49.308149,
+            "ordem": 280
+        },
+        {
+            "idcoordenadapercurso": 4652622,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.561602,
+            "longitude": -49.308036,
+            "ordem": 281
+        },
+        {
+            "idcoordenadapercurso": 4652623,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.561393,
+            "longitude": -49.307971,
+            "ordem": 282
+        },
+        {
+            "idcoordenadapercurso": 4652624,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.561181,
+            "longitude": -49.307899,
+            "ordem": 283
+        },
+        {
+            "idcoordenadapercurso": 4652625,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.560947,
+            "longitude": -49.307813,
+            "ordem": 284
+        },
+        {
+            "idcoordenadapercurso": 4652626,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.560733,
+            "longitude": -49.307716,
+            "ordem": 285
+        },
+        {
+            "idcoordenadapercurso": 4652627,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.560615,
+            "longitude": -49.307655,
+            "ordem": 286
+        },
+        {
+            "idcoordenadapercurso": 4652628,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.560462,
+            "longitude": -49.307580,
+            "ordem": 287
+        },
+        {
+            "idcoordenadapercurso": 4652629,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.560316,
+            "longitude": -49.307507,
+            "ordem": 288
+        },
+        {
+            "idcoordenadapercurso": 4652630,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.560158,
+            "longitude": -49.307421,
+            "ordem": 289
+        },
+        {
+            "idcoordenadapercurso": 4652631,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.560016,
+            "longitude": -49.307341,
+            "ordem": 290
+        },
+        {
+            "idcoordenadapercurso": 4652632,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.559833,
+            "longitude": -49.307238,
+            "ordem": 291
+        },
+        {
+            "idcoordenadapercurso": 4652633,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.559636,
+            "longitude": -49.307128,
+            "ordem": 292
+        },
+        {
+            "idcoordenadapercurso": 4652634,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.559434,
+            "longitude": -49.307015,
+            "ordem": 293
+        },
+        {
+            "idcoordenadapercurso": 4652635,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.559242,
+            "longitude": -49.306908,
+            "ordem": 294
+        },
+        {
+            "idcoordenadapercurso": 4652636,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.558981,
+            "longitude": -49.306760,
+            "ordem": 295
+        },
+        {
+            "idcoordenadapercurso": 4652637,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.558919,
+            "longitude": -49.306722,
+            "ordem": 296
+        },
+        {
+            "idcoordenadapercurso": 4652638,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.558804,
+            "longitude": -49.306620,
+            "ordem": 297
+        },
+        {
+            "idcoordenadapercurso": 4652639,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.558689,
+            "longitude": -49.306526,
+            "ordem": 298
+        },
+        {
+            "idcoordenadapercurso": 4652640,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.558522,
+            "longitude": -49.306461,
+            "ordem": 299
+        },
+        {
+            "idcoordenadapercurso": 4652641,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.558377,
+            "longitude": -49.306404,
+            "ordem": 300
+        },
+        {
+            "idcoordenadapercurso": 4652642,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.558123,
+            "longitude": -49.306328,
+            "ordem": 301
+        },
+        {
+            "idcoordenadapercurso": 4652643,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.558009,
+            "longitude": -49.306298,
+            "ordem": 302
+        },
+        {
+            "idcoordenadapercurso": 4652644,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.557737,
+            "longitude": -49.306237,
+            "ordem": 303
+        },
+        {
+            "idcoordenadapercurso": 4652645,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.557619,
+            "longitude": -49.306212,
+            "ordem": 304
+        },
+        {
+            "idcoordenadapercurso": 4652646,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.557441,
+            "longitude": -49.306178,
+            "ordem": 305
+        },
+        {
+            "idcoordenadapercurso": 4652647,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.557113,
+            "longitude": -49.306108,
+            "ordem": 306
+        },
+        {
+            "idcoordenadapercurso": 4652648,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.556892,
+            "longitude": -49.306054,
+            "ordem": 307
+        },
+        {
+            "idcoordenadapercurso": 4652649,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.556693,
+            "longitude": -49.306001,
+            "ordem": 308
+        },
+        {
+            "idcoordenadapercurso": 4652650,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.556457,
+            "longitude": -49.305933,
+            "ordem": 309
+        },
+        {
+            "idcoordenadapercurso": 4652651,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.556179,
+            "longitude": -49.305861,
+            "ordem": 310
+        },
+        {
+            "idcoordenadapercurso": 4652652,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.556023,
+            "longitude": -49.305820,
+            "ordem": 311
+        },
+        {
+            "idcoordenadapercurso": 4652653,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.555868,
+            "longitude": -49.305780,
+            "ordem": 312
+        },
+        {
+            "idcoordenadapercurso": 4652654,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.555700,
+            "longitude": -49.305741,
+            "ordem": 313
+        },
+        {
+            "idcoordenadapercurso": 4652655,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.555513,
+            "longitude": -49.305693,
+            "ordem": 314
+        },
+        {
+            "idcoordenadapercurso": 4652656,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.555229,
+            "longitude": -49.305622,
+            "ordem": 315
+        },
+        {
+            "idcoordenadapercurso": 4652657,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.555017,
+            "longitude": -49.305570,
+            "ordem": 316
+        },
+        {
+            "idcoordenadapercurso": 4652658,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.554880,
+            "longitude": -49.305538,
+            "ordem": 317
+        },
+        {
+            "idcoordenadapercurso": 4652659,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.554701,
+            "longitude": -49.305499,
+            "ordem": 318
+        },
+        {
+            "idcoordenadapercurso": 4652660,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.554573,
+            "longitude": -49.305467,
+            "ordem": 319
+        },
+        {
+            "idcoordenadapercurso": 4652661,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.554430,
+            "longitude": -49.305436,
+            "ordem": 320
+        },
+        {
+            "idcoordenadapercurso": 4652662,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.554217,
+            "longitude": -49.305388,
+            "ordem": 321
+        },
+        {
+            "idcoordenadapercurso": 4652663,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.553982,
+            "longitude": -49.305333,
+            "ordem": 322
+        },
+        {
+            "idcoordenadapercurso": 4652664,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.553818,
+            "longitude": -49.305292,
+            "ordem": 323
+        },
+        {
+            "idcoordenadapercurso": 4652665,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.553673,
+            "longitude": -49.305256,
+            "ordem": 324
+        },
+        {
+            "idcoordenadapercurso": 4652666,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.553480,
+            "longitude": -49.305210,
+            "ordem": 325
+        },
+        {
+            "idcoordenadapercurso": 4652667,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.553229,
+            "longitude": -49.305149,
+            "ordem": 326
+        },
+        {
+            "idcoordenadapercurso": 4652668,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.552936,
+            "longitude": -49.305079,
+            "ordem": 327
+        },
+        {
+            "idcoordenadapercurso": 4652669,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.552675,
+            "longitude": -49.305015,
+            "ordem": 328
+        },
+        {
+            "idcoordenadapercurso": 4652670,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.552425,
+            "longitude": -49.304955,
+            "ordem": 329
+        },
+        {
+            "idcoordenadapercurso": 4652671,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.552119,
+            "longitude": -49.304865,
+            "ordem": 330
+        },
+        {
+            "idcoordenadapercurso": 4652672,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.551942,
+            "longitude": -49.304830,
+            "ordem": 331
+        },
+        {
+            "idcoordenadapercurso": 4652673,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.551610,
+            "longitude": -49.304765,
+            "ordem": 332
+        },
+        {
+            "idcoordenadapercurso": 4652674,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.551337,
+            "longitude": -49.304708,
+            "ordem": 333
+        },
+        {
+            "idcoordenadapercurso": 4652675,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.550667,
+            "longitude": -49.304546,
+            "ordem": 334
+        },
+        {
+            "idcoordenadapercurso": 4652676,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.550566,
+            "longitude": -49.304521,
+            "ordem": 335
+        },
+        {
+            "idcoordenadapercurso": 4652677,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.550144,
+            "longitude": -49.304423,
+            "ordem": 336
+        },
+        {
+            "idcoordenadapercurso": 4652678,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.549637,
+            "longitude": -49.304299,
+            "ordem": 337
+        },
+        {
+            "idcoordenadapercurso": 4652679,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.549088,
+            "longitude": -49.304177,
+            "ordem": 338
+        },
+        {
+            "idcoordenadapercurso": 4652680,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.548830,
+            "longitude": -49.304117,
+            "ordem": 339
+        },
+        {
+            "idcoordenadapercurso": 4652681,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.548460,
+            "longitude": -49.304038,
+            "ordem": 340
+        },
+        {
+            "idcoordenadapercurso": 4652682,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.548253,
+            "longitude": -49.303983,
+            "ordem": 341
+        },
+        {
+            "idcoordenadapercurso": 4652683,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.548038,
+            "longitude": -49.303916,
+            "ordem": 342
+        },
+        {
+            "idcoordenadapercurso": 4652684,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.547980,
+            "longitude": -49.303900,
+            "ordem": 343
+        },
+        {
+            "idcoordenadapercurso": 4652685,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.547697,
+            "longitude": -49.303836,
+            "ordem": 344
+        },
+        {
+            "idcoordenadapercurso": 4652686,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.547574,
+            "longitude": -49.303809,
+            "ordem": 345
+        },
+        {
+            "idcoordenadapercurso": 4652687,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.547106,
+            "longitude": -49.303721,
+            "ordem": 346
+        },
+        {
+            "idcoordenadapercurso": 4652688,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.546952,
+            "longitude": -49.303697,
+            "ordem": 347
+        },
+        {
+            "idcoordenadapercurso": 4652689,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.546784,
+            "longitude": -49.303671,
+            "ordem": 348
+        },
+        {
+            "idcoordenadapercurso": 4652690,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.546558,
+            "longitude": -49.303646,
+            "ordem": 349
+        },
+        {
+            "idcoordenadapercurso": 4652691,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.546470,
+            "longitude": -49.303650,
+            "ordem": 350
+        },
+        {
+            "idcoordenadapercurso": 4652692,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.546372,
+            "longitude": -49.303680,
+            "ordem": 351
+        },
+        {
+            "idcoordenadapercurso": 4652693,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.546045,
+            "longitude": -49.303603,
+            "ordem": 352
+        },
+        {
+            "idcoordenadapercurso": 4652694,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.545835,
+            "longitude": -49.303565,
+            "ordem": 353
+        },
+        {
+            "idcoordenadapercurso": 4652695,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.545352,
+            "longitude": -49.303446,
+            "ordem": 354
+        },
+        {
+            "idcoordenadapercurso": 4652696,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.545115,
+            "longitude": -49.303371,
+            "ordem": 355
+        },
+        {
+            "idcoordenadapercurso": 4652697,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.545008,
+            "longitude": -49.303340,
+            "ordem": 356
+        },
+        {
+            "idcoordenadapercurso": 4652698,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.544605,
+            "longitude": -49.303250,
+            "ordem": 357
+        },
+        {
+            "idcoordenadapercurso": 4652699,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.544414,
+            "longitude": -49.303204,
+            "ordem": 358
+        },
+        {
+            "idcoordenadapercurso": 4652700,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.544158,
+            "longitude": -49.303145,
+            "ordem": 359
+        },
+        {
+            "idcoordenadapercurso": 4652701,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.544021,
+            "longitude": -49.303114,
+            "ordem": 360
+        },
+        {
+            "idcoordenadapercurso": 4652702,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.543873,
+            "longitude": -49.303080,
+            "ordem": 361
+        },
+        {
+            "idcoordenadapercurso": 4652703,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.543593,
+            "longitude": -49.303023,
+            "ordem": 362
+        },
+        {
+            "idcoordenadapercurso": 4652704,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.543458,
+            "longitude": -49.302995,
+            "ordem": 363
+        },
+        {
+            "idcoordenadapercurso": 4652705,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.542737,
+            "longitude": -49.302836,
+            "ordem": 364
+        },
+        {
+            "idcoordenadapercurso": 4652706,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.542480,
+            "longitude": -49.302777,
+            "ordem": 365
+        },
+        {
+            "idcoordenadapercurso": 4652707,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.541884,
+            "longitude": -49.302636,
+            "ordem": 366
+        },
+        {
+            "idcoordenadapercurso": 4652708,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.541582,
+            "longitude": -49.302561,
+            "ordem": 367
+        },
+        {
+            "idcoordenadapercurso": 4652709,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.541324,
+            "longitude": -49.302497,
+            "ordem": 368
+        },
+        {
+            "idcoordenadapercurso": 4652710,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.541019,
+            "longitude": -49.302423,
+            "ordem": 369
+        },
+        {
+            "idcoordenadapercurso": 4652711,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.540559,
+            "longitude": -49.302314,
+            "ordem": 370
+        },
+        {
+            "idcoordenadapercurso": 4652712,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.540204,
+            "longitude": -49.302236,
+            "ordem": 371
+        },
+        {
+            "idcoordenadapercurso": 4652713,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.540003,
+            "longitude": -49.302188,
+            "ordem": 372
+        },
+        {
+            "idcoordenadapercurso": 4652714,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.539823,
+            "longitude": -49.302142,
+            "ordem": 373
+        },
+        {
+            "idcoordenadapercurso": 4652715,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.539155,
+            "longitude": -49.301975,
+            "ordem": 374
+        },
+        {
+            "idcoordenadapercurso": 4652716,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.538900,
+            "longitude": -49.301918,
+            "ordem": 375
+        },
+        {
+            "idcoordenadapercurso": 4652717,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.538665,
+            "longitude": -49.301865,
+            "ordem": 376
+        },
+        {
+            "idcoordenadapercurso": 4652718,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.538316,
+            "longitude": -49.301788,
+            "ordem": 377
+        },
+        {
+            "idcoordenadapercurso": 4652719,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.538077,
+            "longitude": -49.301733,
+            "ordem": 378
+        },
+        {
+            "idcoordenadapercurso": 4652720,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.537962,
+            "longitude": -49.301708,
+            "ordem": 379
+        },
+        {
+            "idcoordenadapercurso": 4652721,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.537385,
+            "longitude": -49.301571,
+            "ordem": 380
+        },
+        {
+            "idcoordenadapercurso": 4652722,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.536922,
+            "longitude": -49.301459,
+            "ordem": 381
+        },
+        {
+            "idcoordenadapercurso": 4652723,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.536733,
+            "longitude": -49.301414,
+            "ordem": 382
+        },
+        {
+            "idcoordenadapercurso": 4652724,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.536566,
+            "longitude": -49.301376,
+            "ordem": 383
+        },
+        {
+            "idcoordenadapercurso": 4652725,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.536101,
+            "longitude": -49.301270,
+            "ordem": 384
+        },
+        {
+            "idcoordenadapercurso": 4652726,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.535830,
+            "longitude": -49.301208,
+            "ordem": 385
+        },
+        {
+            "idcoordenadapercurso": 4652727,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.535677,
+            "longitude": -49.301175,
+            "ordem": 386
+        },
+        {
+            "idcoordenadapercurso": 4652728,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.535540,
+            "longitude": -49.301140,
+            "ordem": 387
+        },
+        {
+            "idcoordenadapercurso": 4652729,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.535111,
+            "longitude": -49.301031,
+            "ordem": 388
+        },
+        {
+            "idcoordenadapercurso": 4652730,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.534743,
+            "longitude": -49.300939,
+            "ordem": 389
+        },
+        {
+            "idcoordenadapercurso": 4652731,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.534672,
+            "longitude": -49.300919,
+            "ordem": 390
+        },
+        {
+            "idcoordenadapercurso": 4652732,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.534484,
+            "longitude": -49.300860,
+            "ordem": 391
+        },
+        {
+            "idcoordenadapercurso": 4652733,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.534369,
+            "longitude": -49.300819,
+            "ordem": 392
+        },
+        {
+            "idcoordenadapercurso": 4652734,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.534179,
+            "longitude": -49.300741,
+            "ordem": 393
+        },
+        {
+            "idcoordenadapercurso": 4652735,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.534021,
+            "longitude": -49.300677,
+            "ordem": 394
+        },
+        {
+            "idcoordenadapercurso": 4652736,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.533829,
+            "longitude": -49.300601,
+            "ordem": 395
+        },
+        {
+            "idcoordenadapercurso": 4652737,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.533673,
+            "longitude": -49.300548,
+            "ordem": 396
+        },
+        {
+            "idcoordenadapercurso": 4652738,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.533526,
+            "longitude": -49.300498,
+            "ordem": 397
+        },
+        {
+            "idcoordenadapercurso": 4652739,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.533316,
+            "longitude": -49.300419,
+            "ordem": 398
+        },
+        {
+            "idcoordenadapercurso": 4652740,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.533170,
+            "longitude": -49.300365,
+            "ordem": 399
+        },
+        {
+            "idcoordenadapercurso": 4652741,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.533036,
+            "longitude": -49.300307,
+            "ordem": 400
+        },
+        {
+            "idcoordenadapercurso": 4652742,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.532668,
+            "longitude": -49.300175,
+            "ordem": 401
+        },
+        {
+            "idcoordenadapercurso": 4652743,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.532460,
+            "longitude": -49.300102,
+            "ordem": 402
+        },
+        {
+            "idcoordenadapercurso": 4652744,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.532010,
+            "longitude": -49.299936,
+            "ordem": 403
+        },
+        {
+            "idcoordenadapercurso": 4652745,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.531731,
+            "longitude": -49.299831,
+            "ordem": 404
+        },
+        {
+            "idcoordenadapercurso": 4652746,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.531543,
+            "longitude": -49.299763,
+            "ordem": 405
+        },
+        {
+            "idcoordenadapercurso": 4652747,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.530919,
+            "longitude": -49.299538,
+            "ordem": 406
+        },
+        {
+            "idcoordenadapercurso": 4652748,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.530728,
+            "longitude": -49.299468,
+            "ordem": 407
+        },
+        {
+            "idcoordenadapercurso": 4652749,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.530695,
+            "longitude": -49.299456,
+            "ordem": 408
+        },
+        {
+            "idcoordenadapercurso": 4652750,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.530674,
+            "longitude": -49.299402,
+            "ordem": 409
+        },
+        {
+            "idcoordenadapercurso": 4652751,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.530645,
+            "longitude": -49.299379,
+            "ordem": 410
+        },
+        {
+            "idcoordenadapercurso": 4652752,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.530508,
+            "longitude": -49.299291,
+            "ordem": 411
+        },
+        {
+            "idcoordenadapercurso": 4652753,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.530351,
+            "longitude": -49.299193,
+            "ordem": 412
+        },
+        {
+            "idcoordenadapercurso": 4652754,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.530216,
+            "longitude": -49.299108,
+            "ordem": 413
+        },
+        {
+            "idcoordenadapercurso": 4652755,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.530172,
+            "longitude": -49.299060,
+            "ordem": 414
+        },
+        {
+            "idcoordenadapercurso": 4652756,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.529997,
+            "longitude": -49.298992,
+            "ordem": 415
+        },
+        {
+            "idcoordenadapercurso": 4652757,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.529872,
+            "longitude": -49.298944,
+            "ordem": 416
+        },
+        {
+            "idcoordenadapercurso": 4652758,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.529661,
+            "longitude": -49.298867,
+            "ordem": 417
+        },
+        {
+            "idcoordenadapercurso": 4652759,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.529588,
+            "longitude": -49.298840,
+            "ordem": 418
+        },
+        {
+            "idcoordenadapercurso": 4652760,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.529397,
+            "longitude": -49.298767,
+            "ordem": 419
+        },
+        {
+            "idcoordenadapercurso": 4652761,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.528544,
+            "longitude": -49.298449,
+            "ordem": 420
+        },
+        {
+            "idcoordenadapercurso": 4652762,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.528219,
+            "longitude": -49.298325,
+            "ordem": 421
+        },
+        {
+            "idcoordenadapercurso": 4652763,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.527964,
+            "longitude": -49.298207,
+            "ordem": 422
+        },
+        {
+            "idcoordenadapercurso": 4652764,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.527841,
+            "longitude": -49.298130,
+            "ordem": 423
+        },
+        {
+            "idcoordenadapercurso": 4652765,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.527736,
+            "longitude": -49.298069,
+            "ordem": 424
+        },
+        {
+            "idcoordenadapercurso": 4652766,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.527625,
+            "longitude": -49.297999,
+            "ordem": 425
+        },
+        {
+            "idcoordenadapercurso": 4652767,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.527453,
+            "longitude": -49.297892,
+            "ordem": 426
+        },
+        {
+            "idcoordenadapercurso": 4652768,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.527268,
+            "longitude": -49.297777,
+            "ordem": 427
+        },
+        {
+            "idcoordenadapercurso": 4652769,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.527092,
+            "longitude": -49.297670,
+            "ordem": 428
+        },
+        {
+            "idcoordenadapercurso": 4652770,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.526981,
+            "longitude": -49.297585,
+            "ordem": 429
+        },
+        {
+            "idcoordenadapercurso": 4652771,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.526875,
+            "longitude": -49.297524,
+            "ordem": 430
+        },
+        {
+            "idcoordenadapercurso": 4652772,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.526763,
+            "longitude": -49.297460,
+            "ordem": 431
+        },
+        {
+            "idcoordenadapercurso": 4652773,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.526644,
+            "longitude": -49.297391,
+            "ordem": 432
+        },
+        {
+            "idcoordenadapercurso": 4652774,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.526517,
+            "longitude": -49.297319,
+            "ordem": 433
+        },
+        {
+            "idcoordenadapercurso": 4652775,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.526338,
+            "longitude": -49.297207,
+            "ordem": 434
+        },
+        {
+            "idcoordenadapercurso": 4652776,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.526155,
+            "longitude": -49.297092,
+            "ordem": 435
+        },
+        {
+            "idcoordenadapercurso": 4652777,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.525945,
+            "longitude": -49.296962,
+            "ordem": 436
+        },
+        {
+            "idcoordenadapercurso": 4652778,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.525672,
+            "longitude": -49.296796,
+            "ordem": 437
+        },
+        {
+            "idcoordenadapercurso": 4652779,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.525512,
+            "longitude": -49.296697,
+            "ordem": 438
+        },
+        {
+            "idcoordenadapercurso": 4652780,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.525266,
+            "longitude": -49.296547,
+            "ordem": 439
+        },
+        {
+            "idcoordenadapercurso": 4652781,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.524950,
+            "longitude": -49.296354,
+            "ordem": 440
+        },
+        {
+            "idcoordenadapercurso": 4652782,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.524758,
+            "longitude": -49.296237,
+            "ordem": 441
+        },
+        {
+            "idcoordenadapercurso": 4652783,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.524632,
+            "longitude": -49.296161,
+            "ordem": 442
+        },
+        {
+            "idcoordenadapercurso": 4652784,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.524508,
+            "longitude": -49.296084,
+            "ordem": 443
+        },
+        {
+            "idcoordenadapercurso": 4652785,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.524389,
+            "longitude": -49.296011,
+            "ordem": 444
+        },
+        {
+            "idcoordenadapercurso": 4652786,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.524275,
+            "longitude": -49.295942,
+            "ordem": 445
+        },
+        {
+            "idcoordenadapercurso": 4652787,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.524095,
+            "longitude": -49.295830,
+            "ordem": 446
+        },
+        {
+            "idcoordenadapercurso": 4652788,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523996,
+            "longitude": -49.295770,
+            "ordem": 447
+        },
+        {
+            "idcoordenadapercurso": 4652789,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523894,
+            "longitude": -49.295702,
+            "ordem": 448
+        },
+        {
+            "idcoordenadapercurso": 4652790,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523760,
+            "longitude": -49.295626,
+            "ordem": 449
+        },
+        {
+            "idcoordenadapercurso": 4652791,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523599,
+            "longitude": -49.295534,
+            "ordem": 450
+        },
+        {
+            "idcoordenadapercurso": 4652792,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523455,
+            "longitude": -49.295451,
+            "ordem": 451
+        },
+        {
+            "idcoordenadapercurso": 4652793,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523373,
+            "longitude": -49.295366,
+            "ordem": 452
+        },
+        {
+            "idcoordenadapercurso": 4652794,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523275,
+            "longitude": -49.295306,
+            "ordem": 453
+        },
+        {
+            "idcoordenadapercurso": 4652795,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523118,
+            "longitude": -49.295232,
+            "ordem": 454
+        },
+        {
+            "idcoordenadapercurso": 4652796,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522989,
+            "longitude": -49.295162,
+            "ordem": 455
+        },
+        {
+            "idcoordenadapercurso": 4652797,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522869,
+            "longitude": -49.295086,
+            "ordem": 456
+        },
+        {
+            "idcoordenadapercurso": 4652798,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522599,
+            "longitude": -49.294914,
+            "ordem": 457
+        },
+        {
+            "idcoordenadapercurso": 4652799,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522405,
+            "longitude": -49.294791,
+            "ordem": 458
+        },
+        {
+            "idcoordenadapercurso": 4652800,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522230,
+            "longitude": -49.294682,
+            "ordem": 459
+        },
+        {
+            "idcoordenadapercurso": 4652801,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522037,
+            "longitude": -49.294563,
+            "ordem": 460
+        },
+        {
+            "idcoordenadapercurso": 4652802,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521820,
+            "longitude": -49.294426,
+            "ordem": 461
+        },
+        {
+            "idcoordenadapercurso": 4652803,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521662,
+            "longitude": -49.294328,
+            "ordem": 462
+        },
+        {
+            "idcoordenadapercurso": 4652804,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521420,
+            "longitude": -49.294177,
+            "ordem": 463
+        },
+        {
+            "idcoordenadapercurso": 4652805,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521320,
+            "longitude": -49.294114,
+            "ordem": 464
+        },
+        {
+            "idcoordenadapercurso": 4652806,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521111,
+            "longitude": -49.293950,
+            "ordem": 465
+        },
+        {
+            "idcoordenadapercurso": 4652807,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521040,
+            "longitude": -49.293908,
+            "ordem": 466
+        },
+        {
+            "idcoordenadapercurso": 4652808,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521164,
+            "longitude": -49.293544,
+            "ordem": 467
+        },
+        {
+            "idcoordenadapercurso": 4652809,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521254,
+            "longitude": -49.293277,
+            "ordem": 468
+        },
+        {
+            "idcoordenadapercurso": 4652810,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521366,
+            "longitude": -49.292941,
+            "ordem": 469
+        },
+        {
+            "idcoordenadapercurso": 4652811,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521513,
+            "longitude": -49.292496,
+            "ordem": 470
+        },
+        {
+            "idcoordenadapercurso": 4652812,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521589,
+            "longitude": -49.292275,
+            "ordem": 471
+        },
+        {
+            "idcoordenadapercurso": 4652813,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521666,
+            "longitude": -49.292038,
+            "ordem": 472
+        },
+        {
+            "idcoordenadapercurso": 4652814,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521946,
+            "longitude": -49.292178,
+            "ordem": 473
+        },
+        {
+            "idcoordenadapercurso": 4652815,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522200,
+            "longitude": -49.292324,
+            "ordem": 474
+        },
+        {
+            "idcoordenadapercurso": 4652816,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522467,
+            "longitude": -49.292493,
+            "ordem": 475
+        },
+        {
+            "idcoordenadapercurso": 4652817,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522726,
+            "longitude": -49.292654,
+            "ordem": 476
+        },
+        {
+            "idcoordenadapercurso": 4652818,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523002,
+            "longitude": -49.292821,
+            "ordem": 477
+        },
+        {
+            "idcoordenadapercurso": 4652819,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523287,
+            "longitude": -49.292996,
+            "ordem": 478
+        },
+        {
+            "idcoordenadapercurso": 4652820,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523481,
+            "longitude": -49.293122,
+            "ordem": 479
+        },
+        {
+            "idcoordenadapercurso": 4652821,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523560,
+            "longitude": -49.293172,
+            "ordem": 480
+        },
+        {
+            "idcoordenadapercurso": 4652822,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523642,
+            "longitude": -49.293233,
+            "ordem": 481
+        },
+        {
+            "idcoordenadapercurso": 4652823,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523811,
+            "longitude": -49.293353,
+            "ordem": 482
+        },
+        {
+            "idcoordenadapercurso": 4652824,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523653,
+            "longitude": -49.293568,
+            "ordem": 483
+        },
+        {
+            "idcoordenadapercurso": 4652825,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523461,
+            "longitude": -49.293827,
+            "ordem": 484
+        },
+        {
+            "idcoordenadapercurso": 4652826,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523275,
+            "longitude": -49.294076,
+            "ordem": 485
+        },
+        {
+            "idcoordenadapercurso": 4652827,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523130,
+            "longitude": -49.294270,
+            "ordem": 486
+        },
+        {
+            "idcoordenadapercurso": 4652828,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.523056,
+            "longitude": -49.294357,
+            "ordem": 487
+        },
+        {
+            "idcoordenadapercurso": 4652829,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522909,
+            "longitude": -49.294509,
+            "ordem": 488
+        },
+        {
+            "idcoordenadapercurso": 4652830,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522780,
+            "longitude": -49.294640,
+            "ordem": 489
+        },
+        {
+            "idcoordenadapercurso": 4652831,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522633,
+            "longitude": -49.294782,
+            "ordem": 490
+        },
+        {
+            "idcoordenadapercurso": 4652832,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522498,
+            "longitude": -49.294914,
+            "ordem": 491
+        },
+        {
+            "idcoordenadapercurso": 4652833,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522394,
+            "longitude": -49.294994,
+            "ordem": 492
+        },
+        {
+            "idcoordenadapercurso": 4652834,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522318,
+            "longitude": -49.295052,
+            "ordem": 493
+        },
+        {
+            "idcoordenadapercurso": 4652835,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522218,
+            "longitude": -49.295150,
+            "ordem": 494
+        },
+        {
+            "idcoordenadapercurso": 4652836,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.522053,
+            "longitude": -49.295267,
+            "ordem": 495
+        },
+        {
+            "idcoordenadapercurso": 4652837,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521983,
+            "longitude": -49.295315,
+            "ordem": 496
+        },
+        {
+            "idcoordenadapercurso": 4652838,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521944,
+            "longitude": -49.295342,
+            "ordem": 497
+        },
+        {
+            "idcoordenadapercurso": 4652839,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521877,
+            "longitude": -49.295372,
+            "ordem": 498
+        },
+        {
+            "idcoordenadapercurso": 4652840,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521793,
+            "longitude": -49.295410,
+            "ordem": 499
+        },
+        {
+            "idcoordenadapercurso": 4652841,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521748,
+            "longitude": -49.295430,
+            "ordem": 500
+        },
+        {
+            "idcoordenadapercurso": 4652842,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521651,
+            "longitude": -49.295438,
+            "ordem": 501
+        },
+        {
+            "idcoordenadapercurso": 4652843,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521504,
+            "longitude": -49.295452,
+            "ordem": 502
+        },
+        {
+            "idcoordenadapercurso": 4652844,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521415,
+            "longitude": -49.295452,
+            "ordem": 503
+        },
+        {
+            "idcoordenadapercurso": 4652845,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.521217,
+            "longitude": -49.295452,
+            "ordem": 504
+        },
+        {
+            "idcoordenadapercurso": 4652846,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.520920,
+            "longitude": -49.295459,
+            "ordem": 505
+        },
+        {
+            "idcoordenadapercurso": 4652847,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.520724,
+            "longitude": -49.295464,
+            "ordem": 506
+        },
+        {
+            "idcoordenadapercurso": 4652848,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.520534,
+            "longitude": -49.295469,
+            "ordem": 507
+        },
+        {
+            "idcoordenadapercurso": 4652849,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.520329,
+            "longitude": -49.295476,
+            "ordem": 508
+        },
+        {
+            "idcoordenadapercurso": 4652850,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.519954,
+            "longitude": -49.295488,
+            "ordem": 509
+        },
+        {
+            "idcoordenadapercurso": 4652851,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.519462,
+            "longitude": -49.295505,
+            "ordem": 510
+        },
+        {
+            "idcoordenadapercurso": 4652852,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.518963,
+            "longitude": -49.295522,
+            "ordem": 511
+        },
+        {
+            "idcoordenadapercurso": 4652853,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.518579,
+            "longitude": -49.295535,
+            "ordem": 512
+        },
+        {
+            "idcoordenadapercurso": 4652854,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.518308,
+            "longitude": -49.295547,
+            "ordem": 513
+        },
+        {
+            "idcoordenadapercurso": 4652855,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.517986,
+            "longitude": -49.295561,
+            "ordem": 514
+        },
+        {
+            "idcoordenadapercurso": 4652856,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.517721,
+            "longitude": -49.295572,
+            "ordem": 515
+        },
+        {
+            "idcoordenadapercurso": 4652857,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.517478,
+            "longitude": -49.295576,
+            "ordem": 516
+        },
+        {
+            "idcoordenadapercurso": 4652858,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.517271,
+            "longitude": -49.295577,
+            "ordem": 517
+        },
+        {
+            "idcoordenadapercurso": 4652859,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.517123,
+            "longitude": -49.295567,
+            "ordem": 518
+        },
+        {
+            "idcoordenadapercurso": 4652860,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.516969,
+            "longitude": -49.295556,
+            "ordem": 519
+        },
+        {
+            "idcoordenadapercurso": 4652861,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.516841,
+            "longitude": -49.295547,
+            "ordem": 520
+        },
+        {
+            "idcoordenadapercurso": 4652862,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.516665,
+            "longitude": -49.295550,
+            "ordem": 521
+        },
+        {
+            "idcoordenadapercurso": 4652863,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.516499,
+            "longitude": -49.295552,
+            "ordem": 522
+        },
+        {
+            "idcoordenadapercurso": 4652864,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.516325,
+            "longitude": -49.295554,
+            "ordem": 523
+        },
+        {
+            "idcoordenadapercurso": 4652865,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.516142,
+            "longitude": -49.295560,
+            "ordem": 524
+        },
+        {
+            "idcoordenadapercurso": 4652866,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515977,
+            "longitude": -49.295563,
+            "ordem": 525
+        },
+        {
+            "idcoordenadapercurso": 4652867,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515739,
+            "longitude": -49.295560,
+            "ordem": 526
+        },
+        {
+            "idcoordenadapercurso": 4652868,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515592,
+            "longitude": -49.295550,
+            "ordem": 527
+        },
+        {
+            "idcoordenadapercurso": 4652869,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515503,
+            "longitude": -49.295538,
+            "ordem": 528
+        },
+        {
+            "idcoordenadapercurso": 4652870,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515373,
+            "longitude": -49.295508,
+            "ordem": 529
+        },
+        {
+            "idcoordenadapercurso": 4652871,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515280,
+            "longitude": -49.295476,
+            "ordem": 530
+        },
+        {
+            "idcoordenadapercurso": 4652872,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515208,
+            "longitude": -49.295440,
+            "ordem": 531
+        },
+        {
+            "idcoordenadapercurso": 4652873,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515169,
+            "longitude": -49.295422,
+            "ordem": 532
+        },
+        {
+            "idcoordenadapercurso": 4652874,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515088,
+            "longitude": -49.295382,
+            "ordem": 533
+        },
+        {
+            "idcoordenadapercurso": 4652875,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515087,
+            "longitude": -49.295332,
+            "ordem": 534
+        },
+        {
+            "idcoordenadapercurso": 4652876,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515127,
+            "longitude": -49.295280,
+            "ordem": 535
+        },
+        {
+            "idcoordenadapercurso": 4652877,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515136,
+            "longitude": -49.295242,
+            "ordem": 536
+        },
+        {
+            "idcoordenadapercurso": 4652878,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515139,
+            "longitude": -49.295190,
+            "ordem": 537
+        },
+        {
+            "idcoordenadapercurso": 4652879,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515134,
+            "longitude": -49.295011,
+            "ordem": 538
+        },
+        {
+            "idcoordenadapercurso": 4652880,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515128,
+            "longitude": -49.294650,
+            "ordem": 539
+        },
+        {
+            "idcoordenadapercurso": 4652881,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515122,
+            "longitude": -49.294383,
+            "ordem": 540
+        },
+        {
+            "idcoordenadapercurso": 4652882,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515120,
+            "longitude": -49.294137,
+            "ordem": 541
+        },
+        {
+            "idcoordenadapercurso": 4652883,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515117,
+            "longitude": -49.294009,
+            "ordem": 542
+        },
+        {
+            "idcoordenadapercurso": 4652884,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515117,
+            "longitude": -49.293862,
+            "ordem": 543
+        },
+        {
+            "idcoordenadapercurso": 4652885,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.515009,
+            "longitude": -49.293890,
+            "ordem": 544
+        },
+        {
+            "idcoordenadapercurso": 4652886,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.514877,
+            "longitude": -49.293933,
+            "ordem": 545
+        },
+        {
+            "idcoordenadapercurso": 4652887,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.514593,
+            "longitude": -49.294039,
+            "ordem": 546
+        },
+        {
+            "idcoordenadapercurso": 4652888,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.514324,
+            "longitude": -49.294138,
+            "ordem": 547
+        },
+        {
+            "idcoordenadapercurso": 4652889,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.514236,
+            "longitude": -49.294170,
+            "ordem": 548
+        },
+        {
+            "idcoordenadapercurso": 4652890,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.514049,
+            "longitude": -49.294230,
+            "ordem": 549
+        },
+        {
+            "idcoordenadapercurso": 4652891,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.513881,
+            "longitude": -49.294265,
+            "ordem": 550
+        },
+        {
+            "idcoordenadapercurso": 4652892,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.513601,
+            "longitude": -49.294312,
+            "ordem": 551
+        },
+        {
+            "idcoordenadapercurso": 4652893,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.513359,
+            "longitude": -49.294314,
+            "ordem": 552
+        },
+        {
+            "idcoordenadapercurso": 4652894,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512817,
+            "longitude": -49.294324,
+            "ordem": 553
+        },
+        {
+            "idcoordenadapercurso": 4652895,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512547,
+            "longitude": -49.294327,
+            "ordem": 554
+        },
+        {
+            "idcoordenadapercurso": 4652896,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512128,
+            "longitude": -49.294324,
+            "ordem": 555
+        },
+        {
+            "idcoordenadapercurso": 4652897,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511741,
+            "longitude": -49.294322,
+            "ordem": 556
+        },
+        {
+            "idcoordenadapercurso": 4652898,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511748,
+            "longitude": -49.294478,
+            "ordem": 557
+        },
+        {
+            "idcoordenadapercurso": 4652899,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511746,
+            "longitude": -49.294796,
+            "ordem": 558
+        },
+        {
+            "idcoordenadapercurso": 4652900,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511744,
+            "longitude": -49.294984,
+            "ordem": 559
+        },
+        {
+            "idcoordenadapercurso": 4652901,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.511749,
+            "longitude": -49.295294,
+            "ordem": 560
+        },
+        {
+            "idcoordenadapercurso": 4652902,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.512431,
+            "longitude": -49.295270,
+            "ordem": 561
+        },
+        {
+            "idcoordenadapercurso": 4652903,
+            "idpercurso": 16049,
+            "descricaoPercurso": "684_Rio Bonito_001_Sentido Terminal Pinheirinho.gpx",
+            "latitude": -25.513096,
+            "longitude": -49.295245,
+            "ordem": 562
+        }
+    ]
+}

@@ -1,0 +1,1765 @@
+{
+    "status": "success",
+    "coordenadasPercurso": [
+        {
+            "idcoordenadapercurso": 5311364,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.432913,
+            "longitude": -49.270599,
+            "ordem": 1
+        },
+        {
+            "idcoordenadapercurso": 5311365,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.432816,
+            "longitude": -49.270330,
+            "ordem": 2
+        },
+        {
+            "idcoordenadapercurso": 5311366,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.432732,
+            "longitude": -49.270091,
+            "ordem": 3
+        },
+        {
+            "idcoordenadapercurso": 5311367,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.432414,
+            "longitude": -49.269214,
+            "ordem": 4
+        },
+        {
+            "idcoordenadapercurso": 5311368,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.432088,
+            "longitude": -49.268312,
+            "ordem": 5
+        },
+        {
+            "idcoordenadapercurso": 5311369,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.431858,
+            "longitude": -49.267757,
+            "ordem": 6
+        },
+        {
+            "idcoordenadapercurso": 5311370,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.431669,
+            "longitude": -49.267307,
+            "ordem": 7
+        },
+        {
+            "idcoordenadapercurso": 5311371,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.431508,
+            "longitude": -49.266891,
+            "ordem": 8
+        },
+        {
+            "idcoordenadapercurso": 5311372,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.431206,
+            "longitude": -49.266117,
+            "ordem": 9
+        },
+        {
+            "idcoordenadapercurso": 5311373,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430934,
+            "longitude": -49.265406,
+            "ordem": 10
+        },
+        {
+            "idcoordenadapercurso": 5311374,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430664,
+            "longitude": -49.264707,
+            "ordem": 11
+        },
+        {
+            "idcoordenadapercurso": 5311375,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430526,
+            "longitude": -49.264768,
+            "ordem": 12
+        },
+        {
+            "idcoordenadapercurso": 5311376,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430401,
+            "longitude": -49.264477,
+            "ordem": 13
+        },
+        {
+            "idcoordenadapercurso": 5311377,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430280,
+            "longitude": -49.264208,
+            "ordem": 14
+        },
+        {
+            "idcoordenadapercurso": 5311378,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430064,
+            "longitude": -49.263718,
+            "ordem": 15
+        },
+        {
+            "idcoordenadapercurso": 5311379,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429924,
+            "longitude": -49.263310,
+            "ordem": 16
+        },
+        {
+            "idcoordenadapercurso": 5311380,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429751,
+            "longitude": -49.262948,
+            "ordem": 17
+        },
+        {
+            "idcoordenadapercurso": 5311381,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429695,
+            "longitude": -49.262831,
+            "ordem": 18
+        },
+        {
+            "idcoordenadapercurso": 5311382,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429596,
+            "longitude": -49.262594,
+            "ordem": 19
+        },
+        {
+            "idcoordenadapercurso": 5311383,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429413,
+            "longitude": -49.262153,
+            "ordem": 20
+        },
+        {
+            "idcoordenadapercurso": 5311384,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429094,
+            "longitude": -49.261353,
+            "ordem": 21
+        },
+        {
+            "idcoordenadapercurso": 5311385,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428891,
+            "longitude": -49.260834,
+            "ordem": 22
+        },
+        {
+            "idcoordenadapercurso": 5311386,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428715,
+            "longitude": -49.260377,
+            "ordem": 23
+        },
+        {
+            "idcoordenadapercurso": 5311387,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428552,
+            "longitude": -49.259971,
+            "ordem": 24
+        },
+        {
+            "idcoordenadapercurso": 5311388,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428304,
+            "longitude": -49.259355,
+            "ordem": 25
+        },
+        {
+            "idcoordenadapercurso": 5311389,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428179,
+            "longitude": -49.259045,
+            "ordem": 26
+        },
+        {
+            "idcoordenadapercurso": 5311390,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427942,
+            "longitude": -49.258553,
+            "ordem": 27
+        },
+        {
+            "idcoordenadapercurso": 5311391,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427912,
+            "longitude": -49.258461,
+            "ordem": 28
+        },
+        {
+            "idcoordenadapercurso": 5311392,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427901,
+            "longitude": -49.258412,
+            "ordem": 29
+        },
+        {
+            "idcoordenadapercurso": 5311393,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427900,
+            "longitude": -49.258325,
+            "ordem": 30
+        },
+        {
+            "idcoordenadapercurso": 5311394,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427958,
+            "longitude": -49.257539,
+            "ordem": 31
+        },
+        {
+            "idcoordenadapercurso": 5311395,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428006,
+            "longitude": -49.256970,
+            "ordem": 32
+        },
+        {
+            "idcoordenadapercurso": 5311396,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428038,
+            "longitude": -49.256570,
+            "ordem": 33
+        },
+        {
+            "idcoordenadapercurso": 5311397,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428060,
+            "longitude": -49.256321,
+            "ordem": 34
+        },
+        {
+            "idcoordenadapercurso": 5311398,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427825,
+            "longitude": -49.256295,
+            "ordem": 35
+        },
+        {
+            "idcoordenadapercurso": 5311399,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427706,
+            "longitude": -49.256282,
+            "ordem": 36
+        },
+        {
+            "idcoordenadapercurso": 5311400,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427133,
+            "longitude": -49.256173,
+            "ordem": 37
+        },
+        {
+            "idcoordenadapercurso": 5311401,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427173,
+            "longitude": -49.255734,
+            "ordem": 38
+        },
+        {
+            "idcoordenadapercurso": 5311402,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427204,
+            "longitude": -49.255175,
+            "ordem": 39
+        },
+        {
+            "idcoordenadapercurso": 5311403,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427286,
+            "longitude": -49.254388,
+            "ordem": 40
+        },
+        {
+            "idcoordenadapercurso": 5311404,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427354,
+            "longitude": -49.253691,
+            "ordem": 41
+        },
+        {
+            "idcoordenadapercurso": 5311405,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427392,
+            "longitude": -49.253293,
+            "ordem": 42
+        },
+        {
+            "idcoordenadapercurso": 5311406,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427426,
+            "longitude": -49.252922,
+            "ordem": 43
+        },
+        {
+            "idcoordenadapercurso": 5311407,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427446,
+            "longitude": -49.252719,
+            "ordem": 44
+        },
+        {
+            "idcoordenadapercurso": 5311408,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427468,
+            "longitude": -49.252470,
+            "ordem": 45
+        },
+        {
+            "idcoordenadapercurso": 5311409,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427504,
+            "longitude": -49.252094,
+            "ordem": 46
+        },
+        {
+            "idcoordenadapercurso": 5311410,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427670,
+            "longitude": -49.250254,
+            "ordem": 47
+        },
+        {
+            "idcoordenadapercurso": 5311411,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427718,
+            "longitude": -49.249624,
+            "ordem": 48
+        },
+        {
+            "idcoordenadapercurso": 5311412,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427769,
+            "longitude": -49.249000,
+            "ordem": 49
+        },
+        {
+            "idcoordenadapercurso": 5311413,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427773,
+            "longitude": -49.248866,
+            "ordem": 50
+        },
+        {
+            "idcoordenadapercurso": 5311414,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427798,
+            "longitude": -49.248647,
+            "ordem": 51
+        },
+        {
+            "idcoordenadapercurso": 5311415,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427882,
+            "longitude": -49.247754,
+            "ordem": 52
+        },
+        {
+            "idcoordenadapercurso": 5311416,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427907,
+            "longitude": -49.247374,
+            "ordem": 53
+        },
+        {
+            "idcoordenadapercurso": 5311417,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427955,
+            "longitude": -49.246712,
+            "ordem": 54
+        },
+        {
+            "idcoordenadapercurso": 5311418,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427973,
+            "longitude": -49.246482,
+            "ordem": 55
+        },
+        {
+            "idcoordenadapercurso": 5311419,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427982,
+            "longitude": -49.246262,
+            "ordem": 56
+        },
+        {
+            "idcoordenadapercurso": 5311420,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428018,
+            "longitude": -49.245852,
+            "ordem": 57
+        },
+        {
+            "idcoordenadapercurso": 5311421,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428051,
+            "longitude": -49.245494,
+            "ordem": 58
+        },
+        {
+            "idcoordenadapercurso": 5311422,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428105,
+            "longitude": -49.244823,
+            "ordem": 59
+        },
+        {
+            "idcoordenadapercurso": 5311423,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428132,
+            "longitude": -49.244476,
+            "ordem": 60
+        },
+        {
+            "idcoordenadapercurso": 5311424,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428180,
+            "longitude": -49.243917,
+            "ordem": 61
+        },
+        {
+            "idcoordenadapercurso": 5311425,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428201,
+            "longitude": -49.243650,
+            "ordem": 62
+        },
+        {
+            "idcoordenadapercurso": 5311426,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428256,
+            "longitude": -49.243056,
+            "ordem": 63
+        },
+        {
+            "idcoordenadapercurso": 5311427,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428270,
+            "longitude": -49.242822,
+            "ordem": 64
+        },
+        {
+            "idcoordenadapercurso": 5311428,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428265,
+            "longitude": -49.242712,
+            "ordem": 65
+        },
+        {
+            "idcoordenadapercurso": 5311429,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428252,
+            "longitude": -49.242656,
+            "ordem": 66
+        },
+        {
+            "idcoordenadapercurso": 5311430,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428234,
+            "longitude": -49.242590,
+            "ordem": 67
+        },
+        {
+            "idcoordenadapercurso": 5311431,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428201,
+            "longitude": -49.242519,
+            "ordem": 68
+        },
+        {
+            "idcoordenadapercurso": 5311432,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428106,
+            "longitude": -49.242410,
+            "ordem": 69
+        },
+        {
+            "idcoordenadapercurso": 5311433,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427913,
+            "longitude": -49.242234,
+            "ordem": 70
+        },
+        {
+            "idcoordenadapercurso": 5311434,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427839,
+            "longitude": -49.242151,
+            "ordem": 71
+        },
+        {
+            "idcoordenadapercurso": 5311435,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427786,
+            "longitude": -49.242066,
+            "ordem": 72
+        },
+        {
+            "idcoordenadapercurso": 5311436,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427757,
+            "longitude": -49.241990,
+            "ordem": 73
+        },
+        {
+            "idcoordenadapercurso": 5311437,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427740,
+            "longitude": -49.241927,
+            "ordem": 74
+        },
+        {
+            "idcoordenadapercurso": 5311438,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427746,
+            "longitude": -49.241714,
+            "ordem": 75
+        },
+        {
+            "idcoordenadapercurso": 5311439,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427772,
+            "longitude": -49.241447,
+            "ordem": 76
+        },
+        {
+            "idcoordenadapercurso": 5311440,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427786,
+            "longitude": -49.241199,
+            "ordem": 77
+        },
+        {
+            "idcoordenadapercurso": 5311441,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427787,
+            "longitude": -49.240993,
+            "ordem": 78
+        },
+        {
+            "idcoordenadapercurso": 5311442,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427748,
+            "longitude": -49.240815,
+            "ordem": 79
+        },
+        {
+            "idcoordenadapercurso": 5311443,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427697,
+            "longitude": -49.240649,
+            "ordem": 80
+        },
+        {
+            "idcoordenadapercurso": 5311444,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427628,
+            "longitude": -49.240508,
+            "ordem": 81
+        },
+        {
+            "idcoordenadapercurso": 5311445,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427521,
+            "longitude": -49.240243,
+            "ordem": 82
+        },
+        {
+            "idcoordenadapercurso": 5311446,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427463,
+            "longitude": -49.240075,
+            "ordem": 83
+        },
+        {
+            "idcoordenadapercurso": 5311447,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427425,
+            "longitude": -49.239946,
+            "ordem": 84
+        },
+        {
+            "idcoordenadapercurso": 5311448,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427394,
+            "longitude": -49.239758,
+            "ordem": 85
+        },
+        {
+            "idcoordenadapercurso": 5311449,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427393,
+            "longitude": -49.239617,
+            "ordem": 86
+        },
+        {
+            "idcoordenadapercurso": 5311450,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427399,
+            "longitude": -49.239473,
+            "ordem": 87
+        },
+        {
+            "idcoordenadapercurso": 5311451,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427498,
+            "longitude": -49.238505,
+            "ordem": 88
+        },
+        {
+            "idcoordenadapercurso": 5311452,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427566,
+            "longitude": -49.238055,
+            "ordem": 89
+        },
+        {
+            "idcoordenadapercurso": 5311453,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427597,
+            "longitude": -49.237750,
+            "ordem": 90
+        },
+        {
+            "idcoordenadapercurso": 5311454,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427645,
+            "longitude": -49.237276,
+            "ordem": 91
+        },
+        {
+            "idcoordenadapercurso": 5311455,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427678,
+            "longitude": -49.236936,
+            "ordem": 92
+        },
+        {
+            "idcoordenadapercurso": 5311456,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427702,
+            "longitude": -49.236677,
+            "ordem": 93
+        },
+        {
+            "idcoordenadapercurso": 5311457,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427755,
+            "longitude": -49.236246,
+            "ordem": 94
+        },
+        {
+            "idcoordenadapercurso": 5311458,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427823,
+            "longitude": -49.235635,
+            "ordem": 95
+        },
+        {
+            "idcoordenadapercurso": 5311459,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427863,
+            "longitude": -49.235276,
+            "ordem": 96
+        },
+        {
+            "idcoordenadapercurso": 5311460,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427919,
+            "longitude": -49.234730,
+            "ordem": 97
+        },
+        {
+            "idcoordenadapercurso": 5311461,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428012,
+            "longitude": -49.233625,
+            "ordem": 98
+        },
+        {
+            "idcoordenadapercurso": 5311462,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428044,
+            "longitude": -49.233325,
+            "ordem": 99
+        },
+        {
+            "idcoordenadapercurso": 5311463,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428083,
+            "longitude": -49.233093,
+            "ordem": 100
+        },
+        {
+            "idcoordenadapercurso": 5311464,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428102,
+            "longitude": -49.232941,
+            "ordem": 101
+        },
+        {
+            "idcoordenadapercurso": 5311465,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428140,
+            "longitude": -49.232618,
+            "ordem": 102
+        },
+        {
+            "idcoordenadapercurso": 5311466,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428216,
+            "longitude": -49.231997,
+            "ordem": 103
+        },
+        {
+            "idcoordenadapercurso": 5311467,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428304,
+            "longitude": -49.231269,
+            "ordem": 104
+        },
+        {
+            "idcoordenadapercurso": 5311468,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428349,
+            "longitude": -49.230931,
+            "ordem": 105
+        },
+        {
+            "idcoordenadapercurso": 5311469,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428410,
+            "longitude": -49.230364,
+            "ordem": 106
+        },
+        {
+            "idcoordenadapercurso": 5311470,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428465,
+            "longitude": -49.229895,
+            "ordem": 107
+        },
+        {
+            "idcoordenadapercurso": 5311471,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428552,
+            "longitude": -49.229209,
+            "ordem": 108
+        },
+        {
+            "idcoordenadapercurso": 5311472,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428555,
+            "longitude": -49.228864,
+            "ordem": 109
+        },
+        {
+            "idcoordenadapercurso": 5311473,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428592,
+            "longitude": -49.228564,
+            "ordem": 110
+        },
+        {
+            "idcoordenadapercurso": 5311474,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428620,
+            "longitude": -49.228339,
+            "ordem": 111
+        },
+        {
+            "idcoordenadapercurso": 5311475,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428687,
+            "longitude": -49.227605,
+            "ordem": 112
+        },
+        {
+            "idcoordenadapercurso": 5311476,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428709,
+            "longitude": -49.227318,
+            "ordem": 113
+        },
+        {
+            "idcoordenadapercurso": 5311477,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428769,
+            "longitude": -49.226841,
+            "ordem": 114
+        },
+        {
+            "idcoordenadapercurso": 5311478,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428880,
+            "longitude": -49.225837,
+            "ordem": 115
+        },
+        {
+            "idcoordenadapercurso": 5311479,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428929,
+            "longitude": -49.225431,
+            "ordem": 116
+        },
+        {
+            "idcoordenadapercurso": 5311480,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428973,
+            "longitude": -49.224933,
+            "ordem": 117
+        },
+        {
+            "idcoordenadapercurso": 5311481,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429014,
+            "longitude": -49.224456,
+            "ordem": 118
+        },
+        {
+            "idcoordenadapercurso": 5311482,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429059,
+            "longitude": -49.224061,
+            "ordem": 119
+        },
+        {
+            "idcoordenadapercurso": 5311483,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429139,
+            "longitude": -49.223307,
+            "ordem": 120
+        },
+        {
+            "idcoordenadapercurso": 5311484,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429173,
+            "longitude": -49.222970,
+            "ordem": 121
+        },
+        {
+            "idcoordenadapercurso": 5311485,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429280,
+            "longitude": -49.221967,
+            "ordem": 122
+        },
+        {
+            "idcoordenadapercurso": 5311486,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429331,
+            "longitude": -49.221604,
+            "ordem": 123
+        },
+        {
+            "idcoordenadapercurso": 5311487,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429382,
+            "longitude": -49.221350,
+            "ordem": 124
+        },
+        {
+            "idcoordenadapercurso": 5311488,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429399,
+            "longitude": -49.221125,
+            "ordem": 125
+        },
+        {
+            "idcoordenadapercurso": 5311489,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429442,
+            "longitude": -49.220875,
+            "ordem": 126
+        },
+        {
+            "idcoordenadapercurso": 5311490,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429467,
+            "longitude": -49.220671,
+            "ordem": 127
+        },
+        {
+            "idcoordenadapercurso": 5311491,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429495,
+            "longitude": -49.220512,
+            "ordem": 128
+        },
+        {
+            "idcoordenadapercurso": 5311492,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429522,
+            "longitude": -49.220213,
+            "ordem": 129
+        },
+        {
+            "idcoordenadapercurso": 5311493,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429562,
+            "longitude": -49.219797,
+            "ordem": 130
+        },
+        {
+            "idcoordenadapercurso": 5311494,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429636,
+            "longitude": -49.218990,
+            "ordem": 131
+        },
+        {
+            "idcoordenadapercurso": 5311495,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429677,
+            "longitude": -49.218553,
+            "ordem": 132
+        },
+        {
+            "idcoordenadapercurso": 5311496,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429731,
+            "longitude": -49.217958,
+            "ordem": 133
+        },
+        {
+            "idcoordenadapercurso": 5311497,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429783,
+            "longitude": -49.217438,
+            "ordem": 134
+        },
+        {
+            "idcoordenadapercurso": 5311498,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429849,
+            "longitude": -49.216778,
+            "ordem": 135
+        },
+        {
+            "idcoordenadapercurso": 5311499,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.429925,
+            "longitude": -49.216117,
+            "ordem": 136
+        },
+        {
+            "idcoordenadapercurso": 5311500,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430012,
+            "longitude": -49.215385,
+            "ordem": 137
+        },
+        {
+            "idcoordenadapercurso": 5311501,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430896,
+            "longitude": -49.215811,
+            "ordem": 138
+        },
+        {
+            "idcoordenadapercurso": 5311502,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.431034,
+            "longitude": -49.214818,
+            "ordem": 139
+        },
+        {
+            "idcoordenadapercurso": 5311503,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.431193,
+            "longitude": -49.213849,
+            "ordem": 140
+        },
+        {
+            "idcoordenadapercurso": 5311504,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430451,
+            "longitude": -49.213476,
+            "ordem": 141
+        },
+        {
+            "idcoordenadapercurso": 5311505,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430319,
+            "longitude": -49.213473,
+            "ordem": 142
+        },
+        {
+            "idcoordenadapercurso": 5311506,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.430073,
+            "longitude": -49.213464,
+            "ordem": 143
+        },
+        {
+            "idcoordenadapercurso": 5311507,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.428995,
+            "longitude": -49.213888,
+            "ordem": 144
+        },
+        {
+            "idcoordenadapercurso": 5311508,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427863,
+            "longitude": -49.214330,
+            "ordem": 145
+        },
+        {
+            "idcoordenadapercurso": 5311509,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427187,
+            "longitude": -49.212300,
+            "ordem": 146
+        },
+        {
+            "idcoordenadapercurso": 5311510,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.426823,
+            "longitude": -49.211177,
+            "ordem": 147
+        },
+        {
+            "idcoordenadapercurso": 5311511,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.426689,
+            "longitude": -49.210782,
+            "ordem": 148
+        },
+        {
+            "idcoordenadapercurso": 5311512,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.426537,
+            "longitude": -49.210184,
+            "ordem": 149
+        },
+        {
+            "idcoordenadapercurso": 5311513,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.426078,
+            "longitude": -49.208833,
+            "ordem": 150
+        },
+        {
+            "idcoordenadapercurso": 5311514,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.425909,
+            "longitude": -49.208309,
+            "ordem": 151
+        },
+        {
+            "idcoordenadapercurso": 5311515,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.425763,
+            "longitude": -49.207854,
+            "ordem": 152
+        },
+        {
+            "idcoordenadapercurso": 5311516,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.425613,
+            "longitude": -49.207429,
+            "ordem": 153
+        },
+        {
+            "idcoordenadapercurso": 5311517,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.425466,
+            "longitude": -49.207010,
+            "ordem": 154
+        },
+        {
+            "idcoordenadapercurso": 5311518,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.424924,
+            "longitude": -49.205585,
+            "ordem": 155
+        },
+        {
+            "idcoordenadapercurso": 5311519,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.426255,
+            "longitude": -49.204978,
+            "ordem": 156
+        },
+        {
+            "idcoordenadapercurso": 5311520,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.426980,
+            "longitude": -49.204690,
+            "ordem": 157
+        },
+        {
+            "idcoordenadapercurso": 5311521,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427522,
+            "longitude": -49.204467,
+            "ordem": 158
+        },
+        {
+            "idcoordenadapercurso": 5311522,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427572,
+            "longitude": -49.204473,
+            "ordem": 159
+        },
+        {
+            "idcoordenadapercurso": 5311523,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427615,
+            "longitude": -49.204499,
+            "ordem": 160
+        },
+        {
+            "idcoordenadapercurso": 5311524,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427666,
+            "longitude": -49.204465,
+            "ordem": 161
+        },
+        {
+            "idcoordenadapercurso": 5311525,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427675,
+            "longitude": -49.204396,
+            "ordem": 162
+        },
+        {
+            "idcoordenadapercurso": 5311526,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427587,
+            "longitude": -49.204350,
+            "ordem": 163
+        },
+        {
+            "idcoordenadapercurso": 5311527,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427559,
+            "longitude": -49.204273,
+            "ordem": 164
+        },
+        {
+            "idcoordenadapercurso": 5311528,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427442,
+            "longitude": -49.203928,
+            "ordem": 165
+        },
+        {
+            "idcoordenadapercurso": 5311529,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427182,
+            "longitude": -49.203202,
+            "ordem": 166
+        },
+        {
+            "idcoordenadapercurso": 5311530,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.427067,
+            "longitude": -49.202917,
+            "ordem": 167
+        },
+        {
+            "idcoordenadapercurso": 5311531,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.426969,
+            "longitude": -49.202677,
+            "ordem": 168
+        },
+        {
+            "idcoordenadapercurso": 5311532,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.426881,
+            "longitude": -49.202522,
+            "ordem": 169
+        },
+        {
+            "idcoordenadapercurso": 5311533,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.426702,
+            "longitude": -49.202204,
+            "ordem": 170
+        },
+        {
+            "idcoordenadapercurso": 5311534,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.425864,
+            "longitude": -49.202587,
+            "ordem": 171
+        },
+        {
+            "idcoordenadapercurso": 5311535,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.425525,
+            "longitude": -49.202740,
+            "ordem": 172
+        },
+        {
+            "idcoordenadapercurso": 5311536,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.425218,
+            "longitude": -49.202879,
+            "ordem": 173
+        },
+        {
+            "idcoordenadapercurso": 5311537,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.425018,
+            "longitude": -49.202965,
+            "ordem": 174
+        },
+        {
+            "idcoordenadapercurso": 5311538,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.424596,
+            "longitude": -49.203150,
+            "ordem": 175
+        },
+        {
+            "idcoordenadapercurso": 5311539,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.424459,
+            "longitude": -49.203225,
+            "ordem": 176
+        },
+        {
+            "idcoordenadapercurso": 5311540,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.424103,
+            "longitude": -49.203392,
+            "ordem": 177
+        },
+        {
+            "idcoordenadapercurso": 5311541,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.424004,
+            "longitude": -49.203157,
+            "ordem": 178
+        },
+        {
+            "idcoordenadapercurso": 5311542,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.423901,
+            "longitude": -49.202935,
+            "ordem": 179
+        },
+        {
+            "idcoordenadapercurso": 5311543,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.423618,
+            "longitude": -49.202333,
+            "ordem": 180
+        },
+        {
+            "idcoordenadapercurso": 5311544,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.423400,
+            "longitude": -49.201774,
+            "ordem": 181
+        },
+        {
+            "idcoordenadapercurso": 5311545,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.423179,
+            "longitude": -49.201218,
+            "ordem": 182
+        },
+        {
+            "idcoordenadapercurso": 5311546,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.423012,
+            "longitude": -49.200757,
+            "ordem": 183
+        },
+        {
+            "idcoordenadapercurso": 5311547,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.422883,
+            "longitude": -49.200427,
+            "ordem": 184
+        },
+        {
+            "idcoordenadapercurso": 5311548,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.422772,
+            "longitude": -49.200148,
+            "ordem": 185
+        },
+        {
+            "idcoordenadapercurso": 5311549,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.422592,
+            "longitude": -49.199692,
+            "ordem": 186
+        },
+        {
+            "idcoordenadapercurso": 5311550,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.422487,
+            "longitude": -49.199429,
+            "ordem": 187
+        },
+        {
+            "idcoordenadapercurso": 5311551,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.422412,
+            "longitude": -49.199239,
+            "ordem": 188
+        },
+        {
+            "idcoordenadapercurso": 5311552,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.422338,
+            "longitude": -49.199059,
+            "ordem": 189
+        },
+        {
+            "idcoordenadapercurso": 5311553,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.421686,
+            "longitude": -49.199368,
+            "ordem": 190
+        },
+        {
+            "idcoordenadapercurso": 5311554,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.421305,
+            "longitude": -49.199545,
+            "ordem": 191
+        },
+        {
+            "idcoordenadapercurso": 5311555,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.421027,
+            "longitude": -49.199676,
+            "ordem": 192
+        },
+        {
+            "idcoordenadapercurso": 5311556,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.420685,
+            "longitude": -49.199831,
+            "ordem": 193
+        },
+        {
+            "idcoordenadapercurso": 5311557,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.420358,
+            "longitude": -49.199979,
+            "ordem": 194
+        },
+        {
+            "idcoordenadapercurso": 5311558,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.419991,
+            "longitude": -49.200146,
+            "ordem": 195
+        },
+        {
+            "idcoordenadapercurso": 5311559,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.419683,
+            "longitude": -49.200285,
+            "ordem": 196
+        },
+        {
+            "idcoordenadapercurso": 5311560,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.419382,
+            "longitude": -49.200431,
+            "ordem": 197
+        },
+        {
+            "idcoordenadapercurso": 5311561,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.418575,
+            "longitude": -49.200818,
+            "ordem": 198
+        },
+        {
+            "idcoordenadapercurso": 5311562,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.418310,
+            "longitude": -49.200944,
+            "ordem": 199
+        },
+        {
+            "idcoordenadapercurso": 5311563,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.418049,
+            "longitude": -49.201073,
+            "ordem": 200
+        },
+        {
+            "idcoordenadapercurso": 5311564,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.417748,
+            "longitude": -49.201222,
+            "ordem": 201
+        },
+        {
+            "idcoordenadapercurso": 5311565,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.417340,
+            "longitude": -49.201427,
+            "ordem": 202
+        },
+        {
+            "idcoordenadapercurso": 5311566,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.417025,
+            "longitude": -49.201586,
+            "ordem": 203
+        },
+        {
+            "idcoordenadapercurso": 5311567,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.416627,
+            "longitude": -49.201774,
+            "ordem": 204
+        },
+        {
+            "idcoordenadapercurso": 5311568,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.416419,
+            "longitude": -49.201872,
+            "ordem": 205
+        },
+        {
+            "idcoordenadapercurso": 5311569,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.416064,
+            "longitude": -49.202037,
+            "ordem": 206
+        },
+        {
+            "idcoordenadapercurso": 5311570,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.415692,
+            "longitude": -49.202210,
+            "ordem": 207
+        },
+        {
+            "idcoordenadapercurso": 5311571,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.415402,
+            "longitude": -49.202345,
+            "ordem": 208
+        },
+        {
+            "idcoordenadapercurso": 5311572,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.414703,
+            "longitude": -49.202667,
+            "ordem": 209
+        },
+        {
+            "idcoordenadapercurso": 5311573,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.414373,
+            "longitude": -49.202821,
+            "ordem": 210
+        },
+        {
+            "idcoordenadapercurso": 5311574,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.413690,
+            "longitude": -49.203151,
+            "ordem": 211
+        },
+        {
+            "idcoordenadapercurso": 5311575,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.413502,
+            "longitude": -49.203242,
+            "ordem": 212
+        },
+        {
+            "idcoordenadapercurso": 5311576,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.412986,
+            "longitude": -49.203490,
+            "ordem": 213
+        },
+        {
+            "idcoordenadapercurso": 5311577,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.413181,
+            "longitude": -49.203993,
+            "ordem": 214
+        },
+        {
+            "idcoordenadapercurso": 5311578,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.413410,
+            "longitude": -49.204588,
+            "ordem": 215
+        },
+        {
+            "idcoordenadapercurso": 5311579,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.413132,
+            "longitude": -49.204716,
+            "ordem": 216
+        },
+        {
+            "idcoordenadapercurso": 5311580,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.412957,
+            "longitude": -49.204796,
+            "ordem": 217
+        },
+        {
+            "idcoordenadapercurso": 5311581,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.412830,
+            "longitude": -49.204857,
+            "ordem": 218
+        },
+        {
+            "idcoordenadapercurso": 5311582,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.412926,
+            "longitude": -49.205107,
+            "ordem": 219
+        },
+        {
+            "idcoordenadapercurso": 5311583,
+            "idpercurso": 18005,
+            "descricaoPercurso": "372_Tarumã_002_Sentido Bairro Alto",
+            "latitude": -25.413009,
+            "longitude": -49.205325,
+            "ordem": 220
+        }
+    ]
+}

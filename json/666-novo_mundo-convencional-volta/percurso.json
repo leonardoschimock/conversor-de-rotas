@@ -1,0 +1,2389 @@
+{
+    "status": "success",
+    "coordenadasPercurso": [
+        {
+            "idcoordenadapercurso": 5096470,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.435827,
+            "longitude": -49.274537,
+            "ordem": 1
+        },
+        {
+            "idcoordenadapercurso": 5096471,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.435642,
+            "longitude": -49.274251,
+            "ordem": 2
+        },
+        {
+            "idcoordenadapercurso": 5096472,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.435492,
+            "longitude": -49.274011,
+            "ordem": 3
+        },
+        {
+            "idcoordenadapercurso": 5096473,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.435424,
+            "longitude": -49.273896,
+            "ordem": 4
+        },
+        {
+            "idcoordenadapercurso": 5096474,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.435366,
+            "longitude": -49.273802,
+            "ordem": 5
+        },
+        {
+            "idcoordenadapercurso": 5096475,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.435244,
+            "longitude": -49.273485,
+            "ordem": 6
+        },
+        {
+            "idcoordenadapercurso": 5096476,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.435030,
+            "longitude": -49.272971,
+            "ordem": 7
+        },
+        {
+            "idcoordenadapercurso": 5096477,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.434795,
+            "longitude": -49.272374,
+            "ordem": 8
+        },
+        {
+            "idcoordenadapercurso": 5096478,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.434706,
+            "longitude": -49.272147,
+            "ordem": 9
+        },
+        {
+            "idcoordenadapercurso": 5096479,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.434643,
+            "longitude": -49.271980,
+            "ordem": 10
+        },
+        {
+            "idcoordenadapercurso": 5096480,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.434970,
+            "longitude": -49.271843,
+            "ordem": 11
+        },
+        {
+            "idcoordenadapercurso": 5096481,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.435217,
+            "longitude": -49.271737,
+            "ordem": 12
+        },
+        {
+            "idcoordenadapercurso": 5096482,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.435767,
+            "longitude": -49.271460,
+            "ordem": 13
+        },
+        {
+            "idcoordenadapercurso": 5096483,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.435885,
+            "longitude": -49.271396,
+            "ordem": 14
+        },
+        {
+            "idcoordenadapercurso": 5096484,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.436068,
+            "longitude": -49.271314,
+            "ordem": 15
+        },
+        {
+            "idcoordenadapercurso": 5096485,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.436464,
+            "longitude": -49.271138,
+            "ordem": 16
+        },
+        {
+            "idcoordenadapercurso": 5096486,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.436695,
+            "longitude": -49.271034,
+            "ordem": 17
+        },
+        {
+            "idcoordenadapercurso": 5096487,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.437138,
+            "longitude": -49.270825,
+            "ordem": 18
+        },
+        {
+            "idcoordenadapercurso": 5096488,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.437502,
+            "longitude": -49.270652,
+            "ordem": 19
+        },
+        {
+            "idcoordenadapercurso": 5096489,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.437608,
+            "longitude": -49.270594,
+            "ordem": 20
+        },
+        {
+            "idcoordenadapercurso": 5096490,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.437733,
+            "longitude": -49.270921,
+            "ordem": 21
+        },
+        {
+            "idcoordenadapercurso": 5096491,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.437970,
+            "longitude": -49.271551,
+            "ordem": 22
+        },
+        {
+            "idcoordenadapercurso": 5096492,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.438086,
+            "longitude": -49.271832,
+            "ordem": 23
+        },
+        {
+            "idcoordenadapercurso": 5096493,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.438225,
+            "longitude": -49.272179,
+            "ordem": 24
+        },
+        {
+            "idcoordenadapercurso": 5096494,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.438328,
+            "longitude": -49.272430,
+            "ordem": 25
+        },
+        {
+            "idcoordenadapercurso": 5096495,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.438413,
+            "longitude": -49.272636,
+            "ordem": 26
+        },
+        {
+            "idcoordenadapercurso": 5096496,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.438552,
+            "longitude": -49.272997,
+            "ordem": 27
+        },
+        {
+            "idcoordenadapercurso": 5096497,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.438634,
+            "longitude": -49.273213,
+            "ordem": 28
+        },
+        {
+            "idcoordenadapercurso": 5096498,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.438802,
+            "longitude": -49.273638,
+            "ordem": 29
+        },
+        {
+            "idcoordenadapercurso": 5096499,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.438910,
+            "longitude": -49.273563,
+            "ordem": 30
+        },
+        {
+            "idcoordenadapercurso": 5096500,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.439068,
+            "longitude": -49.273484,
+            "ordem": 31
+        },
+        {
+            "idcoordenadapercurso": 5096501,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.439336,
+            "longitude": -49.273347,
+            "ordem": 32
+        },
+        {
+            "idcoordenadapercurso": 5096502,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.439598,
+            "longitude": -49.273216,
+            "ordem": 33
+        },
+        {
+            "idcoordenadapercurso": 5096503,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.439821,
+            "longitude": -49.273106,
+            "ordem": 34
+        },
+        {
+            "idcoordenadapercurso": 5096504,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.439982,
+            "longitude": -49.273024,
+            "ordem": 35
+        },
+        {
+            "idcoordenadapercurso": 5096505,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.440137,
+            "longitude": -49.272947,
+            "ordem": 36
+        },
+        {
+            "idcoordenadapercurso": 5096506,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.440319,
+            "longitude": -49.272859,
+            "ordem": 37
+        },
+        {
+            "idcoordenadapercurso": 5096507,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.440513,
+            "longitude": -49.272764,
+            "ordem": 38
+        },
+        {
+            "idcoordenadapercurso": 5096508,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.440662,
+            "longitude": -49.272690,
+            "ordem": 39
+        },
+        {
+            "idcoordenadapercurso": 5096509,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.440812,
+            "longitude": -49.272616,
+            "ordem": 40
+        },
+        {
+            "idcoordenadapercurso": 5096510,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.441470,
+            "longitude": -49.272292,
+            "ordem": 41
+        },
+        {
+            "idcoordenadapercurso": 5096511,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.441578,
+            "longitude": -49.272236,
+            "ordem": 42
+        },
+        {
+            "idcoordenadapercurso": 5096512,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.441972,
+            "longitude": -49.272050,
+            "ordem": 43
+        },
+        {
+            "idcoordenadapercurso": 5096513,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.442513,
+            "longitude": -49.271794,
+            "ordem": 44
+        },
+        {
+            "idcoordenadapercurso": 5096514,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.442740,
+            "longitude": -49.271685,
+            "ordem": 45
+        },
+        {
+            "idcoordenadapercurso": 5096515,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.442984,
+            "longitude": -49.271556,
+            "ordem": 46
+        },
+        {
+            "idcoordenadapercurso": 5096516,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.443096,
+            "longitude": -49.271503,
+            "ordem": 47
+        },
+        {
+            "idcoordenadapercurso": 5096517,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.443296,
+            "longitude": -49.271407,
+            "ordem": 48
+        },
+        {
+            "idcoordenadapercurso": 5096518,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.443492,
+            "longitude": -49.271311,
+            "ordem": 49
+        },
+        {
+            "idcoordenadapercurso": 5096519,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.443802,
+            "longitude": -49.271164,
+            "ordem": 50
+        },
+        {
+            "idcoordenadapercurso": 5096520,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.444071,
+            "longitude": -49.271029,
+            "ordem": 51
+        },
+        {
+            "idcoordenadapercurso": 5096521,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.444354,
+            "longitude": -49.270893,
+            "ordem": 52
+        },
+        {
+            "idcoordenadapercurso": 5096522,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.444540,
+            "longitude": -49.270802,
+            "ordem": 53
+        },
+        {
+            "idcoordenadapercurso": 5096523,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.445014,
+            "longitude": -49.270581,
+            "ordem": 54
+        },
+        {
+            "idcoordenadapercurso": 5096524,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.445367,
+            "longitude": -49.270414,
+            "ordem": 55
+        },
+        {
+            "idcoordenadapercurso": 5096525,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.445708,
+            "longitude": -49.270254,
+            "ordem": 56
+        },
+        {
+            "idcoordenadapercurso": 5096526,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.445941,
+            "longitude": -49.270146,
+            "ordem": 57
+        },
+        {
+            "idcoordenadapercurso": 5096527,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.446215,
+            "longitude": -49.270006,
+            "ordem": 58
+        },
+        {
+            "idcoordenadapercurso": 5096528,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.446455,
+            "longitude": -49.269884,
+            "ordem": 59
+        },
+        {
+            "idcoordenadapercurso": 5096529,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.446868,
+            "longitude": -49.269675,
+            "ordem": 60
+        },
+        {
+            "idcoordenadapercurso": 5096530,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.447242,
+            "longitude": -49.269484,
+            "ordem": 61
+        },
+        {
+            "idcoordenadapercurso": 5096531,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.447522,
+            "longitude": -49.269346,
+            "ordem": 62
+        },
+        {
+            "idcoordenadapercurso": 5096532,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.447848,
+            "longitude": -49.269189,
+            "ordem": 63
+        },
+        {
+            "idcoordenadapercurso": 5096533,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.448086,
+            "longitude": -49.269071,
+            "ordem": 64
+        },
+        {
+            "idcoordenadapercurso": 5096534,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.448568,
+            "longitude": -49.268836,
+            "ordem": 65
+        },
+        {
+            "idcoordenadapercurso": 5096535,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.448902,
+            "longitude": -49.268655,
+            "ordem": 66
+        },
+        {
+            "idcoordenadapercurso": 5096536,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.449190,
+            "longitude": -49.268501,
+            "ordem": 67
+        },
+        {
+            "idcoordenadapercurso": 5096537,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.449409,
+            "longitude": -49.268384,
+            "ordem": 68
+        },
+        {
+            "idcoordenadapercurso": 5096538,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.449720,
+            "longitude": -49.268217,
+            "ordem": 69
+        },
+        {
+            "idcoordenadapercurso": 5096539,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.449960,
+            "longitude": -49.268105,
+            "ordem": 70
+        },
+        {
+            "idcoordenadapercurso": 5096540,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.450183,
+            "longitude": -49.268000,
+            "ordem": 71
+        },
+        {
+            "idcoordenadapercurso": 5096541,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.450539,
+            "longitude": -49.267837,
+            "ordem": 72
+        },
+        {
+            "idcoordenadapercurso": 5096542,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.450997,
+            "longitude": -49.267623,
+            "ordem": 73
+        },
+        {
+            "idcoordenadapercurso": 5096543,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.451456,
+            "longitude": -49.267408,
+            "ordem": 74
+        },
+        {
+            "idcoordenadapercurso": 5096544,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.451737,
+            "longitude": -49.267268,
+            "ordem": 75
+        },
+        {
+            "idcoordenadapercurso": 5096545,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.452138,
+            "longitude": -49.267067,
+            "ordem": 76
+        },
+        {
+            "idcoordenadapercurso": 5096546,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.452391,
+            "longitude": -49.266943,
+            "ordem": 77
+        },
+        {
+            "idcoordenadapercurso": 5096547,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.452584,
+            "longitude": -49.266843,
+            "ordem": 78
+        },
+        {
+            "idcoordenadapercurso": 5096548,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.452924,
+            "longitude": -49.266682,
+            "ordem": 79
+        },
+        {
+            "idcoordenadapercurso": 5096549,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.453239,
+            "longitude": -49.266530,
+            "ordem": 80
+        },
+        {
+            "idcoordenadapercurso": 5096550,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.453474,
+            "longitude": -49.266417,
+            "ordem": 81
+        },
+        {
+            "idcoordenadapercurso": 5096551,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.453683,
+            "longitude": -49.266315,
+            "ordem": 82
+        },
+        {
+            "idcoordenadapercurso": 5096552,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.454106,
+            "longitude": -49.266112,
+            "ordem": 83
+        },
+        {
+            "idcoordenadapercurso": 5096553,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.454210,
+            "longitude": -49.266237,
+            "ordem": 84
+        },
+        {
+            "idcoordenadapercurso": 5096554,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.454388,
+            "longitude": -49.266448,
+            "ordem": 85
+        },
+        {
+            "idcoordenadapercurso": 5096555,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.454772,
+            "longitude": -49.266880,
+            "ordem": 86
+        },
+        {
+            "idcoordenadapercurso": 5096556,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.454991,
+            "longitude": -49.267126,
+            "ordem": 87
+        },
+        {
+            "idcoordenadapercurso": 5096557,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.455162,
+            "longitude": -49.267317,
+            "ordem": 88
+        },
+        {
+            "idcoordenadapercurso": 5096558,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.455431,
+            "longitude": -49.267613,
+            "ordem": 89
+        },
+        {
+            "idcoordenadapercurso": 5096559,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.455739,
+            "longitude": -49.267955,
+            "ordem": 90
+        },
+        {
+            "idcoordenadapercurso": 5096560,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.456060,
+            "longitude": -49.268313,
+            "ordem": 91
+        },
+        {
+            "idcoordenadapercurso": 5096561,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.456289,
+            "longitude": -49.268569,
+            "ordem": 92
+        },
+        {
+            "idcoordenadapercurso": 5096562,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.456552,
+            "longitude": -49.268859,
+            "ordem": 93
+        },
+        {
+            "idcoordenadapercurso": 5096563,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.456765,
+            "longitude": -49.269095,
+            "ordem": 94
+        },
+        {
+            "idcoordenadapercurso": 5096564,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.456979,
+            "longitude": -49.269326,
+            "ordem": 95
+        },
+        {
+            "idcoordenadapercurso": 5096565,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.457231,
+            "longitude": -49.269608,
+            "ordem": 96
+        },
+        {
+            "idcoordenadapercurso": 5096566,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.457521,
+            "longitude": -49.269932,
+            "ordem": 97
+        },
+        {
+            "idcoordenadapercurso": 5096567,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.457658,
+            "longitude": -49.270083,
+            "ordem": 98
+        },
+        {
+            "idcoordenadapercurso": 5096568,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.457790,
+            "longitude": -49.270230,
+            "ordem": 99
+        },
+        {
+            "idcoordenadapercurso": 5096569,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.457934,
+            "longitude": -49.270386,
+            "ordem": 100
+        },
+        {
+            "idcoordenadapercurso": 5096570,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.458074,
+            "longitude": -49.270544,
+            "ordem": 101
+        },
+        {
+            "idcoordenadapercurso": 5096571,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.458329,
+            "longitude": -49.270824,
+            "ordem": 102
+        },
+        {
+            "idcoordenadapercurso": 5096572,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.458520,
+            "longitude": -49.271038,
+            "ordem": 103
+        },
+        {
+            "idcoordenadapercurso": 5096573,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.458699,
+            "longitude": -49.271233,
+            "ordem": 104
+        },
+        {
+            "idcoordenadapercurso": 5096574,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.458776,
+            "longitude": -49.271321,
+            "ordem": 105
+        },
+        {
+            "idcoordenadapercurso": 5096575,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.458860,
+            "longitude": -49.271414,
+            "ordem": 106
+        },
+        {
+            "idcoordenadapercurso": 5096576,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.459369,
+            "longitude": -49.271981,
+            "ordem": 107
+        },
+        {
+            "idcoordenadapercurso": 5096577,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.459638,
+            "longitude": -49.272278,
+            "ordem": 108
+        },
+        {
+            "idcoordenadapercurso": 5096578,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.459951,
+            "longitude": -49.272621,
+            "ordem": 109
+        },
+        {
+            "idcoordenadapercurso": 5096579,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.460211,
+            "longitude": -49.272907,
+            "ordem": 110
+        },
+        {
+            "idcoordenadapercurso": 5096580,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.460449,
+            "longitude": -49.273172,
+            "ordem": 111
+        },
+        {
+            "idcoordenadapercurso": 5096581,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.460579,
+            "longitude": -49.273318,
+            "ordem": 112
+        },
+        {
+            "idcoordenadapercurso": 5096582,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.460730,
+            "longitude": -49.273487,
+            "ordem": 113
+        },
+        {
+            "idcoordenadapercurso": 5096583,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.460939,
+            "longitude": -49.273718,
+            "ordem": 114
+        },
+        {
+            "idcoordenadapercurso": 5096584,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.461140,
+            "longitude": -49.273936,
+            "ordem": 115
+        },
+        {
+            "idcoordenadapercurso": 5096585,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.461443,
+            "longitude": -49.274266,
+            "ordem": 116
+        },
+        {
+            "idcoordenadapercurso": 5096586,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.461565,
+            "longitude": -49.274403,
+            "ordem": 117
+        },
+        {
+            "idcoordenadapercurso": 5096587,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.461881,
+            "longitude": -49.274756,
+            "ordem": 118
+        },
+        {
+            "idcoordenadapercurso": 5096588,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.462145,
+            "longitude": -49.275050,
+            "ordem": 119
+        },
+        {
+            "idcoordenadapercurso": 5096589,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.462297,
+            "longitude": -49.275041,
+            "ordem": 120
+        },
+        {
+            "idcoordenadapercurso": 5096590,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.462654,
+            "longitude": -49.274875,
+            "ordem": 121
+        },
+        {
+            "idcoordenadapercurso": 5096591,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.463155,
+            "longitude": -49.274644,
+            "ordem": 122
+        },
+        {
+            "idcoordenadapercurso": 5096592,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.463249,
+            "longitude": -49.274598,
+            "ordem": 123
+        },
+        {
+            "idcoordenadapercurso": 5096593,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.463592,
+            "longitude": -49.274443,
+            "ordem": 124
+        },
+        {
+            "idcoordenadapercurso": 5096594,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.464219,
+            "longitude": -49.274153,
+            "ordem": 125
+        },
+        {
+            "idcoordenadapercurso": 5096595,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.464814,
+            "longitude": -49.273873,
+            "ordem": 126
+        },
+        {
+            "idcoordenadapercurso": 5096596,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.465205,
+            "longitude": -49.273689,
+            "ordem": 127
+        },
+        {
+            "idcoordenadapercurso": 5096597,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.465460,
+            "longitude": -49.273575,
+            "ordem": 128
+        },
+        {
+            "idcoordenadapercurso": 5096598,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.465771,
+            "longitude": -49.273438,
+            "ordem": 129
+        },
+        {
+            "idcoordenadapercurso": 5096599,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.466023,
+            "longitude": -49.273320,
+            "ordem": 130
+        },
+        {
+            "idcoordenadapercurso": 5096600,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.466192,
+            "longitude": -49.273243,
+            "ordem": 131
+        },
+        {
+            "idcoordenadapercurso": 5096601,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.466471,
+            "longitude": -49.273115,
+            "ordem": 132
+        },
+        {
+            "idcoordenadapercurso": 5096602,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.466958,
+            "longitude": -49.272887,
+            "ordem": 133
+        },
+        {
+            "idcoordenadapercurso": 5096603,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.467131,
+            "longitude": -49.272808,
+            "ordem": 134
+        },
+        {
+            "idcoordenadapercurso": 5096604,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.467305,
+            "longitude": -49.272731,
+            "ordem": 135
+        },
+        {
+            "idcoordenadapercurso": 5096605,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.467754,
+            "longitude": -49.272532,
+            "ordem": 136
+        },
+        {
+            "idcoordenadapercurso": 5096606,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.468108,
+            "longitude": -49.272373,
+            "ordem": 137
+        },
+        {
+            "idcoordenadapercurso": 5096607,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.468450,
+            "longitude": -49.272210,
+            "ordem": 138
+        },
+        {
+            "idcoordenadapercurso": 5096608,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.468616,
+            "longitude": -49.272131,
+            "ordem": 139
+        },
+        {
+            "idcoordenadapercurso": 5096609,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.468717,
+            "longitude": -49.272084,
+            "ordem": 140
+        },
+        {
+            "idcoordenadapercurso": 5096610,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.468922,
+            "longitude": -49.271991,
+            "ordem": 141
+        },
+        {
+            "idcoordenadapercurso": 5096611,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469119,
+            "longitude": -49.271904,
+            "ordem": 142
+        },
+        {
+            "idcoordenadapercurso": 5096612,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469350,
+            "longitude": -49.271798,
+            "ordem": 143
+        },
+        {
+            "idcoordenadapercurso": 5096613,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469538,
+            "longitude": -49.271714,
+            "ordem": 144
+        },
+        {
+            "idcoordenadapercurso": 5096614,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469548,
+            "longitude": -49.271728,
+            "ordem": 145
+        },
+        {
+            "idcoordenadapercurso": 5096615,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469560,
+            "longitude": -49.271740,
+            "ordem": 146
+        },
+        {
+            "idcoordenadapercurso": 5096616,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469573,
+            "longitude": -49.271748,
+            "ordem": 147
+        },
+        {
+            "idcoordenadapercurso": 5096617,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469593,
+            "longitude": -49.271755,
+            "ordem": 148
+        },
+        {
+            "idcoordenadapercurso": 5096618,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469621,
+            "longitude": -49.271748,
+            "ordem": 149
+        },
+        {
+            "idcoordenadapercurso": 5096619,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469625,
+            "longitude": -49.271758,
+            "ordem": 150
+        },
+        {
+            "idcoordenadapercurso": 5096620,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469697,
+            "longitude": -49.271949,
+            "ordem": 151
+        },
+        {
+            "idcoordenadapercurso": 5096621,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469787,
+            "longitude": -49.272189,
+            "ordem": 152
+        },
+        {
+            "idcoordenadapercurso": 5096622,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.469916,
+            "longitude": -49.272530,
+            "ordem": 153
+        },
+        {
+            "idcoordenadapercurso": 5096623,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.470107,
+            "longitude": -49.273037,
+            "ordem": 154
+        },
+        {
+            "idcoordenadapercurso": 5096624,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.470396,
+            "longitude": -49.273784,
+            "ordem": 155
+        },
+        {
+            "idcoordenadapercurso": 5096625,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.470606,
+            "longitude": -49.274335,
+            "ordem": 156
+        },
+        {
+            "idcoordenadapercurso": 5096626,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.470810,
+            "longitude": -49.274864,
+            "ordem": 157
+        },
+        {
+            "idcoordenadapercurso": 5096627,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.471113,
+            "longitude": -49.275656,
+            "ordem": 158
+        },
+        {
+            "idcoordenadapercurso": 5096628,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.471262,
+            "longitude": -49.276038,
+            "ordem": 159
+        },
+        {
+            "idcoordenadapercurso": 5096629,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.471479,
+            "longitude": -49.276606,
+            "ordem": 160
+        },
+        {
+            "idcoordenadapercurso": 5096630,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.471618,
+            "longitude": -49.276967,
+            "ordem": 161
+        },
+        {
+            "idcoordenadapercurso": 5096631,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.471833,
+            "longitude": -49.277531,
+            "ordem": 162
+        },
+        {
+            "idcoordenadapercurso": 5096632,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.471954,
+            "longitude": -49.277844,
+            "ordem": 163
+        },
+        {
+            "idcoordenadapercurso": 5096633,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.472135,
+            "longitude": -49.278319,
+            "ordem": 164
+        },
+        {
+            "idcoordenadapercurso": 5096634,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.472281,
+            "longitude": -49.278704,
+            "ordem": 165
+        },
+        {
+            "idcoordenadapercurso": 5096635,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.472517,
+            "longitude": -49.279322,
+            "ordem": 166
+        },
+        {
+            "idcoordenadapercurso": 5096636,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.472642,
+            "longitude": -49.279648,
+            "ordem": 167
+        },
+        {
+            "idcoordenadapercurso": 5096637,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.472796,
+            "longitude": -49.280044,
+            "ordem": 168
+        },
+        {
+            "idcoordenadapercurso": 5096638,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.472961,
+            "longitude": -49.280468,
+            "ordem": 169
+        },
+        {
+            "idcoordenadapercurso": 5096639,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.473164,
+            "longitude": -49.280991,
+            "ordem": 170
+        },
+        {
+            "idcoordenadapercurso": 5096640,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.473278,
+            "longitude": -49.281293,
+            "ordem": 171
+        },
+        {
+            "idcoordenadapercurso": 5096641,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.473463,
+            "longitude": -49.281783,
+            "ordem": 172
+        },
+        {
+            "idcoordenadapercurso": 5096642,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.473667,
+            "longitude": -49.282330,
+            "ordem": 173
+        },
+        {
+            "idcoordenadapercurso": 5096643,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.473797,
+            "longitude": -49.282666,
+            "ordem": 174
+        },
+        {
+            "idcoordenadapercurso": 5096644,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.473918,
+            "longitude": -49.282972,
+            "ordem": 175
+        },
+        {
+            "idcoordenadapercurso": 5096645,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.474041,
+            "longitude": -49.283280,
+            "ordem": 176
+        },
+        {
+            "idcoordenadapercurso": 5096646,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.474183,
+            "longitude": -49.283642,
+            "ordem": 177
+        },
+        {
+            "idcoordenadapercurso": 5096647,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.474278,
+            "longitude": -49.283895,
+            "ordem": 178
+        },
+        {
+            "idcoordenadapercurso": 5096648,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.474383,
+            "longitude": -49.284175,
+            "ordem": 179
+        },
+        {
+            "idcoordenadapercurso": 5096649,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.474537,
+            "longitude": -49.284586,
+            "ordem": 180
+        },
+        {
+            "idcoordenadapercurso": 5096650,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.474693,
+            "longitude": -49.285007,
+            "ordem": 181
+        },
+        {
+            "idcoordenadapercurso": 5096651,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.474801,
+            "longitude": -49.285297,
+            "ordem": 182
+        },
+        {
+            "idcoordenadapercurso": 5096652,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.474964,
+            "longitude": -49.285732,
+            "ordem": 183
+        },
+        {
+            "idcoordenadapercurso": 5096653,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.475085,
+            "longitude": -49.286058,
+            "ordem": 184
+        },
+        {
+            "idcoordenadapercurso": 5096654,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.475521,
+            "longitude": -49.287228,
+            "ordem": 185
+        },
+        {
+            "idcoordenadapercurso": 5096655,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.475713,
+            "longitude": -49.287746,
+            "ordem": 186
+        },
+        {
+            "idcoordenadapercurso": 5096656,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.476252,
+            "longitude": -49.287467,
+            "ordem": 187
+        },
+        {
+            "idcoordenadapercurso": 5096657,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.476308,
+            "longitude": -49.287420,
+            "ordem": 188
+        },
+        {
+            "idcoordenadapercurso": 5096658,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.476356,
+            "longitude": -49.287368,
+            "ordem": 189
+        },
+        {
+            "idcoordenadapercurso": 5096659,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.476480,
+            "longitude": -49.287216,
+            "ordem": 190
+        },
+        {
+            "idcoordenadapercurso": 5096660,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.476553,
+            "longitude": -49.287129,
+            "ordem": 191
+        },
+        {
+            "idcoordenadapercurso": 5096661,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.476596,
+            "longitude": -49.287094,
+            "ordem": 192
+        },
+        {
+            "idcoordenadapercurso": 5096662,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.476670,
+            "longitude": -49.287038,
+            "ordem": 193
+        },
+        {
+            "idcoordenadapercurso": 5096663,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.476707,
+            "longitude": -49.287010,
+            "ordem": 194
+        },
+        {
+            "idcoordenadapercurso": 5096664,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.476911,
+            "longitude": -49.286904,
+            "ordem": 195
+        },
+        {
+            "idcoordenadapercurso": 5096665,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.477179,
+            "longitude": -49.286761,
+            "ordem": 196
+        },
+        {
+            "idcoordenadapercurso": 5096666,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.477423,
+            "longitude": -49.286632,
+            "ordem": 197
+        },
+        {
+            "idcoordenadapercurso": 5096667,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.477558,
+            "longitude": -49.286620,
+            "ordem": 198
+        },
+        {
+            "idcoordenadapercurso": 5096668,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.477689,
+            "longitude": -49.286616,
+            "ordem": 199
+        },
+        {
+            "idcoordenadapercurso": 5096669,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.477753,
+            "longitude": -49.286623,
+            "ordem": 200
+        },
+        {
+            "idcoordenadapercurso": 5096670,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.477786,
+            "longitude": -49.286753,
+            "ordem": 201
+        },
+        {
+            "idcoordenadapercurso": 5096671,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.477805,
+            "longitude": -49.286840,
+            "ordem": 202
+        },
+        {
+            "idcoordenadapercurso": 5096672,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.477804,
+            "longitude": -49.286894,
+            "ordem": 203
+        },
+        {
+            "idcoordenadapercurso": 5096673,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.477914,
+            "longitude": -49.286894,
+            "ordem": 204
+        },
+        {
+            "idcoordenadapercurso": 5096674,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478063,
+            "longitude": -49.286874,
+            "ordem": 205
+        },
+        {
+            "idcoordenadapercurso": 5096675,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478092,
+            "longitude": -49.286798,
+            "ordem": 206
+        },
+        {
+            "idcoordenadapercurso": 5096676,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478108,
+            "longitude": -49.286716,
+            "ordem": 207
+        },
+        {
+            "idcoordenadapercurso": 5096677,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478106,
+            "longitude": -49.286668,
+            "ordem": 208
+        },
+        {
+            "idcoordenadapercurso": 5096678,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478086,
+            "longitude": -49.286558,
+            "ordem": 209
+        },
+        {
+            "idcoordenadapercurso": 5096679,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478061,
+            "longitude": -49.286424,
+            "ordem": 210
+        },
+        {
+            "idcoordenadapercurso": 5096680,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478048,
+            "longitude": -49.286274,
+            "ordem": 211
+        },
+        {
+            "idcoordenadapercurso": 5096681,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478024,
+            "longitude": -49.286172,
+            "ordem": 212
+        },
+        {
+            "idcoordenadapercurso": 5096682,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.477999,
+            "longitude": -49.286076,
+            "ordem": 213
+        },
+        {
+            "idcoordenadapercurso": 5096683,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478070,
+            "longitude": -49.285925,
+            "ordem": 214
+        },
+        {
+            "idcoordenadapercurso": 5096684,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478140,
+            "longitude": -49.285761,
+            "ordem": 215
+        },
+        {
+            "idcoordenadapercurso": 5096685,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478192,
+            "longitude": -49.285628,
+            "ordem": 216
+        },
+        {
+            "idcoordenadapercurso": 5096686,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478252,
+            "longitude": -49.285410,
+            "ordem": 217
+        },
+        {
+            "idcoordenadapercurso": 5096687,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478561,
+            "longitude": -49.285544,
+            "ordem": 218
+        },
+        {
+            "idcoordenadapercurso": 5096688,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.478883,
+            "longitude": -49.285682,
+            "ordem": 219
+        },
+        {
+            "idcoordenadapercurso": 5096689,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.479083,
+            "longitude": -49.285768,
+            "ordem": 220
+        },
+        {
+            "idcoordenadapercurso": 5096690,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.479459,
+            "longitude": -49.285977,
+            "ordem": 221
+        },
+        {
+            "idcoordenadapercurso": 5096691,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.479846,
+            "longitude": -49.286188,
+            "ordem": 222
+        },
+        {
+            "idcoordenadapercurso": 5096692,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.480106,
+            "longitude": -49.286297,
+            "ordem": 223
+        },
+        {
+            "idcoordenadapercurso": 5096693,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.480277,
+            "longitude": -49.286364,
+            "ordem": 224
+        },
+        {
+            "idcoordenadapercurso": 5096694,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.480496,
+            "longitude": -49.286348,
+            "ordem": 225
+        },
+        {
+            "idcoordenadapercurso": 5096695,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.480701,
+            "longitude": -49.286334,
+            "ordem": 226
+        },
+        {
+            "idcoordenadapercurso": 5096696,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.480872,
+            "longitude": -49.286324,
+            "ordem": 227
+        },
+        {
+            "idcoordenadapercurso": 5096697,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.480901,
+            "longitude": -49.286396,
+            "ordem": 228
+        },
+        {
+            "idcoordenadapercurso": 5096698,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.480928,
+            "longitude": -49.286466,
+            "ordem": 229
+        },
+        {
+            "idcoordenadapercurso": 5096699,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.480957,
+            "longitude": -49.286518,
+            "ordem": 230
+        },
+        {
+            "idcoordenadapercurso": 5096700,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.481017,
+            "longitude": -49.286621,
+            "ordem": 231
+        },
+        {
+            "idcoordenadapercurso": 5096701,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.481075,
+            "longitude": -49.286688,
+            "ordem": 232
+        },
+        {
+            "idcoordenadapercurso": 5096702,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.481157,
+            "longitude": -49.286747,
+            "ordem": 233
+        },
+        {
+            "idcoordenadapercurso": 5096703,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.481235,
+            "longitude": -49.287052,
+            "ordem": 234
+        },
+        {
+            "idcoordenadapercurso": 5096704,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.481301,
+            "longitude": -49.287372,
+            "ordem": 235
+        },
+        {
+            "idcoordenadapercurso": 5096705,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.481359,
+            "longitude": -49.287694,
+            "ordem": 236
+        },
+        {
+            "idcoordenadapercurso": 5096706,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.481441,
+            "longitude": -49.288150,
+            "ordem": 237
+        },
+        {
+            "idcoordenadapercurso": 5096707,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.481594,
+            "longitude": -49.288131,
+            "ordem": 238
+        },
+        {
+            "idcoordenadapercurso": 5096708,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.481769,
+            "longitude": -49.288108,
+            "ordem": 239
+        },
+        {
+            "idcoordenadapercurso": 5096709,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482024,
+            "longitude": -49.288078,
+            "ordem": 240
+        },
+        {
+            "idcoordenadapercurso": 5096710,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482062,
+            "longitude": -49.288075,
+            "ordem": 241
+        },
+        {
+            "idcoordenadapercurso": 5096711,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482232,
+            "longitude": -49.288077,
+            "ordem": 242
+        },
+        {
+            "idcoordenadapercurso": 5096712,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482317,
+            "longitude": -49.288089,
+            "ordem": 243
+        },
+        {
+            "idcoordenadapercurso": 5096713,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482383,
+            "longitude": -49.288110,
+            "ordem": 244
+        },
+        {
+            "idcoordenadapercurso": 5096714,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482515,
+            "longitude": -49.288178,
+            "ordem": 245
+        },
+        {
+            "idcoordenadapercurso": 5096715,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482585,
+            "longitude": -49.288241,
+            "ordem": 246
+        },
+        {
+            "idcoordenadapercurso": 5096716,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482645,
+            "longitude": -49.288304,
+            "ordem": 247
+        },
+        {
+            "idcoordenadapercurso": 5096717,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482726,
+            "longitude": -49.288409,
+            "ordem": 248
+        },
+        {
+            "idcoordenadapercurso": 5096718,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482845,
+            "longitude": -49.288554,
+            "ordem": 249
+        },
+        {
+            "idcoordenadapercurso": 5096719,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.482947,
+            "longitude": -49.288685,
+            "ordem": 250
+        },
+        {
+            "idcoordenadapercurso": 5096720,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.483019,
+            "longitude": -49.288781,
+            "ordem": 251
+        },
+        {
+            "idcoordenadapercurso": 5096721,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.483093,
+            "longitude": -49.288875,
+            "ordem": 252
+        },
+        {
+            "idcoordenadapercurso": 5096722,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.483115,
+            "longitude": -49.288900,
+            "ordem": 253
+        },
+        {
+            "idcoordenadapercurso": 5096723,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.483214,
+            "longitude": -49.288958,
+            "ordem": 254
+        },
+        {
+            "idcoordenadapercurso": 5096724,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.483298,
+            "longitude": -49.288995,
+            "ordem": 255
+        },
+        {
+            "idcoordenadapercurso": 5096725,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.483413,
+            "longitude": -49.289017,
+            "ordem": 256
+        },
+        {
+            "idcoordenadapercurso": 5096726,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.483515,
+            "longitude": -49.289038,
+            "ordem": 257
+        },
+        {
+            "idcoordenadapercurso": 5096727,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.483668,
+            "longitude": -49.289101,
+            "ordem": 258
+        },
+        {
+            "idcoordenadapercurso": 5096728,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.483931,
+            "longitude": -49.289092,
+            "ordem": 259
+        },
+        {
+            "idcoordenadapercurso": 5096729,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.484193,
+            "longitude": -49.289104,
+            "ordem": 260
+        },
+        {
+            "idcoordenadapercurso": 5096730,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.484447,
+            "longitude": -49.289112,
+            "ordem": 261
+        },
+        {
+            "idcoordenadapercurso": 5096731,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.484665,
+            "longitude": -49.289117,
+            "ordem": 262
+        },
+        {
+            "idcoordenadapercurso": 5096732,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.484860,
+            "longitude": -49.289121,
+            "ordem": 263
+        },
+        {
+            "idcoordenadapercurso": 5096733,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.485263,
+            "longitude": -49.289105,
+            "ordem": 264
+        },
+        {
+            "idcoordenadapercurso": 5096734,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.485639,
+            "longitude": -49.289094,
+            "ordem": 265
+        },
+        {
+            "idcoordenadapercurso": 5096735,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.485843,
+            "longitude": -49.289090,
+            "ordem": 266
+        },
+        {
+            "idcoordenadapercurso": 5096736,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.486083,
+            "longitude": -49.289083,
+            "ordem": 267
+        },
+        {
+            "idcoordenadapercurso": 5096737,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.486314,
+            "longitude": -49.289109,
+            "ordem": 268
+        },
+        {
+            "idcoordenadapercurso": 5096738,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.486541,
+            "longitude": -49.289134,
+            "ordem": 269
+        },
+        {
+            "idcoordenadapercurso": 5096739,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.486614,
+            "longitude": -49.289167,
+            "ordem": 270
+        },
+        {
+            "idcoordenadapercurso": 5096740,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.486690,
+            "longitude": -49.289192,
+            "ordem": 271
+        },
+        {
+            "idcoordenadapercurso": 5096741,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.486714,
+            "longitude": -49.289194,
+            "ordem": 272
+        },
+        {
+            "idcoordenadapercurso": 5096742,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.486744,
+            "longitude": -49.289188,
+            "ordem": 273
+        },
+        {
+            "idcoordenadapercurso": 5096743,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.486804,
+            "longitude": -49.289151,
+            "ordem": 274
+        },
+        {
+            "idcoordenadapercurso": 5096744,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.486858,
+            "longitude": -49.289112,
+            "ordem": 275
+        },
+        {
+            "idcoordenadapercurso": 5096745,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.486990,
+            "longitude": -49.289016,
+            "ordem": 276
+        },
+        {
+            "idcoordenadapercurso": 5096746,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.487196,
+            "longitude": -49.288866,
+            "ordem": 277
+        },
+        {
+            "idcoordenadapercurso": 5096747,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.487473,
+            "longitude": -49.288635,
+            "ordem": 278
+        },
+        {
+            "idcoordenadapercurso": 5096748,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.487766,
+            "longitude": -49.288387,
+            "ordem": 279
+        },
+        {
+            "idcoordenadapercurso": 5096749,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.487943,
+            "longitude": -49.288239,
+            "ordem": 280
+        },
+        {
+            "idcoordenadapercurso": 5096750,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.488226,
+            "longitude": -49.288018,
+            "ordem": 281
+        },
+        {
+            "idcoordenadapercurso": 5096751,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.488448,
+            "longitude": -49.287842,
+            "ordem": 282
+        },
+        {
+            "idcoordenadapercurso": 5096752,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.488550,
+            "longitude": -49.287761,
+            "ordem": 283
+        },
+        {
+            "idcoordenadapercurso": 5096753,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.488724,
+            "longitude": -49.287612,
+            "ordem": 284
+        },
+        {
+            "idcoordenadapercurso": 5096754,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.489030,
+            "longitude": -49.287354,
+            "ordem": 285
+        },
+        {
+            "idcoordenadapercurso": 5096755,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.489309,
+            "longitude": -49.287117,
+            "ordem": 286
+        },
+        {
+            "idcoordenadapercurso": 5096756,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.489603,
+            "longitude": -49.286866,
+            "ordem": 287
+        },
+        {
+            "idcoordenadapercurso": 5096757,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.489787,
+            "longitude": -49.286712,
+            "ordem": 288
+        },
+        {
+            "idcoordenadapercurso": 5096758,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.489983,
+            "longitude": -49.286543,
+            "ordem": 289
+        },
+        {
+            "idcoordenadapercurso": 5096759,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.490259,
+            "longitude": -49.286316,
+            "ordem": 290
+        },
+        {
+            "idcoordenadapercurso": 5096760,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.490327,
+            "longitude": -49.286269,
+            "ordem": 291
+        },
+        {
+            "idcoordenadapercurso": 5096761,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.490404,
+            "longitude": -49.286223,
+            "ordem": 292
+        },
+        {
+            "idcoordenadapercurso": 5096762,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.490450,
+            "longitude": -49.286196,
+            "ordem": 293
+        },
+        {
+            "idcoordenadapercurso": 5096763,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.490492,
+            "longitude": -49.286176,
+            "ordem": 294
+        },
+        {
+            "idcoordenadapercurso": 5096764,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.490592,
+            "longitude": -49.286126,
+            "ordem": 295
+        },
+        {
+            "idcoordenadapercurso": 5096765,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.490878,
+            "longitude": -49.285985,
+            "ordem": 296
+        },
+        {
+            "idcoordenadapercurso": 5096766,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.491092,
+            "longitude": -49.285895,
+            "ordem": 297
+        },
+        {
+            "idcoordenadapercurso": 5096767,
+            "idpercurso": 17443,
+            "descricaoPercurso": "666_Novo Mundo_002_Novo Mundo.gpx",
+            "latitude": -25.491317,
+            "longitude": -49.285801,
+            "ordem": 298
+        }
+    ]
+}
